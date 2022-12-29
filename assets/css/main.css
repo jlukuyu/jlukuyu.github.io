@@ -2301,12 +2301,12 @@ button,
         -moz-flex-shrink: 1;
         -webkit-flex-shrink: 1;
         -ms-flex-shrink: 1;
-        flex-shrink: 1;
+        flex-shrink: 3;
         display: block;
-        margin: 0 0 2em 1em;
-        width: 50%; }
+        margin: 0em 1em 1em 1em;
+        width: 100%; }
         #bio .image img {
-          height: 70%;
+          height: 100%;
           -moz-object-fit: cover;
           -webkit-object-fit: cover;
           -ms-object-fit: cover;
@@ -2315,7 +2315,7 @@ button,
           -webkit-object-position: center;
           -ms-object-position: center;
           object-position: center;
-          width: 50%; }
+          width: 100%; }
       @media screen and (orientation: portrait) {
         #bio {
           -moz-flex-direction: column-reverse;
