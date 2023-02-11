@@ -2354,3 +2354,11 @@ button,
 
 
 #hide_not_ready { display: none;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: center;
+}
