@@ -1,0 +1,456 @@
+[
+  {
+    "slug": "seer",
+    "title": "SEER — Sustainable Electricity Expansion Roadmaps",
+    "status": "Ongoing",
+    "summary": "Democratizing power systems planning for a robust and sustainable energy transition.",
+    "partners": [
+      "Rhiza Research (lead)",
+      "University of Washington"
+    ],
+    "funding": "Climate Change AI · 2025 Innovation Grants",
+    "overview": [
+      "Power system planning shapes investments in generation and grid infrastructure. Fragmented data and inaccessible tools can limit participation in these decisions, particularly in the Global South. SEER aims to make planning faster, more flexible, and more accessible to energy-sector stakeholders.",
+      "The project is developing an open dataset to support machine learning approaches, including automated input-data generation and models that approximate optimization solvers. Collaboration with planning practitioners is central to making the tools useful for real decisions."
+    ],
+    "resources": [
+      {
+        "title": "SEER project overview",
+        "href": "https://www.climatechange.ai/innovation_grants/2025/2",
+        "kind": "Funder project profile",
+        "note": "Project objectives, investigators, and grant information."
+      },
+      {
+        "title": "SEER at Rhiza Research",
+        "href": "https://rhizaresearch.org/",
+        "kind": "Lead partner overview",
+        "note": "Planned dataset, scenarios, and collaboration with June Lukuyu and Ahana Mukherjee."
+      },
+      {
+        "title": "Climate Change AI announces Innovation Grantees",
+        "href": "https://www.climatechange.ai/press_releases/2026-04-29/release",
+        "kind": "Funding announcement · 29 April 2026",
+        "note": "SEER is among the projects featured in this funding announcement."
+      },
+      {
+        "title": "June Lukuyu’s SEER update",
+        "href": "https://www.linkedin.com/posts/junelukuyu_were-incredibly-grateful-to-climate-change-activity-7457099994685132800-Ffgd",
+        "kind": "Public update · LinkedIn",
+        "note": "An update on the collaboration and its focus on accessible power systems planning. LinkedIn may require sign-in."
+      }
+    ],
+    "publications": [],
+    "people": [
+      "ahana-mukherjee"
+    ],
+    "sources": [
+      {
+        "title": "SEER project overview",
+        "href": "https://www.climatechange.ai/innovation_grants/2025/2",
+        "kind": "Funder project profile",
+        "note": "Project objectives, investigators, and grant information."
+      },
+      {
+        "title": "SEER at Rhiza Research",
+        "href": "https://rhizaresearch.org/",
+        "kind": "Lead partner overview",
+        "note": "Planned dataset, scenarios, and collaboration with June Lukuyu and Ahana Mukherjee."
+      }
+    ],
+    "subtitle": "Democratizing power systems planning for a robust and sustainable energy transition",
+    "team": [
+      "Mohini Bariya · Rhiza Research",
+      "June Lukuyu · University of Washington",
+      "Joshua Adkins · Rhiza Research",
+      "Genevieve Flaspohler · Rhiza Research"
+    ],
+    "teamLabel": "PI and co-investigators",
+    "approach": [
+      {
+        "title": "Build the evidence base",
+        "text": "Curate planning inputs and outputs from national studies, including demand profiles, costs, and grid information."
+      },
+      {
+        "title": "Develop learning scenarios",
+        "text": "Rhiza describes a target of 15+ countries and 75,000 training scenarios to support machine learning for planning."
+      },
+      {
+        "title": "Make planning accessible",
+        "text": "Combine faster planning models with interactive visualization to help planners and policymakers explore alternatives."
+      }
+    ],
+    "approachNote": "These are project development goals, not an announcement of a completed dataset or tool release.",
+    "publicationsNote": "SEER-specific publication links have not yet been added.",
+    "releaseNote": "Open datasets and machine learning tools are in development. Public download and code links will be added when available."
+  },
+  {
+    "slug": "electric-cooking-nairobi",
+    "title": "Transition to Electric Cooking in Informal Settlements in Nairobi",
+    "status": "Ongoing",
+    "summary": "Investigating the transition to electric cooking in Nairobi’s informal settlements.",
+    "partners": [
+      "eGUIDE initiative",
+      "Dr. Austine Otieno",
+      "Paul Kyoma"
+    ],
+    "funding": "",
+    "overview": [
+      "Investigating the transition to electric cooking in Nairobi’s informal settlements."
+    ],
+    "resources": [
+      {
+        "title": "The hidden role of e-boiling in clean cooking",
+        "href": "https://nextbillion.net/hidden-role-of-e-boiling-in-clean-cooking-how-nairobis-informal-settlements-are-quietly-powering-electric-transition/",
+        "kind": "Story · NextBillion",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "electric-bus-kigali",
+    "title": "Multi-Stakeholder Perspectives of Electric Bus Service in Kigali, Rwanda",
+    "status": "Past",
+    "summary": "Understanding passenger satisfaction and perceptions of electric bus services in Kigali.",
+    "partners": [
+      "University of Rwanda",
+      "STIMA Lab, UMass Amherst"
+    ],
+    "funding": "BasiGo",
+    "overview": [
+      "The project examines multiple stakeholder perspectives on electric bus services in Kigali, Rwanda.",
+      "In August 2024, Miquilina Anagbah led data collection with University of Rwanda students. Surveys with about 800 electric and diesel bus passengers examined service satisfaction and perceptions of electric buses."
+    ],
+    "resources": [
+      {
+        "title": "Kigali Data Collection: August 2024",
+        "route": "post/kigali-data-collection-august-2024",
+        "kind": "Lab story",
+        "note": ""
+      },
+      {
+        "title": "BasiGo Rwanda",
+        "href": "https://www.basi-go.com/rwanda",
+        "kind": "Project supporter",
+        "note": ""
+      },
+      {
+        "title": "STIMA Lab",
+        "href": "https://websites.umass.edu/jtaneja/",
+        "kind": "Project partner",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [
+      "miquilina-anagbah"
+    ],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ],
+    "image": {
+      "src": "kigali-data-collection-august-2024-0.jpg",
+      "alt": "IDEAS Lab electric bus project fieldwork in Kigali",
+      "caption": "Fieldwork for the Kigali electric bus study, August 2024."
+    }
+  },
+  {
+    "slug": "core",
+    "title": "CORE — Community Owned Renewable Electrification",
+    "status": "Ongoing",
+    "summary": "Research and collaboration on community-owned renewable electrification.",
+    "partners": [
+      "Mercy Corps (lead)",
+      "Murty International",
+      "Kigali Collaborative Research Center (KCRC)"
+    ],
+    "funding": "UKPACT",
+    "overview": [
+      "Research and collaboration on community-owned renewable electrification."
+    ],
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "mini-grid-demand-fiji",
+    "title": "Comparing Gamification and Conventional Survey Approaches for Mini-Grid Demand Estimation in Fiji",
+    "status": "Past",
+    "summary": "Comparing gamification with conventional surveys as approaches to estimating mini-grid electricity demand in Fiji.",
+    "partners": [
+      "LEAPS, Arizona State University (lead)"
+    ],
+    "funding": "",
+    "overview": [
+      "Comparing gamification with conventional surveys as approaches to estimating mini-grid electricity demand in Fiji."
+    ],
+    "resources": [
+      {
+        "title": "LEAPS at Arizona State University",
+        "href": "https://leaps.asu.edu/",
+        "kind": "Lead partner",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "community-demand-response",
+    "title": "Climate and Equity Considerations for Community-Based Demand Response Strategies in the Pacific Northwest",
+    "status": "Past",
+    "summary": "Examining climate and equity in community-based demand response in the Pacific Northwest.",
+    "partners": [
+      "Baozen Zhang"
+    ],
+    "funding": "UW Clean Energy Institute",
+    "overview": [
+      "Examining climate and equity in community-based demand response in the Pacific Northwest."
+    ],
+    "resources": [
+      {
+        "title": "UW Clean Energy Institute collaborative seed grants",
+        "href": "https://www.cei.washington.edu/research/collaborative-seed-grants/",
+        "kind": "Funding program",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "rwanda-energy-demand",
+    "title": "Energy Transition Demand Modeling Study for Rwanda",
+    "status": "Ongoing",
+    "summary": "Studying household energy use and opportunities for electricity demand growth in Rwanda.",
+    "partners": [
+      "Kigali Collaborative Research Center (KCRC)",
+      "Rwanda Energy Group",
+      "eGUIDE initiative"
+    ],
+    "funding": "",
+    "overview": [
+      "The study examines energy-transition demand in Rwanda in collaboration with KCRC, Rwanda Energy Group, and the eGUIDE initiative.",
+      "From May to August 2025, Eliane Nirere participated in fieldwork surveying more than 2,000 low-income households in Kigali. About 370 participating households received efficient electric kettles through a cost-sharing scheme, with electricity and appliance use to be monitored over six months."
+    ],
+    "resources": [
+      {
+        "title": "Kigali Data Collection: May - Aug 2025",
+        "route": "post/kigali-data-collection-may-aug-2025",
+        "kind": "Lab story",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [
+      "eliane-nirere"
+    ],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ],
+    "image": {
+      "src": "kigali-data-collection-may-aug-2025-0.jpeg",
+      "alt": "Household energy study fieldwork in Kigali",
+      "caption": "Kigali data collection, May–August 2025."
+    }
+  },
+  {
+    "slug": "energizing-communities",
+    "title": "Energizing Communities: An Interdisciplinary Approach to Rural Electrification Planning",
+    "status": "Past",
+    "summary": "An interdisciplinary approach to planning rural electrification.",
+    "partners": [],
+    "funding": "UW Royalty Research Fund",
+    "overview": [
+      "An interdisciplinary approach to planning rural electrification."
+    ],
+    "resources": [
+      {
+        "title": "UW Royalty Research Fund",
+        "href": "https://www.washington.edu/research/or/royalty-research-fund-rrf/",
+        "kind": "Funding program",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "grid-loss-localization",
+    "title": "From Observing Power to Improving Power: Loss Localization in the Distribution Grid through Topology",
+    "status": "Past",
+    "summary": "Developing data-driven approaches to understand distribution grids and localize losses.",
+    "partners": [
+      "nLine Inc."
+    ],
+    "funding": "Climate Change AI",
+    "overview": [
+      "Developing data-driven approaches to understand distribution grids and localize losses."
+    ],
+    "resources": [
+      {
+        "title": "Project overview",
+        "href": "https://www.climatechange.ai/innovation_grants/2023/6",
+        "kind": "Funder project profile",
+        "note": ""
+      },
+      {
+        "title": "Helping global grids work smarter, not harder",
+        "href": "https://www.climatechange.ai/blog/2024-08-29-ghana-power-grid",
+        "kind": "Project story · 29 August 2024",
+        "note": ""
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [
+      {
+        "title": "Original lab project listing",
+        "href": "https://www.junelukuyu.com/research",
+        "kind": "Project resource",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "slug": "electric-three-wheelers-india",
+    "title": "Charging infrastructure for electric three-wheelers",
+    "status": "Research",
+    "summary": "Research on charging infrastructure planning for electric three-wheelers in India, developed from Summer 2024. The Spring 2026 manuscript focuses on distributed, solar-based charging for electric autorickshaws in West Bengal.",
+    "partners": [],
+    "funding": "",
+    "overview": [
+      "Research on charging infrastructure planning for electric three-wheelers in India, developed from Summer 2024. The Spring 2026 manuscript focuses on distributed, solar-based charging for electric autorickshaws in West Bengal."
+    ],
+    "resources": [
+      {
+        "title": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+        "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase",
+        "kind": "Lab story",
+        "note": ""
+      }
+    ],
+    "publications": [
+      {
+        "title": "Powering the Last Mile: Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India",
+        "kind": "Manuscript · Submitted Spring 2026",
+        "note": "A public manuscript link has not yet been added."
+      },
+      {
+        "title": "Distributed and Equitable Charging for Electric Three-Wheelers",
+        "kind": "Research poster · 2025",
+        "href": "https://www.ece.uw.edu/wp-content/uploads/2025/03/Ahana-Mukherjee_Distributed_and_Equitable_Charging_for_Electric_Three_Wheelers.pdf",
+        "note": "Presented at the UW ECE Research Showcase; received the Best Overall Research award."
+      }
+    ],
+    "people": [
+      "ahana-mukherjee"
+    ],
+    "sources": [
+      {
+        "title": "Ahana’s research timeline",
+        "route": "our-team/ahana-mukherjee"
+      }
+    ],
+    "image": {
+      "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-2.png",
+      "alt": "Award presentation at the 2025 UW ECE Research Showcase",
+      "caption": "Research recognition at the 2025 UW ECE Research Showcase."
+    }
+  },
+  {
+    "slug": "economic-environmental-heterogeneity",
+    "title": "Economic & environmental heterogeneity",
+    "status": "Research",
+    "summary": "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026.",
+    "partners": [],
+    "funding": "",
+    "overview": [
+      "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026."
+    ],
+    "resources": [],
+    "publications": [],
+    "people": [
+      "ahana-mukherjee"
+    ],
+    "sources": [
+      {
+        "title": "Ahana’s research timeline",
+        "route": "our-team/ahana-mukherjee"
+      }
+    ]
+  },
+  {
+    "slug": "electric-cooking-kampala",
+    "title": "Electric cooking in Kampala",
+    "status": "Research",
+    "summary": "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024.",
+    "partners": [],
+    "funding": "",
+    "overview": [
+      "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024."
+    ],
+    "resources": [],
+    "publications": [],
+    "people": [
+      "ahana-mukherjee"
+    ],
+    "sources": [
+      {
+        "title": "Ahana’s research timeline",
+        "route": "our-team/ahana-mukherjee"
+      }
+    ]
+  }
+]

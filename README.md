@@ -19,7 +19,8 @@ Examples: “Add this paper to our publications”; “Add a team member with th
 - `papers.json`: featured publication titles, authors, abstracts, links.
 - `posts.json`: news titles, article text, images, and links.
 - `home.json`: homepage source content.
-- `research.json`: research projects and partner links.
+- `projects.json`: canonical project pages, summaries, collaborators, publications, stories, and source links.
+- `research.json`: original project source material and geographic engagement map.
 - `opportunities.json`: student recruitment notice and contact details.
 - `styles.css`: colors, typography, and responsive layout.
 - `build.mjs`: page layouts, navigation, shared research themes.
@@ -49,3 +50,11 @@ Timeline entries use `quarter`, numeric `year`, `title`, `activities`, and `link
 Ahana Mukherjee's initial timeline was transcribed from the supplied *PhD Timeline_AMukherjee.docx* in September 2026. Preserve its quarter assignments; Autumn 2026 activities are scheduled, and the Spring 2026 manuscript is submitted, not published. Photos and the research poster link come from existing lab news content. Do not infer completion or invent links for unpublished outputs. Other student timelines are intentionally empty until supplied.
 
 Example update request: “Add Ahana's Winter 2027 milestones and this publication link to her research timeline.”
+
+## Project pages
+
+Every record in `projects.json` generates `research/<slug>/` and a card on the Research page. Keep stable slugs. Edit overview paragraphs, partners, funding, publications, resources (stories/coverage), sources, and optional people (student slugs), team, approach, or image fields. Resource entries accept `title`, `kind`, `note`, and either `href` or `route`; omit both for an output without a public link. Student project records link to the canonical page using `projectSlug` and route links. Preserve student card IDs to retain existing timeline anchors.
+
+SEER is connected to Ahana's machine learning-enabled power systems planning work per the site owner's instruction and Rhiza Research's collaborator listing. Its overview and approach are based on Rhiza Research and Climate Change AI's 2025 grant profile, with funding news dated April 29, 2026. Targets and tools under development must not be presented as completed releases. No SEER-specific paper or released dataset/code was verified when this page was prepared. The 2023 grid-loss project and its 2024 story are separate from SEER.
+
+Other project pages retain the lab's existing project statuses and source details. Link publications only when their project relationship is established; topic similarity alone is insufficient.
