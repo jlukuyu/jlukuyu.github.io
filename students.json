@@ -153,8 +153,8 @@
             "href": "#project-electric-mobility"
           },
           {
-            "label": "Power systems planning project",
-            "href": "#project-power-systems"
+            "label": "SEER: power systems planning",
+            "route": "research/seer"
           }
         ]
       },
@@ -177,6 +177,10 @@
           {
             "label": "Economic sectors project",
             "href": "#project-economic-sectors"
+          },
+          {
+            "label": "SEER: power systems planning",
+            "route": "research/seer"
           }
         ]
       },
@@ -192,6 +196,10 @@
           {
             "label": "Manuscript details",
             "href": "#output-last-mile"
+          },
+          {
+            "label": "SEER: power systems planning",
+            "route": "research/seer"
           }
         ]
       },
@@ -207,12 +215,12 @@
         ],
         "links": [
           {
-            "label": "Power systems planning project",
-            "href": "#project-power-systems"
-          },
-          {
             "label": "Economic sectors project",
             "href": "#project-economic-sectors"
+          },
+          {
+            "label": "SEER: power systems planning",
+            "route": "research/seer"
           }
         ]
       },
@@ -235,6 +243,10 @@
         "description": "Research on charging infrastructure planning for electric three-wheelers in India, developed from Summer 2024. The Spring 2026 manuscript focuses on distributed, solar-based charging for electric autorickshaws in West Bengal.",
         "links": [
           {
+            "label": "Explore the project →",
+            "route": "research/electric-three-wheelers-india"
+          },
+          {
             "label": "Research poster (PDF)",
             "href": "https://www.ece.uw.edu/wp-content/uploads/2025/03/Ahana-Mukherjee_Distributed_and_Equitable_Charging_for_Electric_Three_Wheelers.pdf"
           },
@@ -242,18 +254,24 @@
             "label": "Submitted manuscript",
             "href": "#output-last-mile"
           }
-        ]
+        ],
+        "projectSlug": "electric-three-wheelers-india"
       },
       {
         "id": "power-systems",
         "title": "Machine learning for power systems planning",
-        "description": "Exploratory work on machine learning-enabled power systems capacity expansion planning began in Autumn 2025, with project development in Summer 2026.",
+        "description": "Exploratory work on machine learning-enabled power systems capacity expansion planning began in Autumn 2025, with project development in Summer 2026. This work contributes to SEER — Sustainable Electricity Expansion Roadmaps, led by Rhiza Research in collaboration with the University of Washington and supported by Climate Change AI.",
         "links": [
+          {
+            "label": "Explore SEER →",
+            "route": "research/seer"
+          },
           {
             "label": "Summer 2026 activities",
             "href": "#quarter-summer-2026"
           }
-        ]
+        ],
+        "projectSlug": "seer"
       },
       {
         "id": "economic-sectors",
@@ -261,10 +279,15 @@
         "description": "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026.",
         "links": [
           {
+            "label": "Explore the project →",
+            "route": "research/economic-environmental-heterogeneity"
+          },
+          {
             "label": "Winter 2026 activities",
             "href": "#quarter-winter-2026"
           }
-        ]
+        ],
+        "projectSlug": "economic-environmental-heterogeneity"
       },
       {
         "id": "electric-cooking",
@@ -272,10 +295,15 @@
         "description": "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024.",
         "links": [
           {
+            "label": "Explore the project →",
+            "route": "research/electric-cooking-kampala"
+          },
+          {
             "label": "Winter 2024 activities",
             "href": "#quarter-winter-2024"
           }
-        ]
+        ],
+        "projectSlug": "electric-cooking-kampala"
       }
     ],
     "outputs": [
