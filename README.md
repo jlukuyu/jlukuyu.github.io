@@ -15,6 +15,7 @@ Examples: “Add this paper to our publications”; “Add a team member with th
 ## Content files
 
 - `people.json`: team names, biographies, profile links, photographs.
+- `students.json`: PhD student timelines, projects, outputs, links, and timeline images (keyed by the `slug` in `people.json`).
 - `papers.json`: featured publication titles, authors, abstracts, links.
 - `posts.json`: news titles, article text, images, and links.
 - `home.json`: homepage source content.
@@ -38,3 +39,13 @@ The generated pages are in `out/`. Preview that directory using a static web ser
 Content was migrated from junelukuyu.com on September 9, 2026. Recruitment and project status reflect that source. The original Wix site and private jlukuyu.github.io repository are unchanged.
 
 Wix comments, member login, and blog search are not included. One PDF mentioned in the NYC Climate Week article could not be downloaded from the source and needs the original file. External publication and partner links remain external.
+
+## Student pages
+
+Each PhD student in `people.json` has a stable `slug` and a page at `our-team/<slug>/`. Update their entry in `students.json` to add quarterly milestones, projects, outputs, and photographs. The timeline scrolls with the page and includes year navigation.
+
+Timeline entries use `quarter`, numeric `year`, `title`, `activities`, and `links`; optional `status` marks scheduled work, and optional `image` has `src`, `alt`, and `caption`. Keep entries in chronological order. Links use `label` with either `route` (an internal page without leading or trailing slash) or `href` (an external URL or same-page anchor). Keep image files in the repository root. Projects have `id`, `title`, `description`, and `links`; outputs have `id`, `type`, `title`, `note`, and `links`.
+
+Ahana Mukherjee's initial timeline was transcribed from the supplied *PhD Timeline_AMukherjee.docx* in September 2026. Preserve its quarter assignments; Autumn 2026 activities are scheduled, and the Spring 2026 manuscript is submitted, not published. Photos and the research poster link come from existing lab news content. Do not infer completion or invent links for unpublished outputs. Other student timelines are intentionally empty until supplied.
+
+Example update request: “Add Ahana's Winter 2027 milestones and this publication link to her research timeline.”

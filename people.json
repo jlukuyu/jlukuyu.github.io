@@ -11,34 +11,39 @@
     "role": "PhD Student",
     "bio": "Eliane earned her master's degree in Electrical and Computer Engineering with a specialization in Energy Systems from Carnegie Mellon University Africa. Her research focuses on the planning and implementation of technologies that enhance sustainable energy access in underserved communities.",
     "url": "https://www.linkedin.com/in/eliane-nirere-3ab360174",
-    "image": "person-1.jpg"
+    "image": "person-1.jpg",
+    "slug": "eliane-nirere"
   },
   {
     "name": "Ahana Mukherjee",
     "role": "PhD Student",
     "bio": "Ahana has a bachelor's degree in Civil & Environmental Engineering from UCLA and a master's degree in Energy, Civil Infrastructure, and Climate from UC Berkeley. She has experience designing and implementing utility-scale battery energy storage systems and commercial solar and electric vehicle charging infrastructure. Her research interests include renewable energy power systems, electrification, energy access, and socially-conscious equitable designs.",
     "url": "https://www.linkedin.com/in/ahana-mukherjee-a145aa55",
-    "image": "person-2.jpg"
+    "image": "person-2.jpg",
+    "slug": "ahana-mukherjee"
   },
   {
     "name": "Kwame Donkor",
     "role": "PhD Student",
     "bio": "Kwame is passionate about enhancing the reliability and sustainability of electrical grid systems through data analytics. He is excited about the possibilities of using data from grids and renewable energy sources to meet demand shortfalls and provide cheaper, better-quality electricity for underserved communities. Kwame has extensive experience in the electrical services and automation industry in Accra, Ghana, and is drawn to autonomous systems. In his free time, he enjoys the occasional Netflix binge, playing football (not the American one!), taking long walks, exploring the outdoors, and spending time with friends.",
     "url": "https://www.linkedin.com/in/ing-kwame-donkor",
-    "image": "person-3.jpg"
+    "image": "person-3.jpg",
+    "slug": "kwame-donkor"
   },
   {
     "name": "Miquilina Anagbah",
     "role": "PhD Student",
     "bio": "Miquilina's passion for clean energy access and mini-grid development is electrifying! With a strong foundation in power systems analysis, design, and operations, Miquilina aims to revolutionize how we think about electrification for sustainable development. She earned her Master's in Electrical and Computer Engineering from Carnegie Mellon University Africa. Her research dives deep into mini-grid techno-economic analyses and grid integration studies and looks for new ways to push the boundaries of what's possible. Outside the lab, she loves studying new languages and playing the piano.",
     "url": "https://rw.linkedin.com/in/miquilinaanagbah",
-    "image": "person-4.jpg"
+    "image": "person-4.jpg",
+    "slug": "miquilina-anagbah"
   },
   {
     "name": "Aya Alayli",
     "role": "PhD Student",
     "bio": "Aya has a strong passion for grid planning, sustainable development, policy, and energy equity. She earned her Bachelor's from the Electrical and Computer Engineering department here at UW and has previous experience working within different aspects of the electric power industry. Her research interests center around community-led energy transitions, energy justice, and resiliency. Outside of the lab, Aya enjoys exploring Seattle, reading, and spending time outdoors",
     "url": "https://www.linkedin.com/in/ayaalayli",
-    "image": "person-5.png"
+    "image": "person-5.png",
+    "slug": "aya-alayli"
   }
 ]
