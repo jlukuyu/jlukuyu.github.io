@@ -1,0 +1,335 @@
+{
+  "eliane-nirere": {
+    "timeline": [],
+    "projects": [],
+    "outputs": []
+  },
+  "ahana-mukherjee": {
+    "timeline": [
+      {
+        "quarter": "Autumn 2023",
+        "year": 2023,
+        "title": "Joining IDEAS Lab",
+        "activities": [
+          "Entered PhD program at University of Washington, Department of Electrical & Computer Engineering",
+          "Joined IDEAS lab"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Winter 2024",
+        "year": 2024,
+        "title": "Electric cooking & energy access",
+        "activities": [
+          "Supporting quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda"
+        ],
+        "links": [
+          {
+            "label": "Electric cooking project",
+            "href": "#project-electric-cooking"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2024",
+        "year": 2024,
+        "title": "Exploring electric mobility",
+        "activities": [
+          "Ideating and initial research exploration on e-mobility in Southeast Asia"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Summer 2024",
+        "year": 2024,
+        "title": "Research, mentorship & exchange",
+        "activities": [
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India",
+          "Co-mentored two undergraduate students researching equitable access to clean energy in Washington state and electricity payment behaviors among rural mini grid customers in Uganda",
+          "Attended ORCAS Conference on Energy Conversion & Storage",
+          "Attended e-Guide Retreat"
+        ],
+        "links": [
+          {
+            "label": "Undergraduate research story",
+            "route": "post/summer-2024-undergraduate-research-experience"
+          },
+          {
+            "label": "eGUIDE retreat story",
+            "route": "post/eguide-annual-retreat-in-rochester-ny-september-12-14-2024"
+          },
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          }
+        ],
+        "image": {
+          "src": "summer-2024-undergraduate-research-experience-0.png",
+          "alt": "Undergraduate research poster discussion at the University of Washington",
+          "caption": "Summer 2024 undergraduate research at IDEAS Lab."
+        }
+      },
+      {
+        "quarter": "Autumn 2024",
+        "year": 2024,
+        "title": "Clean Energy Institute fellowship",
+        "activities": [
+          "University of Washington Clean Energy Institute Fellow",
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India"
+        ],
+        "links": [
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter 2025",
+        "year": 2025,
+        "title": "Charging infrastructure research",
+        "activities": [
+          "University of Washington Clean Energy Institute Fellow",
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India"
+        ],
+        "links": [
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2025",
+        "year": 2025,
+        "title": "Research showcase & qualifying exam",
+        "activities": [
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India",
+          "Qualifying Exam",
+          "Poster presentation at UW ECE Research Showcase – Best Overall Research award",
+          "University of Washington Clean Energy Institute Fellow",
+          "Teaching Assistant for EE 559: Energy, Sustainability & Society"
+        ],
+        "links": [
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          },
+          {
+            "label": "View research poster (PDF)",
+            "href": "https://www.ece.uw.edu/wp-content/uploads/2025/03/Ahana-Mukherjee_Distributed_and_Equitable_Charging_for_Electric_Three_Wheelers.pdf"
+          },
+          {
+            "label": "Research showcase story",
+            "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+          }
+        ],
+        "image": {
+          "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-2.png",
+          "alt": "Research award presentation at the 2025 UW ECE Research Showcase",
+          "caption": "Celebrating research at the 2025 UW ECE Research Showcase."
+        }
+      },
+      {
+        "quarter": "Summer 2025",
+        "year": 2025,
+        "title": "National laboratory internship",
+        "activities": [
+          "Internship at Lawrence Livermore National Laboratory in Cybersecurity and Critical Infrastructure department"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2025",
+        "year": 2025,
+        "title": "Expanding the research agenda",
+        "activities": [
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India",
+          "Initial exploratory work on machine learning-enabled power systems capacity expansion planning"
+        ],
+        "links": [
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          },
+          {
+            "label": "Power systems planning project",
+            "href": "#project-power-systems"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter 2026",
+        "year": 2026,
+        "title": "Teaching, mentorship & new research",
+        "activities": [
+          "Developing research project investigating charging infrastructure planning for electric three-wheelers in India",
+          "Initial exploratory work on machine learning-enabled power systems capacity expansion planning",
+          "Developing research project investigating economic and environmental heterogeneity within economic sectors in Global South countries",
+          "Pre-Doctoral Instructor for EE 559: Energy, Sustainability, & Society",
+          "Mentored undergraduate student researching community benefit agreements in utility-scale energy projects"
+        ],
+        "links": [
+          {
+            "label": "Charging infrastructure project",
+            "href": "#project-electric-mobility"
+          },
+          {
+            "label": "Economic sectors project",
+            "href": "#project-economic-sectors"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2026",
+        "year": 2026,
+        "title": "Powering the Last Mile",
+        "activities": [
+          "Submitted manuscript Powering the Last Mile: Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India",
+          "Initial exploratory work on machine learning-enabled power systems capacity expansion planning"
+        ],
+        "links": [
+          {
+            "label": "Manuscript details",
+            "href": "#output-last-mile"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2026",
+        "year": 2026,
+        "title": "Research exchange & AI training",
+        "activities": [
+          "Developing research project investigating economic and environmental heterogeneity within economic sectors in Global South countries",
+          "Developing research project on machine learning-enabled power systems capacity expansion planning",
+          "Presentation at Sustainable Energy Transition Initiative (SETI) Virtual Workshop",
+          "Attended e-Science AI in Practice Summer Institute"
+        ],
+        "links": [
+          {
+            "label": "Power systems planning project",
+            "href": "#project-power-systems"
+          },
+          {
+            "label": "Economic sectors project",
+            "href": "#project-economic-sectors"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn 2026",
+        "year": 2026,
+        "title": "Upcoming milestones",
+        "activities": [
+          "General Exam (scheduled)",
+          "Poster presentation at Open Source Energy Access Symposium (OSEAS) (scheduled)"
+        ],
+        "links": [],
+        "status": "Scheduled"
+      }
+    ],
+    "projects": [
+      {
+        "id": "electric-mobility",
+        "title": "Charging infrastructure for electric three-wheelers",
+        "description": "Research on charging infrastructure planning for electric three-wheelers in India, developed from Summer 2024. The Spring 2026 manuscript focuses on distributed, solar-based charging for electric autorickshaws in West Bengal.",
+        "links": [
+          {
+            "label": "Research poster (PDF)",
+            "href": "https://www.ece.uw.edu/wp-content/uploads/2025/03/Ahana-Mukherjee_Distributed_and_Equitable_Charging_for_Electric_Three_Wheelers.pdf"
+          },
+          {
+            "label": "Submitted manuscript",
+            "href": "#output-last-mile"
+          }
+        ]
+      },
+      {
+        "id": "power-systems",
+        "title": "Machine learning for power systems planning",
+        "description": "Exploratory work on machine learning-enabled power systems capacity expansion planning began in Autumn 2025, with project development in Summer 2026.",
+        "links": [
+          {
+            "label": "Summer 2026 activities",
+            "href": "#quarter-summer-2026"
+          }
+        ]
+      },
+      {
+        "id": "economic-sectors",
+        "title": "Economic & environmental heterogeneity",
+        "description": "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026.",
+        "links": [
+          {
+            "label": "Winter 2026 activities",
+            "href": "#quarter-winter-2026"
+          }
+        ]
+      },
+      {
+        "id": "electric-cooking",
+        "title": "Electric cooking in Kampala",
+        "description": "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024.",
+        "links": [
+          {
+            "label": "Winter 2024 activities",
+            "href": "#quarter-winter-2024"
+          }
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "id": "last-mile",
+        "type": "Manuscript · Submitted Spring 2026",
+        "title": "Powering the Last Mile: Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India",
+        "note": "Submitted manuscript. A public manuscript link has not yet been added.",
+        "links": [
+          {
+            "label": "Related project",
+            "href": "#project-electric-mobility"
+          }
+        ]
+      },
+      {
+        "id": "research-poster",
+        "type": "Research poster · 2025",
+        "title": "Distributed and Equitable Charging for Electric Three-Wheelers",
+        "note": "Presented at the UW ECE Research Showcase; received the Best Overall Research award.",
+        "links": [
+          {
+            "label": "View poster (PDF)",
+            "href": "https://www.ece.uw.edu/wp-content/uploads/2025/03/Ahana-Mukherjee_Distributed_and_Equitable_Charging_for_Electric_Three_Wheelers.pdf"
+          },
+          {
+            "label": "Read the lab story",
+            "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+          }
+        ]
+      },
+      {
+        "id": "seti",
+        "type": "Presentation · Summer 2026",
+        "title": "Sustainable Energy Transition Initiative (SETI) Virtual Workshop",
+        "note": "Presented in Summer 2026. Presentation materials have not yet been added.",
+        "links": []
+      }
+    ],
+    "updated": "September 2026"
+  },
+  "kwame-donkor": {
+    "timeline": [],
+    "projects": [],
+    "outputs": []
+  },
+  "miquilina-anagbah": {
+    "timeline": [],
+    "projects": [],
+    "outputs": []
+  },
+  "aya-alayli": {
+    "timeline": [],
+    "projects": [],
+    "outputs": []
+  }
+}
