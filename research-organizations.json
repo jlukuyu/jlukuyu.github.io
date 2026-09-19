@@ -1,0 +1,65 @@
+{
+  "ccai": {
+    "name": "Climate Change AI",
+    "url": "https://www.climatechange.ai/",
+    "logo": "research-logo-ccai.png"
+  },
+  "uw": {
+    "name": "UW Royalty Research Fund",
+    "url": "https://www.washington.edu/research/or/royalty-research-fund-rrf/",
+    "logo": "research-logo-uw.png"
+  },
+  "rhiza": {
+    "name": "Rhiza Research",
+    "url": "https://rhizaresearch.org/",
+    "logo": "research-logo-rhiza.png"
+  },
+  "ukpact": {
+    "name": "UK PACT",
+    "url": "https://www.ukpact.co.uk/",
+    "logo": "research-logo-ukpact.svg"
+  },
+  "basigo": {
+    "name": "BasiGo",
+    "url": "https://www.basi-go.com/",
+    "logo": "research-logo-basigo.png"
+  },
+  "umn": {
+    "name": "University of Minnesota",
+    "url": "https://www.hhh.umn.edu/directory/elise-harrington",
+    "logo": "research-logo-umn.jpg"
+  },
+  "nline": {
+    "name": "nLine",
+    "url": "https://nline.io/",
+    "logo": "research-logo-nline.png"
+  },
+  "stima": {
+    "name": "STIMA Lab \u00b7 UMass Amherst",
+    "url": "https://websites.umass.edu/jtaneja/",
+    "logo": "research-logo-stima.png"
+  },
+  "eguide": {
+    "name": "e-GUIDE",
+    "url": "https://eguide.io/",
+    "logo": "affiliation-eguide.png",
+    "dark": false
+  },
+  "cei": {
+    "name": "Clean Energy Institute",
+    "url": "https://www.cei.washington.edu/",
+    "logo": "affiliation-cei.png",
+    "dark": true
+  },
+  "kcrc": {
+    "name": "Kigali Collaborative Research Centre",
+    "url": "https://kcrc.rw/",
+    "logo": "affiliation-kcrc.png",
+    "dark": false
+  },
+  "steg": {
+    "name": "STEG \u00b7 Structural Transformation and Economic Growth",
+    "url": "https://grp.cepr.org/steg",
+    "logo": "research-logo-steg.png"
+  }
+}

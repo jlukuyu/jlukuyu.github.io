@@ -164,8 +164,13 @@
         "id": "minigrid-capacity",
         "title": "Minigrid developer engagement and capacity needs",
         "description": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
-        "links": [],
-        "projectSlug": "minigrid-capacity"
+        "links": [
+          {
+            "label": "Explore the project →",
+            "route": "research/energizing-communities"
+          }
+        ],
+        "projectSlug": "energizing-communities"
       }
     ],
     "outputs": [
@@ -478,14 +483,10 @@
         "links": [
           {
             "label": "Explore the project →",
-            "route": "research/electric-cooking-kampala"
-          },
-          {
-            "label": "Winter 2024 activities",
-            "href": "#quarter-winter-2024"
+            "route": "research/spotlight-kampala"
           }
         ],
-        "projectSlug": "electric-cooking-kampala"
+        "projectSlug": "spotlight-kampala"
       }
     ],
     "outputs": [

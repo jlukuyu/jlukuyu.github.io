@@ -10,6 +10,6 @@ if(panel){
   for(const section of document.querySelectorAll('[data-funding-group]'))section.querySelector('[data-no-results]').hidden=!!section.querySelector('[data-project]:not([hidden])');
  }
  for(const b of buttons)b.addEventListener('click',()=>filter(b.dataset.theme||'technology',b.dataset.subtheme||''));
- function reveal(){const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target?.matches('[data-project]')){filter();target.open=true;target.scrollIntoView({block:'start'});}}
+ function reveal(){const target=document.getElementById(({'project-electric-cooking-kampala':'project-spotlight-kampala','project-minigrid-capacity':'project-energizing-communities'})[decodeURIComponent(location.hash.slice(1))]||decodeURIComponent(location.hash.slice(1)));if(target?.matches('[data-project]')){filter();target.open=true;target.scrollIntoView({block:'start'});}}
  panel.hidden=false;filter();reveal();window.addEventListener('hashchange',reveal);
 }

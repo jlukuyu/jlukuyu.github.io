@@ -5,8 +5,7 @@
     "status": "Ongoing",
     "summary": "Democratizing power systems planning for a robust and sustainable energy transition.",
     "partners": [
-      "Rhiza Research (lead)",
-      "University of Washington"
+      "Rhiza Research"
     ],
     "funding": "Climate Change AI",
     "overview": [
@@ -58,12 +57,6 @@
       }
     ],
     "subtitle": "Democratizing power systems planning for a robust and sustainable energy transition",
-    "team": [
-      "Mohini Bariya · Rhiza Research",
-      "June Lukuyu · University of Washington",
-      "Joshua Adkins · Rhiza Research",
-      "Genevieve Flaspohler · Rhiza Research"
-    ],
     "teamLabel": "PI and co-investigators",
     "approach": [
       {
@@ -72,7 +65,7 @@
       },
       {
         "title": "Develop learning scenarios",
-        "text": "Rhiza describes a target of 15+ countries and 75,000 training scenarios to support machine learning for planning."
+        "text": "We will target 15+ countries and 75,000 training scenarios to support machine learning for planning."
       },
       {
         "title": "Make planning accessible",
@@ -90,7 +83,22 @@
       "ai"
     ],
     "fundingCategory": "funded",
-    "fundingPeriod": "October 2025 – October 2026"
+    "fundingPeriod": "October 2025 – October 2026",
+    "partnerDetails": [
+      {
+        "name": "Rhiza Research",
+        "url": "https://rhizaresearch.org/",
+        "members": [
+          "Mohini Bariya",
+          "Genevieve Flaspohler",
+          "Joshua (Josh) Adkins"
+        ],
+        "org": "rhiza"
+      }
+    ],
+    "sponsorOrgs": [
+      "ccai"
+    ]
   },
   {
     "slug": "electric-cooking-nairobi",
@@ -191,21 +199,37 @@
       "mobility"
     ],
     "fundingCategory": "funded",
-    "fundingPeriod": "April – December 2024"
+    "fundingPeriod": "April – December 2024",
+    "sponsorOrgs": [
+      "basigo"
+    ],
+    "partnerDetails": [
+      {
+        "name": "University of Rwanda",
+        "url": "https://ur.ac.rw/",
+        "org": "ur"
+      },
+      {
+        "name": "STIMA Lab · UMass Amherst",
+        "url": "https://websites.umass.edu/jtaneja/",
+        "org": "stima"
+      }
+    ]
   },
   {
     "slug": "core",
     "title": "CORE — Community Owned Renewable Electrification",
     "status": "Ongoing",
-    "summary": "Research and collaboration on community-owned renewable electrification.",
+    "summary": "Research and collaboration on community-owned renewable electrification in Nigeria.",
     "partners": [
       "Mercy Corps (lead)",
       "Murty International",
-      "Kigali Collaborative Research Center (KCRC)"
+      "Kigali Collaborative Research Center (KCRC)",
+      "Elise Harrington · University of Minnesota"
     ],
     "funding": "UKPACT",
     "overview": [
-      "Research and collaboration on community-owned renewable electrification."
+      "Research and collaboration on community-owned renewable electrification in Nigeria."
     ],
     "resources": [],
     "publications": [],
@@ -221,9 +245,36 @@
     "themes": [
       "access"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "off-grid",
+      "interconnected"
+    ],
     "fundingCategory": "funded",
-    "fundingPeriod": "December 2025 – June 2026"
+    "fundingPeriod": "December 2025 – June 2026",
+    "partnerDetails": [
+      {
+        "name": "Mercy Corps (lead)",
+        "url": "https://www.mercycorps.org/",
+        "org": "mercy"
+      },
+      {
+        "name": "Murty International",
+        "org": "murty"
+      },
+      {
+        "name": "Kigali Collaborative Research Centre",
+        "url": "https://kcrc.rw/",
+        "org": "kcrc"
+      },
+      {
+        "name": "Elise Harrington · University of Minnesota",
+        "url": "https://www.hhh.umn.edu/directory/elise-harrington",
+        "org": "umn"
+      }
+    ],
+    "sponsorOrgs": [
+      "ukpact"
+    ]
   },
   {
     "slug": "mini-grid-demand-fiji",
@@ -261,7 +312,9 @@
       "access",
       "planning"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "off-grid"
+    ],
     "fundingCategory": "unfunded",
     "studentResearchers": [
       "Damion Huang"
@@ -302,7 +355,15 @@
     ],
     "subthemes": [],
     "fundingCategory": "funded",
-    "fundingPeriod": "January – December 2024"
+    "fundingPeriod": "January – December 2024",
+    "sponsorOrgs": [
+      "cei"
+    ],
+    "partnerDetails": [
+      {
+        "name": "Baozen Zhang"
+      }
+    ]
   },
   {
     "slug": "rwanda-energy-demand",
@@ -356,10 +417,13 @@
     "title": "Energizing Communities: An Interdisciplinary Approach to Sustainable Rural Electrification",
     "status": "Past",
     "summary": "An interdisciplinary approach to planning rural electrification.",
-    "partners": [],
+    "partners": [
+      "Elise Harrington · University of Minnesota"
+    ],
     "funding": "UW Royalty Research Fund",
     "overview": [
-      "An interdisciplinary approach to planning rural electrification."
+      "An interdisciplinary approach to planning rural electrification.",
+      "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026."
     ],
     "resources": [
       {
@@ -370,7 +434,9 @@
       }
     ],
     "publications": [],
-    "people": [],
+    "people": [
+      "eliane-nirere"
+    ],
     "sources": [
       {
         "title": "Original lab project listing",
@@ -383,9 +449,22 @@
       "planning",
       "access"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "off-grid",
+      "interconnected"
+    ],
     "fundingCategory": "funded",
-    "fundingPeriod": "June 2024 – June 2025"
+    "fundingPeriod": "June 2024 – June 2025",
+    "partnerDetails": [
+      {
+        "name": "Elise Harrington · University of Minnesota",
+        "url": "https://www.hhh.umn.edu/directory/elise-harrington",
+        "org": "umn"
+      }
+    ],
+    "sponsorOrgs": [
+      "uw"
+    ]
   },
   {
     "slug": "grid-loss-localization",
@@ -428,7 +507,17 @@
     ],
     "subthemes": [],
     "fundingCategory": "funded",
-    "fundingPeriod": "October 2023 – September 2024"
+    "fundingPeriod": "October 2023 – September 2024",
+    "sponsorOrgs": [
+      "ccai"
+    ],
+    "partnerDetails": [
+      {
+        "name": "nLine",
+        "url": "https://nline.io/",
+        "org": "nline"
+      }
+    ]
   },
   {
     "slug": "electric-three-wheelers-india",
@@ -511,41 +600,13 @@
     "fundingCategory": "unfunded"
   },
   {
-    "slug": "electric-cooking-kampala",
-    "title": "Electric cooking in Kampala",
-    "status": "Research",
-    "summary": "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024.",
-    "partners": [],
-    "funding": "",
-    "overview": [
-      "Supported quantitative data analysis for electric cooking in informal settlements in Kampala, Uganda, in Winter 2024."
-    ],
-    "resources": [],
-    "publications": [],
-    "people": [
-      "ahana-mukherjee"
-    ],
-    "sources": [
-      {
-        "title": "Ahana’s research timeline",
-        "route": "our-team/ahana-mukherjee"
-      }
-    ],
-    "themes": [
-      "technology",
-      "access"
-    ],
-    "subthemes": [
-      "cooking"
-    ],
-    "fundingCategory": "unfunded"
-  },
-  {
     "slug": "spotlight-kampala",
     "title": "Spotlight Kampala",
-    "summary": "Research on energy access in Kampala’s informal settlements.",
+    "summary": "Community-engaged research on electricity access, service quality, and electric cooking in Kampala’s informal settlements.",
     "overview": [
-      "Research on energy access in Kampala’s informal settlements."
+      "Spotlight Kampala brings Ugandan and international researchers together with residents to understand and improve electricity services in informal settlements. Its research connects infrastructure, affordability, safety, and community priorities.",
+      "The collaboration surveyed 500 households, conducted 66 interviews, deployed 148 remote power-quality sensors, and mapped infrastructure across 25 communities. Findings were returned to participating communities to help identify priority solutions.",
+      "Electric cooking research combines household engagement, monitoring, and wiring inspections. More recent work explores community-designed solar cooking systems and payment, ownership, and maintenance arrangements. Ahana Mukherjee supported quantitative analysis for electric cooking research in Winter 2024."
     ],
     "status": "Research",
     "partners": [],
@@ -555,16 +616,53 @@
         "title": "Spotlight Kampala",
         "href": "https://spotlightkampala.com",
         "kind": "Project website"
+      },
+      {
+        "title": "Electric cooking data and methodological resources",
+        "kind": "Harvard Dataverse · 2025",
+        "href": "https://doi.org/10.7910/DVN/SRNFEW"
+      },
+      {
+        "title": "Energy access data and methodological resources",
+        "kind": "Harvard Dataverse · 2025",
+        "href": "https://doi.org/10.7910/DVN/P1SIME"
       }
     ],
-    "publications": [],
-    "people": [],
+    "publications": [
+      {
+        "title": "Grid connections and inequitable access to electricity in African cities",
+        "kind": "Nature Cities · 2025",
+        "href": "https://escholarship.org/uc/item/3n5102td"
+      },
+      {
+        "title": "Community-based solutions for improving electricity access in informal settlements in Kampala, Uganda",
+        "kind": "Research article · 2025",
+        "href": "https://www.sciencedirect.com/science/article/pii/S2214629625002245"
+      }
+    ],
+    "people": [
+      "ahana-mukherjee"
+    ],
     "sources": [],
     "fundingCategory": "funded",
     "themes": [
-      "access"
+      "access",
+      "technology"
     ],
-    "subthemes": []
+    "subthemes": [
+      "cooking"
+    ],
+    "partnerDetails": [
+      {
+        "name": "Spotlight Kampala research collaboration",
+        "url": "https://spotlightkampala.com/",
+        "org": "spotlight"
+      }
+    ],
+    "sponsorOrgs": [
+      "eguide",
+      "steg"
+    ]
   },
   {
     "slug": "hidden-electrical-hazards",
@@ -584,28 +682,6 @@
     "themes": [
       "access",
       "resilience"
-    ],
-    "subthemes": []
-  },
-  {
-    "slug": "minigrid-capacity",
-    "title": "Minigrid developer engagement and capacity needs",
-    "summary": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
-    "overview": [
-      "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026."
-    ],
-    "status": "Research",
-    "partners": [],
-    "funding": "",
-    "resources": [],
-    "publications": [],
-    "people": [
-      "eliane-nirere"
-    ],
-    "sources": [],
-    "fundingCategory": "unfunded",
-    "themes": [
-      "access"
     ],
     "subthemes": []
   },
@@ -656,7 +732,9 @@
       "Cofán Tribal Energy Resilience."
     ],
     "status": "Research",
-    "partners": [],
+    "partners": [
+      "The Cofán people"
+    ],
     "funding": "",
     "resources": [],
     "publications": [
@@ -678,6 +756,11 @@
     "subthemes": [],
     "studentResearchers": [
       "Erin Edlund"
+    ],
+    "partnerDetails": [
+      {
+        "name": "The Cofán people"
+      }
     ]
   },
   {
@@ -771,7 +854,9 @@
       "access",
       "resilience"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "off-grid"
+    ],
     "studentResearchers": [
       "Biniyam Gebreyohannes"
     ]
