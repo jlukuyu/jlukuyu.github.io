@@ -14,7 +14,9 @@ Examples: “Add this paper to our publications”; “Add a team member with th
 
 ## Content files
 
-- `people.json`: team names, biographies, profile links, photographs.
+- `people.json`: principal investigator and PhD student names, biographies, profile links, photographs.
+- `undergraduates.json`: current and past undergraduate researchers, programs, participation dates, and project links.
+- `team-render.mjs`: team page layout with the full-group photograph and separate researcher sections.
 - `students.json`: PhD student timelines, projects, outputs, links, and timeline images (keyed by the `slug` in `people.json`).
 - `papers.json`: featured publication titles, authors, abstracts, links.
 - `posts.json`: news titles, article text, images, and links.
@@ -68,3 +70,5 @@ Other project pages retain the lab's existing project statuses and source detail
 Homepage wording draws on the supplied IDEAS Energy Equity presentation, CEI Community Engagement poster, and UW ECE Academic Review research overview. Source presentations and review documents are not published. The logo and group photograph were supplied by the lab; `integrator-2024-first-page.jpg` renders only the first page/spread of the supplied 2024 magazine feature. Its caption retains printed credits and links to the public article. The annual get-together photograph was also supplied by the lab. Other gallery photos were already part of the lab website.
 
 News items contain `date` (ISO year, month, or day at the precision supported by the source), `dateLabel`, `kind`, `title`, `summary`, `source`, an optional `image`, and `route` or `href`. Multi-month activities retain their displayed date range; their sort key uses the final month. Do not invent exact dates for year-only recognitions or undated profiles. New external items were checked against UW, CMU-Africa, WRI, Climate Change AI, NextBillion, and Energy for Growth Hub sources in September 2026.
+
+Undergraduate roster details were supplied by the lab in September 2026. An empty `end` marks a current researcher; populated end dates place entries in the past researcher section. Preserve supplied class years as historical descriptions. Hassan Dirif is the full name supplied for the researcher initially referred to as Hasan. Erin’s project links to the public Cofán Tribal Energy Resilience poster. Do not invent project assignments for researchers without one.
