@@ -96,3 +96,9 @@ Research sponsor and partner logos and URLs are maintained in `research-organiza
 ## Geographic footprint
 
 `research-locations.json` maps verified project slugs to countries. The Google My Maps embed is owned by the lab account: https://www.google.com/maps/d/edit?mid=188zJN6-owhrNxQi7twgEV-ER5ue5FGg. Import `ideas-research-footprint.kml` into its country layer. Keep map data and the accessible country/project list synchronized. Country markers are illustrative, not exact field locations. Regional projects without verified country assignments are not given inferred pins.
+
+## Publication catalogue and shared design
+
+`bibliography.json` contains the 30 publications supplied in the September 2026 Funded.docx, grouped as journal, conference, abstract, report, and policy. Source hyperlinks are preserved; policy links were verified on publisher sites. Citation counts are omitted because they change. `publications-render.mjs` and `publications.js` provide category navigation and progressive search. Project relationships use publication `projects` and reciprocal `publicationIds` on projects; do not infer a project relationship from topic similarity.
+
+`modern.css` is the shared visual system loaded after legacy structural styles on every page. It standardizes sans-serif typography, heading sizes, cards, spacing, and responsive layouts. Research headline is a single desktop line and wraps on small screens.
