@@ -2,9 +2,47 @@
   {
     "name": "June Lukuyu",
     "role": "Principal Investigator",
-    "bio": "June is an Assistant Professor of Electrical and Computer Engineering at the University of Washington. She holds a Ph.D. from the University of Massachusetts, an MSc. in Renewable Energy Systems from Loughborough University, and a BS in Engineering Science from Smith College. She is affiliated with the UW Clean Energy Institute, the e-GUIDE initiative, the Energy for Growth Hub, the Kigali Collaborative Research Center, and is on the board of Spark NorthWest.",
+    "bio": "June is an Assistant Professor of Electrical and Computer Engineering at the University of Washington. She holds a Ph.D. from the University of Massachusetts, an MSc. in Renewable Energy Systems from Loughborough University, and a BS in Engineering Science from Smith College. She is the current Board President of Spark Northwest.",
     "url": "https://people.ece.uw.edu/lukuyu_june/index.html",
-    "image": "person-0.jpg"
+    "image": "person-0.jpg",
+    "affiliations": [
+      {
+        "name": "Energy for Growth Hub",
+        "role": "Fellow",
+        "url": "https://energyforgrowth.org/team/june-lukuyu/",
+        "label": "View profile ↗"
+      },
+      {
+        "name": "African Tech Futures Lab",
+        "role": "Fellow",
+        "url": "https://africantechfutures.org/bios/june-lukuyu",
+        "label": "View profile ↗"
+      },
+      {
+        "name": "UW Clean Energy Institute (CEI)",
+        "role": "Member Faculty",
+        "url": "https://www.cei.washington.edu/people/june-lukuyu/",
+        "label": "View profile ↗"
+      },
+      {
+        "name": "Kigali Collaborative Research Centre (KCRC)",
+        "role": "Research Fellow",
+        "url": "https://www.linkedin.com/company/kigali-collaborative-research-centre",
+        "label": "Organization profile ↗"
+      },
+      {
+        "name": "e-GUIDE Initiative",
+        "role": "Principal Investigator",
+        "url": "https://eguide.io/",
+        "label": "View investigator listing ↗"
+      },
+      {
+        "name": "Spark Northwest",
+        "role": "Board President",
+        "url": "https://sparknorthwest.org/about/our-team/",
+        "label": "View board listing ↗"
+      }
+    ]
   },
   {
     "name": "Eliane Nirere",
