@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "date": "2026-04-29",
+      "dateLabel": "29 April 2026",
+      "kind": "Project news",
+      "title": "SEER receives Climate Change AI support",
+      "summary": "Rhiza Research and the University of Washington are featured in the Innovation Grants announcement for SEER, which aims to make power systems planning more accessible.",
+      "href": "https://www.climatechange.ai/press_releases/2026-04-29/release",
+      "source": "Climate Change AI",
+      "image": null
+    },
+    {
+      "date": "2026-04-09",
+      "dateLabel": "9 April 2026",
+      "kind": "Research insight",
+      "title": "When climate shocks collide with grid failure",
+      "summary": "June Lukuyu and Kwame Donkor co-authored a policy memo with Mohini Bariya and Genevieve Flaspohler, sharing early findings on climate risk and unequal electricity disruptions in Accra.",
+      "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/",
+      "source": "Energy for Growth Hub",
+      "image": null
+    },
+    {
+      "date": "2026-03-11",
+      "dateLabel": "11 March 2026",
+      "kind": "Research insight",
+      "title": "The hidden role of e-boiling in clean cooking",
+      "summary": "June Lukuyu and collaborators explain how electric kettles are already helping households in Nairobi’s informal settlements move toward cleaner cooking.",
+      "href": "https://nextbillion.net/hidden-role-of-e-boiling-in-clean-cooking-how-nairobis-informal-settlements-are-quietly-powering-electric-transition/",
+      "source": "NextBillion",
+      "image": null
+    },
+    {
+      "date": "2026-03",
+      "dateLabel": "March 2026",
+      "kind": "Research poster",
+      "title": "Co-designing energy resilience with the Cofán community",
+      "summary": "A UW-hosted poster by Erin Edlund, Aya Alayli, and June Lukuyu explores renewable energy and storage options for a community building in Ecuador.",
+      "href": "https://www.ece.uw.edu/wp-content/uploads/2026/03/Aya_Alayli_Erin_Edlund_Cofan_Tribal_Energy_Resilience.pdf",
+      "source": "UW ECE · Poster (PDF)",
+      "image": "person-5.png"
+    },
+    {
+      "date": "2025-08",
+      "dateLabel": "May–August 2025",
+      "kind": "Fieldwork",
+      "title": "Kigali Data Collection: May - Aug 2025",
+      "summary": "PhD student Eliane Nirere, was part of a field team collecting data for the Energy Transition Demand Modeling Study for Rwanda.",
+      "route": "post/kigali-data-collection-may-aug-2025",
+      "source": "IDEAS Lab",
+      "image": "kigali-data-collection-may-aug-2025-0.jpeg"
+    },
+    {
+      "date": "2025-03",
+      "dateLabel": "March 2025",
+      "kind": "Research & awards",
+      "title": "IDEAS Lab at the 2025 UW ECE Research Showcase (March 2025)",
+      "summary": "Ahana Mukherjee received the Best ECE Research Award. Eliane Nirere and Kwame Donkor also presented their work on electricity demand and grid resilience.",
+      "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase",
+      "source": "IDEAS Lab",
+      "image": "ideas-lab-at-the-2025-uw-ece-research-showcase-0.png"
+    },
+    {
+      "date": "2025-02-13",
+      "dateLabel": "13 February 2025",
+      "kind": "Feature",
+      "title": "How UW researchers fell in love with their research",
+      "summary": "June Lukuyu joins a UW News Q&A about the experiences that inspired researchers to pursue their fields.",
+      "href": "https://www.washington.edu/news/2025/02/13/qa-how-12-uw-researchers-fell-in-love-with-their-research/",
+      "source": "UW News",
+      "image": "person-0.jpg"
+    },
+    {
+      "date": "2025-02",
+      "dateLabel": "18–20 February 2025",
+      "kind": "Event",
+      "title": "Third US-Africa Frontiers of Science, Engineering, and Medicine Symposium (Feb 2025)",
+      "summary": "PI Lukuyu participated in the Third U.S.-Africa Frontiers of Science, Engineering, and Medicine Symposium , held from February 18–20, 2025, in Kigali, Rwanda. Hosted by the U.S. National Academies in partnership with the Republic of Rwanda, the symposium brought together early- and mid-career researchers from across the U.S. and Africa to explore interdisciplinary solutions to global challenges. The event featured sessions on decarbonization, precision agriculture, biotechnology, space research, and smart cities, with opportunities for collaboration and knowledge exchange across borders and disciplines.",
+      "route": "post/third-us-africa-frontiers-of-science-engineering-and-medicine-symposium",
+      "source": "IDEAS Lab",
+      "image": "third-us-africa-frontiers-of-science-engineering-and-medicine-symposium-0.jpeg"
+    },
+    {
+      "date": "2024-09-12",
+      "dateLabel": "12–14 September 2024",
+      "kind": "Event",
+      "title": "eGUIDE Annual Retreat in Rochester NY: September 12-14, 2024",
+      "summary": "We had the pleasure of participating in the annual eGUIDE retreat at the Rochester Institute of Technology, which provided a fantastic opportunity to connect with both new and returning eGUIDE members. The retreat commenced with an enlightening visit to the Niagara Power Vista, where attendees gained valuable insights into hydropower energy generation, followed by a visit to the breathtaking Niagara Falls State Park. During the retreat, Ahana and Kwame showcased their ongoing research through poster presentations, fostering engaging discussions among participants.",
+      "route": "post/eguide-annual-retreat-in-rochester-ny-september-12-14-2024",
+      "source": "IDEAS Lab",
+      "image": "eguide-annual-retreat-in-rochester-ny-september-12-14-2024-0.jpg"
+    },
+    {
+      "date": "2024-09",
+      "dateLabel": "September 2024",
+      "kind": "Event",
+      "title": "New York City Climate Week: September 2024",
+      "summary": "June Lukuyu attended several events during NYC Climate Week , including Climate Change AI and Google DeepMind’s event, AI for Climate Action: From Data to Impact . At this event, she delivered a lightning talk titled \" Enabling Smart Grids for Climate Resilience & Adaptation in Africa \" to showcase their CCAI-sponsored project, alongside a panel discussion featuring collaborator Genevieve Flasplohler.",
+      "route": "post/2024-new-york-city-climate-week",
+      "source": "IDEAS Lab",
+      "image": null
+    },
+    {
+      "date": "2024-08",
+      "dateLabel": "August 2024",
+      "kind": "Fieldwork",
+      "title": "Kigali Data Collection: August 2024",
+      "summary": "Miquilina Anagbah led data collection for the project: Multi-Stakeholder Perspectives of Electric Bus Service in Kigali, Rwanda. in collaboration with students from the University of Rwanda, College of Science and Technology. We conducted surveys with about 800 electric and diesel bus passengers across Kigali to collect information on bus service satisfaction and perception of electric buses. This project is supported by BasiGO and USAID.",
+      "route": "post/kigali-data-collection-august-2024",
+      "source": "IDEAS Lab",
+      "image": "kigali-data-collection-august-2024-0.jpg"
+    },
+    {
+      "date": "2024-08",
+      "dateLabel": "Summer 2024",
+      "kind": "Mentorship",
+      "title": "Summer 2024 Undergraduate Research Experience",
+      "summary": "We had the pleasure of welcoming Biniyam Gebreyohannes, a fellow from the UW Clean Energy Bridge to Research Program (CEBR), and Lillian Nguyen, a Clean Energy Institute ALVA fellow, for their Summer Research Experience. Biniyam explored how weather patterns affect Minigrid electricity behavior, drawing insights from the Katiirwe solar Minigrid in Western Uganda. Meanwhile, Lillian investigated Climate and Energy Injustice, focusing on racial and income disparities in access to indoor comfort. They were mentored by Ahana, Kwame, and Miquilina.",
+      "route": "post/summer-2024-undergraduate-research-experience",
+      "source": "IDEAS Lab",
+      "image": "summer-2024-undergraduate-research-experience-0.png"
+    },
+    {
+      "date": "2024-07-11",
+      "dateLabel": "11 July 2024",
+      "kind": "Feature",
+      "title": "Pushing engineering boundaries for underserved communities",
+      "summary": "UW ECE profiles June Lukuyu, the IDEAS research group, and its approach to connecting engineering with community needs.",
+      "href": "https://www.ece.uw.edu/spotlight/june-lukuyu/",
+      "source": "UW ECE / The Integrator",
+      "image": "integrator-2024-first-page.jpg"
+    },
+    {
+      "date": "2024",
+      "dateLabel": "2024",
+      "kind": "Recognition",
+      "title": "Aya Alayli named a UW Engineering Dean’s Medalist",
+      "summary": "The College of Engineering recognized Aya’s academic achievements, sustainable power systems research, and advocacy for equity in engineering.",
+      "href": "https://www.engr.washington.edu/news/deans-medalists/past-medalists",
+      "source": "UW College of Engineering",
+      "image": "person-5.png"
+    },
+    {
+      "date": "2023-06-13",
+      "dateLabel": "13 June 2023",
+      "kind": "Recognition",
+      "title": "Miquilina Anagbah recognized for student excellence",
+      "summary": "CMU-Africa’s graduation coverage celebrates Miquilina’s leadership, organizational skills, and research contributions through the Lakshmi Subramanian Student Excellence Award.",
+      "href": "https://www.africa.engineering.cmu.edu/news/2023/06/13-cmu-africa-graduation.html",
+      "source": "Carnegie Mellon University Africa",
+      "image": "person-4.jpg"
+    }
+  ],
+  "profiles": [
+    {
+      "title": "Eliane Nirere at the World Resources Institute",
+      "summary": "WRI’s profile highlights Eliane’s work on electricity demand growth, electrification, and clean energy transitions.",
+      "href": "https://www.wri.org/profile/eliane-nirere",
+      "source": "World Resources Institute",
+      "image": "person-1.jpg",
+      "dateLabel": "Undated profile"
+    }
+  ]
+}

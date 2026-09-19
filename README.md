@@ -18,7 +18,9 @@ Examples: “Add this paper to our publications”; “Add a team member with th
 - `students.json`: PhD student timelines, projects, outputs, links, and timeline images (keyed by the `slug` in `people.json`).
 - `papers.json`: featured publication titles, authors, abstracts, links.
 - `posts.json`: news titles, article text, images, and links.
-- `home.json`: homepage source content.
+- `homepage.json`: current homepage mission, research themes, approach, and slideshow captions/links.
+- `updates.json`: dated news timeline and separately listed undated member profiles.
+- `home.json`: original homepage source material.
 - `projects.json`: canonical project pages, summaries, collaborators, publications, stories, and source links.
 - `research.json`: original project source material and geographic engagement map.
 - `opportunities.json`: student recruitment notice and contact details.
@@ -58,3 +60,11 @@ Every record in `projects.json` generates `research/<slug>/` and a card on the R
 SEER is connected to Ahana's machine learning-enabled power systems planning work per the site owner's instruction and Rhiza Research's collaborator listing. Its overview and approach are based on Rhiza Research and Climate Change AI's 2025 grant profile, with funding news dated April 29, 2026. Targets and tools under development must not be presented as completed releases. No SEER-specific paper or released dataset/code was verified when this page was prepared. The 2023 grid-loss project and its 2024 story are separate from SEER.
 
 Other project pages retain the lab's existing project statuses and source details. Link publications only when their project relationship is established; topic similarity alone is insufficient.
+
+## Homepage, gallery, and news
+
+`home-render.mjs` renders the refreshed homepage and news timeline. `gallery.js` adds previous/next controls, keyboard arrows, and opt-in slideshow playback. Playback pauses on focus, pointer entry, and when the page is hidden. Without JavaScript, the gallery remains horizontally scrollable.
+
+Homepage wording draws on the supplied IDEAS Energy Equity presentation, CEI Community Engagement poster, and UW ECE Academic Review research overview. Source presentations and review documents are not published. The logo and group photograph were supplied by the lab; `integrator-2024-first-page.jpg` renders only the first page/spread of the supplied 2024 magazine feature. Its caption retains printed credits and links to the public article. Other gallery photos were already part of the lab website.
+
+News items contain `date` (ISO year, month, or day at the precision supported by the source), `dateLabel`, `kind`, `title`, `summary`, `source`, an optional `image`, and `route` or `href`. Multi-month activities retain their displayed date range; their sort key uses the final month. Do not invent exact dates for year-only recognitions or undated profiles. New external items were checked against UW, CMU-Africa, WRI, Climate Change AI, NextBillion, and Energy for Growth Hub sources in September 2026.
