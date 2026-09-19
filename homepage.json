@@ -19,24 +19,24 @@
   ],
   "themes": [
     {
-      "title": "Power system resilience & reliability",
-      "text": "Understand how climate hazards and infrastructure vulnerabilities affect electricity service—and who bears the greatest burden.",
-      "route": "research/grid-loss-localization"
+      "title": "Energy Planning & Development",
+      "text": "Planning energy systems around development, equity, and community priorities.",
+      "route": "research"
     },
     {
-      "title": "Community-led microgrids",
-      "text": "Explore ownership, governance, and system design that support locally defined goals for resilience, affordability, and energy sovereignty.",
-      "route": "research/core"
+      "title": "Energy Access",
+      "text": "Reliable, affordable energy services, from African minigrids to underserved urban communities.",
+      "route": "research"
     },
     {
-      "title": "Just energy transitions & planning",
-      "text": "Make planning more accessible and connect energy choices with social equity, policy, and community priorities.",
-      "route": "research/seer"
+      "title": "Electrification & Emerging Technology",
+      "text": "E-mobility, e-cooking, and AI & Computing for energy transitions.",
+      "route": "research"
     },
     {
-      "title": "Context-aware electrification",
-      "text": "Plan electric mobility, clean cooking, and rural energy services around how people live, travel, and use electricity.",
-      "route": "research/electric-three-wheelers-india"
+      "title": "Power System Reliability & Resilience",
+      "text": "Understanding climate risk, strengthening grids, and improving service quality.",
+      "route": "research"
     }
   ],
   "gallery": [

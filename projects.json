@@ -8,7 +8,7 @@
       "Rhiza Research (lead)",
       "University of Washington"
     ],
-    "funding": "Climate Change AI · 2025 Innovation Grants",
+    "funding": "Climate Change AI",
     "overview": [
       "Power system planning shapes investments in generation and grid infrastructure. Fragmented data and inaccessible tools can limit participation in these decisions, particularly in the Global South. SEER aims to make planning faster, more flexible, and more accessible to energy-sector stakeholders.",
       "The project is developing an open dataset to support machine learning approaches, including automated input-data generation and models that approximate optimization solvers. Collaboration with planning practitioners is central to making the tools useful for real decisions."
@@ -81,13 +81,22 @@
     ],
     "approachNote": "These are project development goals, not an announcement of a completed dataset or tool release.",
     "publicationsNote": "SEER-specific publication links have not yet been added.",
-    "releaseNote": "Open datasets and machine learning tools are in development. Public download and code links will be added when available."
+    "releaseNote": "Open datasets and machine learning tools are in development. Public download and code links will be added when available.",
+    "themes": [
+      "planning",
+      "technology"
+    ],
+    "subthemes": [
+      "ai"
+    ],
+    "fundingCategory": "funded",
+    "fundingPeriod": "October 2025 – October 2026"
   },
   {
     "slug": "electric-cooking-nairobi",
-    "title": "Transition to Electric Cooking in Informal Settlements in Nairobi",
+    "title": "The role of electric boiling in the electric cooking transition in Nairobi and Kigali",
     "status": "Ongoing",
-    "summary": "Investigating the transition to electric cooking in Nairobi’s informal settlements.",
+    "summary": "Investigating the role of electric boiling in the electric cooking transition in Nairobi and Kigali",
     "partners": [
       "eGUIDE initiative",
       "Dr. Austine Otieno",
@@ -95,7 +104,7 @@
     ],
     "funding": "",
     "overview": [
-      "Investigating the transition to electric cooking in Nairobi’s informal settlements."
+      "Investigating the role of electric boiling in the electric cooking transition in Nairobi and Kigali."
     ],
     "resources": [
       {
@@ -114,11 +123,19 @@
         "kind": "Project resource",
         "note": ""
       }
-    ]
+    ],
+    "themes": [
+      "technology",
+      "access"
+    ],
+    "subthemes": [
+      "cooking"
+    ],
+    "fundingCategory": "unfunded"
   },
   {
     "slug": "electric-bus-kigali",
-    "title": "Multi-Stakeholder Perspectives of Electric Bus Service in Kigali, Rwanda",
+    "title": "Bus Operator and Rider Satisfaction Analysis to Support BasiGo’s Rollout in Rwanda",
     "status": "Past",
     "summary": "Understanding passenger satisfaction and perceptions of electric bus services in Kigali.",
     "partners": [
@@ -166,7 +183,15 @@
       "src": "kigali-data-collection-august-2024-0.jpg",
       "alt": "IDEAS Lab electric bus project fieldwork in Kigali",
       "caption": "Fieldwork for the Kigali electric bus study, August 2024."
-    }
+    },
+    "themes": [
+      "technology"
+    ],
+    "subthemes": [
+      "mobility"
+    ],
+    "fundingCategory": "funded",
+    "fundingPeriod": "April – December 2024"
   },
   {
     "slug": "core",
@@ -192,7 +217,13 @@
         "kind": "Project resource",
         "note": ""
       }
-    ]
+    ],
+    "themes": [
+      "access"
+    ],
+    "subthemes": [],
+    "fundingCategory": "funded",
+    "fundingPeriod": "December 2025 – June 2026"
   },
   {
     "slug": "mini-grid-demand-fiji",
@@ -215,7 +246,9 @@
       }
     ],
     "publications": [],
-    "people": [],
+    "people": [
+      "eliane-nirere"
+    ],
     "sources": [
       {
         "title": "Original lab project listing",
@@ -223,6 +256,15 @@
         "kind": "Project resource",
         "note": ""
       }
+    ],
+    "themes": [
+      "access",
+      "planning"
+    ],
+    "subthemes": [],
+    "fundingCategory": "unfunded",
+    "studentResearchers": [
+      "Damion Huang"
     ]
   },
   {
@@ -254,7 +296,13 @@
         "kind": "Project resource",
         "note": ""
       }
-    ]
+    ],
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "fundingCategory": "funded",
+    "fundingPeriod": "January – December 2024"
   },
   {
     "slug": "rwanda-energy-demand",
@@ -295,11 +343,17 @@
       "src": "kigali-data-collection-may-aug-2025-0.jpeg",
       "alt": "Household energy study fieldwork in Kigali",
       "caption": "Kigali data collection, May–August 2025."
-    }
+    },
+    "themes": [
+      "access",
+      "planning"
+    ],
+    "subthemes": [],
+    "fundingCategory": "unfunded"
   },
   {
     "slug": "energizing-communities",
-    "title": "Energizing Communities: An Interdisciplinary Approach to Rural Electrification Planning",
+    "title": "Energizing Communities: An Interdisciplinary Approach to Sustainable Rural Electrification",
     "status": "Past",
     "summary": "An interdisciplinary approach to planning rural electrification.",
     "partners": [],
@@ -324,7 +378,14 @@
         "kind": "Project resource",
         "note": ""
       }
-    ]
+    ],
+    "themes": [
+      "planning",
+      "access"
+    ],
+    "subthemes": [],
+    "fundingCategory": "funded",
+    "fundingPeriod": "June 2024 – June 2025"
   },
   {
     "slug": "grid-loss-localization",
@@ -361,7 +422,13 @@
         "kind": "Project resource",
         "note": ""
       }
-    ]
+    ],
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "fundingCategory": "funded",
+    "fundingPeriod": "October 2023 – September 2024"
   },
   {
     "slug": "electric-three-wheelers-india",
@@ -407,7 +474,14 @@
       "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-2.png",
       "alt": "Award presentation at the 2025 UW ECE Research Showcase",
       "caption": "Research recognition at the 2025 UW ECE Research Showcase."
-    }
+    },
+    "themes": [
+      "technology"
+    ],
+    "subthemes": [
+      "mobility"
+    ],
+    "fundingCategory": "unfunded"
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -429,7 +503,12 @@
         "title": "Ahana’s research timeline",
         "route": "our-team/ahana-mukherjee"
       }
-    ]
+    ],
+    "themes": [
+      "planning"
+    ],
+    "subthemes": [],
+    "fundingCategory": "unfunded"
   },
   {
     "slug": "electric-cooking-kampala",
@@ -451,6 +530,250 @@
         "title": "Ahana’s research timeline",
         "route": "our-team/ahana-mukherjee"
       }
+    ],
+    "themes": [
+      "technology",
+      "access"
+    ],
+    "subthemes": [
+      "cooking"
+    ],
+    "fundingCategory": "unfunded"
+  },
+  {
+    "slug": "spotlight-kampala",
+    "title": "Spotlight Kampala",
+    "summary": "Research on energy access in Kampala’s informal settlements.",
+    "overview": [
+      "Research on energy access in Kampala’s informal settlements."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "STEG, eGUIDE",
+    "resources": [
+      {
+        "title": "Spotlight Kampala",
+        "href": "https://spotlightkampala.com",
+        "kind": "Project website"
+      }
+    ],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "funded",
+    "themes": [
+      "access"
+    ],
+    "subthemes": []
+  },
+  {
+    "slug": "hidden-electrical-hazards",
+    "title": "Measuring hidden electrical hazards",
+    "summary": "Improving energy access assessment in urban informal settlements in Nairobi by measuring hidden electrical hazards.",
+    "overview": [
+      "Improving energy access assessment in urban informal settlements in Nairobi by measuring hidden electrical hazards."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access",
+      "resilience"
+    ],
+    "subthemes": []
+  },
+  {
+    "slug": "minigrid-capacity",
+    "title": "Minigrid developer engagement and capacity needs",
+    "summary": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
+    "overview": [
+      "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [
+      "eliane-nirere"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access"
+    ],
+    "subthemes": []
+  },
+  {
+    "slug": "accra-grid-weather",
+    "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+    "summary": "Research on weather, outages, voltage, and neighborhood vulnerability in Greater Accra, begun in Summer 2024 and completed in Summer 2026. The resulting manuscript has been submitted.",
+    "overview": [
+      "Research on weather, outages, voltage, and neighborhood vulnerability in Greater Accra, begun in Summer 2024 and completed in Summer 2026. The resulting manuscript has been submitted."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [
+      {
+        "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+        "kind": "Manuscript · Submitted Summer 2026",
+        "note": "Submitted to Communications Earth & Environment (Nature Portfolio). This is a submitted manuscript, not a published article; no public manuscript link has been added."
+      },
+      {
+        "title": "When Climate Shocks Collide with Grid Failure",
+        "kind": "Policy memo · 9 April 2026",
+        "note": "Co-authored with June Lukuyu, Mohini Bariya, and Genevieve Flaspohler for the Energy for Growth Hub.",
+        "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/"
+      },
+      {
+        "title": "Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition",
+        "kind": "Presentation & poster · Autumn 2025",
+        "note": "INFORMS Annual Meeting, Atlanta. A related Greater Accra case-study presentation was delivered virtually to Kilowatts for Humanity in Winter 2026."
+      }
+    ],
+    "people": [
+      "kwame-donkor"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": []
+  },
+  {
+    "slug": "cofan-energy-resilience",
+    "title": "Cofán Tribal Energy Resilience",
+    "summary": "Cofán Tribal Energy Resilience.",
+    "overview": [
+      "Cofán Tribal Energy Resilience."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [
+      {
+        "title": "Cofán Tribal Energy Resilience",
+        "kind": "Research poster",
+        "href": "https://www.ece.uw.edu/wp-content/uploads/2026/03/Aya_Alayli_Erin_Edlund_Cofan_Tribal_Energy_Resilience.pdf"
+      }
+    ],
+    "people": [
+      "aya-alayli"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access",
+      "resilience"
+    ],
+    "subthemes": [],
+    "studentResearchers": [
+      "Erin Edlund"
+    ]
+  },
+  {
+    "slug": "community-benefit-agreements",
+    "title": "Community Benefit Agreements in Utility-Scale Energy Projects",
+    "summary": "Community Benefit Agreements in Utility-Scale Energy Projects.",
+    "overview": [
+      "Community Benefit Agreements in Utility-Scale Energy Projects."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [
+      "ahana-mukherjee"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "planning"
+    ],
+    "subthemes": [],
+    "studentResearchers": [
+      "Madelyn M McInnis"
+    ]
+  },
+  {
+    "slug": "washington-microgrid-resilience",
+    "title": "Microgrids for resilience in Washington State",
+    "summary": "Microgrids for resilience in Washington State.",
+    "overview": [
+      "Microgrids for resilience in Washington State."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "studentResearchers": [
+      "Hassan Dirif"
+    ]
+  },
+  {
+    "slug": "indoor-comfort-equity",
+    "title": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort",
+    "summary": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort.",
+    "overview": [
+      "Climate and Energy Injustice: racial and income disparities in access to indoor comfort."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access",
+      "resilience"
+    ],
+    "subthemes": [],
+    "studentResearchers": [
+      "Lillian Nguyen"
+    ]
+  },
+  {
+    "slug": "katiirwe-weather-electricity",
+    "title": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda",
+    "summary": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda.",
+    "overview": [
+      "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda."
+    ],
+    "status": "Research",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access",
+      "resilience"
+    ],
+    "subthemes": [],
+    "studentResearchers": [
+      "Biniyam Gebreyohannes"
     ]
   }
 ]

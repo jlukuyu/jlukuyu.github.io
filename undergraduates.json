@@ -6,9 +6,9 @@
     "end": null,
     "dates": "January 2026 – present",
     "project": "Cofán Tribal Energy Resilience",
-    "href": "https://www.ece.uw.edu/wp-content/uploads/2026/03/Aya_Alayli_Erin_Edlund_Cofan_Tribal_Energy_Resilience.pdf",
-    "linkLabel": "Explore the project poster ↗",
-    "profileUrl": "https://www.linkedin.com/in/erin-edlund"
+    "linkLabel": "Explore the project →",
+    "profileUrl": "https://www.linkedin.com/in/erin-edlund",
+    "route": "research/cofan-energy-resilience"
   },
   {
     "name": "Madelyn M McInnis",
@@ -17,7 +17,9 @@
     "end": null,
     "dates": "January 2026 – present",
     "project": "Community Benefit Agreements in Utility-Scale Energy Projects",
-    "profileUrl": "https://www.linkedin.com/in/madelynmcinnis"
+    "profileUrl": "https://www.linkedin.com/in/madelynmcinnis",
+    "route": "research/community-benefit-agreements",
+    "linkLabel": "Explore the project →"
   },
   {
     "name": "Hassan Dirif",
@@ -25,7 +27,9 @@
     "start": "2025-06",
     "end": "2025-08",
     "dates": "June – August 2025",
-    "project": "Microgrids for resilience in Washington State"
+    "project": "Microgrids for resilience in Washington State",
+    "route": "research/washington-microgrid-resilience",
+    "linkLabel": "Explore the project →"
   },
   {
     "name": "Lillian Nguyen",
@@ -34,7 +38,9 @@
     "end": "2024-08",
     "dates": "June – August 2024",
     "profileUrl": "https://www.linkedin.com/in/lilliannguyenn",
-    "project": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort"
+    "project": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort",
+    "route": "research/indoor-comfort-equity",
+    "linkLabel": "Explore the project →"
   },
   {
     "name": "Biniyam Gebreyohannes",
@@ -43,7 +49,9 @@
     "end": "2024-08",
     "dates": "June – August 2024",
     "profileUrl": "https://www.linkedin.com/in/biniyam-gebreyohannes-5a5883219",
-    "project": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda"
+    "project": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda",
+    "route": "research/katiirwe-weather-electricity",
+    "linkLabel": "Explore the project →"
   },
   {
     "name": "Damion Huang",
