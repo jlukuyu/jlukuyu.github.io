@@ -181,14 +181,5 @@
       "image": "person-4.jpg"
     }
   ],
-  "profiles": [
-    {
-      "title": "Eliane Nirere at the World Resources Institute",
-      "summary": "WRI’s profile highlights Eliane’s work on electricity demand growth, electrification, and clean energy transitions.",
-      "href": "https://www.wri.org/profile/eliane-nirere",
-      "source": "World Resources Institute",
-      "image": "person-1.jpg",
-      "dateLabel": "Undated profile"
-    }
-  ]
+  "profiles": []
 }

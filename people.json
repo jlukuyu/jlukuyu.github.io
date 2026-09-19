@@ -10,37 +10,49 @@
         "name": "Energy for Growth Hub",
         "role": "Fellow",
         "url": "https://energyforgrowth.org/team/june-lukuyu/",
-        "label": "View profile ↗"
+        "label": "View profile ↗",
+        "logo": "affiliation-growth.svg",
+        "logoTheme": "light"
       },
       {
         "name": "African Tech Futures Lab",
         "role": "Fellow",
         "url": "https://africantechfutures.org/bios/june-lukuyu",
-        "label": "View profile ↗"
+        "label": "View profile ↗",
+        "logo": "affiliation-african.png",
+        "logoTheme": "dark"
       },
       {
         "name": "UW Clean Energy Institute (CEI)",
         "role": "Member Faculty",
         "url": "https://www.cei.washington.edu/people/june-lukuyu/",
-        "label": "View profile ↗"
+        "label": "View profile ↗",
+        "logo": "affiliation-cei.png",
+        "logoTheme": "dark"
       },
       {
         "name": "Kigali Collaborative Research Centre (KCRC)",
         "role": "Research Fellow",
         "url": "https://www.linkedin.com/company/kigali-collaborative-research-centre",
-        "label": "Organization profile ↗"
+        "label": "Organization profile ↗",
+        "logo": "affiliation-kcrc.png",
+        "logoTheme": "light"
       },
       {
         "name": "e-GUIDE Initiative",
         "role": "Principal Investigator",
         "url": "https://eguide.io/",
-        "label": "View investigator listing ↗"
+        "label": "View investigator listing ↗",
+        "logo": "affiliation-eguide.png",
+        "logoTheme": "light"
       },
       {
         "name": "Spark Northwest",
         "role": "Board President",
         "url": "https://sparknorthwest.org/about/our-team/",
-        "label": "View board listing ↗"
+        "label": "View board listing ↗",
+        "logo": "affiliation-spark.png",
+        "logoTheme": "light"
       }
     ]
   },
