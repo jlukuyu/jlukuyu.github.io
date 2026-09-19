@@ -1,6 +1,6 @@
 {
   "fullName": "Interdisciplinary Energy Analytics for Society",
-  "headline": "Energy systems.\nBuilt around people.",
+  "headline": "Energy systems\nBuilt around people",
   "intro": "We bring engineering, policy, and community perspectives together to plan equitable, sustainable, and resilient energy systems.",
   "mission": "Based at the University of Washington, IDEAS Research Lab works at the intersection of climate, energy, and development. We combine field measurements, energy systems modeling, and data science with community-engaged research to support decisions that reflect local needs.",
   "approach": [
@@ -51,20 +51,21 @@
     },
     {
       "image": "annual-get-together.jpg",
-      "title": "Our annual get-together",
-      "caption": "The IDEAS community spending time together beyond the lab.",
+      "title": "Building community beyond the lab",
+      "caption": "Time together, shared laughter, and the connections that make IDEAS a community.",
       "alt": "IDEAS community members gathered under trees beside the water at the annual get-together",
       "route": "our-team",
       "label": "Meet our community",
-      "fit": "contain"
+      "fit": "contain",
+      "monochrome": true
     },
     {
-      "image": "kigali-data-collection-august-2024-0.jpg",
-      "title": "Listening to commuters in Kigali",
-      "caption": "Field research on passenger perspectives and electric bus services, August 2024.",
-      "alt": "Researchers conducting a conversation beside a bus in Kigali",
-      "route": "research/electric-bus-kigali",
-      "label": "Explore the project",
+      "image": "eliane-minigrid-site-visit.jpg",
+      "title": "Research grounded in the field",
+      "caption": "Eliane Nirere conducting a minigrid site visit.",
+      "alt": "Eliane Nirere and site staff in hard hats and safety vests beside a solar minigrid",
+      "route": "our-team/eliane-nirere",
+      "label": "Explore Eliane’s research",
       "fit": "contain"
     },
     {
