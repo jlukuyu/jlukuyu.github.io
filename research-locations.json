@@ -1,0 +1,80 @@
+[
+  {
+    "country": "Ecuador",
+    "latitude": -1.83,
+    "longitude": -78.18,
+    "projects": [
+      "cofan-energy-resilience"
+    ]
+  },
+  {
+    "country": "Fiji",
+    "latitude": -17.71,
+    "longitude": 178.06,
+    "projects": [
+      "mini-grid-demand-fiji"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "latitude": 7.95,
+    "longitude": -1.02,
+    "projects": [
+      "grid-loss-localization",
+      "accra-grid-weather"
+    ]
+  },
+  {
+    "country": "India",
+    "latitude": 20.59,
+    "longitude": 78.96,
+    "projects": [
+      "electric-three-wheelers-india"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "latitude": -0.02,
+    "longitude": 37.91,
+    "projects": [
+      "electric-cooking-nairobi",
+      "hidden-electrical-hazards"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "latitude": 9.08,
+    "longitude": 8.68,
+    "projects": [
+      "core"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "latitude": -1.94,
+    "longitude": 29.87,
+    "projects": [
+      "electric-cooking-nairobi",
+      "electric-bus-kigali",
+      "rwanda-energy-demand"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "latitude": 1.37,
+    "longitude": 32.29,
+    "projects": [
+      "spotlight-kampala",
+      "katiirwe-weather-electricity"
+    ]
+  },
+  {
+    "country": "United States",
+    "latitude": 39.83,
+    "longitude": -98.58,
+    "projects": [
+      "community-demand-response",
+      "washington-microgrid-resilience"
+    ]
+  }
+]
