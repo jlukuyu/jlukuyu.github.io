@@ -1,0 +1,293 @@
+[
+  {
+    "id": "J11",
+    "title": "The Potential of Solar Integration for Meeting the Electrical Demands of Water Treatment and Delivery in Rural Alaska",
+    "citation": "Rachel Pearson, June Lukuyu and Jessica Kaminsky. ACS ES&T Water (2026).",
+    "year": 2026,
+    "type": "journal",
+    "url": "https://pubs.acs.org/doi/10.1021/acsestwater.6c00441",
+    "projects": []
+  },
+  {
+    "id": "J10",
+    "title": "An agenda for data-rich, action-oriented, ethical research on infrastructure in informal settlements",
+    "citation": "Yael Borofsky, Jessica Kersey, Federico Caprotti, Isabel Günther, Kenneth Harttgen, Grace Kagho, Daniel M Kammen, David Kostenwein, Paul Kyoma Asiimwe, Tea Lobo, June Lukuyu, Xolelwa Maha, Thabisa Mayapi, Peter M Mwesiga, Michael Nagenborg, Yamkela Rongwana, Sarah Sabry, Thandeka Tshabalala, Amarilli Varesio, Michael Walczak. Nature Cities, vol 2, 1026–1036 (2025).",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s44284-025-00340-9",
+    "projects": []
+  },
+  {
+    "id": "J9",
+    "title": "“Then electricity theft would end, nobody loves stealing”: Community-based solutions for improving electricity access in informal settlements in Kampala, Uganda",
+    "citation": "Kersey, J., Massa, C. K., Mbabazi, J., Asiimwe, P. K., Letaru, L., Jurua, M., Sirezi, B., Lukuyu, J., Van Hove, E., Mwesiga, P., Taneja, J., Johnson, N. G., Mukwaya, P. I., Kammen, D. M., & Kwong, L. H. Energy Research & Social Science (2025).",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214629625002245",
+    "projects": [
+      "spotlight-kampala"
+    ],
+    "abstract": "Despite generally high rates of grid connectivity in African cities, electricity access among users in informal settlements remains heavily constrained. This study explores the challenges that restrict electricity access and use across 25 informal settlements in Kampala, Uganda using a mixed-methods participatory action research (PAR) approach conducted by an inter- and transdisciplinary team. We find that the high cost of electricity, a complex and expensive utility connection process, weak renter protections, an unstable power supply, the poor condition and coverage of distribution infrastructure, and a lack of trust and communication between communities and electricity service providers were substantial barriers to electricity access and use. We present solutions that were identified and evaluated during a series of collaborative workshops with community members and other stakeholders. The study documents the research process as an application of PAR to topics of energy justice and infrastructural citizenship in urban informal settlements. By focusing on the lived experiences of residents, this work demonstrates the value of integrating local knowledge and collaborative problem-solving into energy research and policy. Our results demonstrate how the insights from PAR can enrich traditional infrastructure planning and management processes to foster more equitable, just, and democratic energy transitions."
+  },
+  {
+    "id": "J8",
+    "title": "Grid connections and inequitable access to electricity in African cities",
+    "citation": "Jessica Kersey, Civian Kiki Massa, June Lukuyu, Judith Mbabazi, Jay Taneja, Daniel M Kammen and Veronica Jacome. Nature Cities (2025).",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://doi.org/10.1038/s44284-025-00221-1",
+    "projects": [
+      "spotlight-kampala"
+    ],
+    "abstract": "As the Global South rapidly and inequitably urbanizes, cities are at the forefront of efforts to address energy-related dimensions of poverty. In many African cities, electricity via a connection to a grid—the gold standard of electrification—has not substantially displaced smoky, polluting fuels. Among low-income communities, connections tend to be based on improvised, informal arrangements with local intermediaries. The nature and level of access these connections provide is not well understood and cannot be easily measured using existing energy access metrics such as the Multi-Tier Framework. This study provides a grounded, empirical analysis of grid connections across 25 informal settlements in the Ugandan capital city of Kampala. Using a mixed-methods approach that incorporates surveys, interviews and remote power quality monitoring, we trace electrical and financial flows between the utility, supply intermediaries and end users. We identify 29 unique configurations of these flows—which we term service arrangements—that provide electricity of varying and overall limited levels of affordability, reliability, voltage stability, precarity, autonomy and safety. Our evidence suggests that the grid delivers highly inequitable electricity services that fall short of aspirations of modern energy for the city’s most vulnerable communities."
+  },
+  {
+    "id": "J7",
+    "title": "Managing grid impacts from increased electric vehicle adoption in African cities",
+    "citation": "June Lukuyu, Rebekah Shirley and Jay Taneja. Scientific Reports, vol 14, 24320 (2024).",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://www.nature.com/articles/s41598-024-75039-3",
+    "projects": [],
+    "abstract": "Electric vehicles are pivotal for global climate solutions, particularly in emerging markets like Africa. Despite the continent’s clean energy potential, electric vehicle adoption faces unique challenges due to inefficiencies and reliability issues of distribution power grids. Here, we analyze the impacts of expanding electric vehicle fleets—private, commercial, and paratransit—on Nairobi’s power grid. We simulate traffic patterns, charging behaviors, and transformer utilization using local mobility data. Our results show that while electric commercial and paratransit fleets may improve power system efficiency, widespread private EV adoption could significantly strain the grid, increasing peak loads and transformer aging. Smart charging strategies could mitigate these issues, reducing potential transformer replacement costs by up to 40%. Our study highlights the importance of tailored demand management and infrastructure planning to support EV growth in African cities, providing critical insights for policymakers, utilities, and transport planners to facilitate sustainable electric mobility transitions."
+  },
+  {
+    "id": "J6",
+    "title": "Powering Up in Africa: Electricity Demand Stimulation to Build Inclusive Economies, Reduce Inequality, and Improve Power System Sustainability",
+    "citation": "June Lukuyu and Jay Taneja. Current Sustainable/Renewable Energy Reports, vol. 10, no. 1, pages. 1–11, Jan. 2023.",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://link.springer.com/article/10.1007/s40518-023-00207-4",
+    "projects": []
+  },
+  {
+    "id": "J5",
+    "title": "Purchasing power: Examining customer profiles and patterns for decentralized electricity systems in East Africa",
+    "citation": "June Lukuyu, Myriam Shiran, Ryan Kennedy, Johannes Urpelainen, and Jay Taneja. Energy Policy. vol. 172. Elsevier BV, page. 113331, Jan. 2023.",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030142152200550X",
+    "projects": []
+  },
+  {
+    "id": "J4",
+    "title": "Guiding the deployment of electric vehicles in the developing world",
+    "citation": "Michael Dioha, June Lukuyu, Edgar Virgüez and Ken Caldeira. Environmental Research Letters. Vol. 17, Issue 7, page 071001. Jun 2022.",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ac765b",
+    "projects": []
+  },
+  {
+    "id": "J3",
+    "title": "Building the supply of demand: Experiments in mini-grid demand stimulation",
+    "citation": "June Lukuyu, Rob Fetter, P. P. Krishnapriya, Nathan Williams, and Jay Taneja. Development Engineering. vol. 6, page 100058, Jan. 2021.",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352728520300129",
+    "projects": []
+  },
+  {
+    "id": "J2",
+    "title": "A risk-adjusted techno-economic analysis for renewable-based milk cooling in remote dairy farming communities in East Africa",
+    "citation": "June Lukuyu, Richard Blanchard, and Paul Rowley. Renewable Energy. vol. 130, pages 700–713, Jan. 2019.",
+    "year": 2019,
+    "type": "journal",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148118307535",
+    "projects": []
+  },
+  {
+    "id": "J1",
+    "title": "Hybrid Power System Options for Off-Grid Rural Electrification in Northern Kenya",
+    "citation": "June Lukuyu and Judith B. Cardell. Smart Grid and Renewable Energy. vol. 05, no. 05, pages 89–106, May 2014.",
+    "year": 2014,
+    "type": "journal",
+    "url": "https://www.scirp.org/journal/paperinformation.aspx?paperid=45580",
+    "projects": []
+  },
+  {
+    "id": "C6",
+    "title": "Assessing Household Cooking Energy Behavior and Potential for Transition to E-Cooking in Informal Urban Settlements",
+    "citation": "Vongai Mutatu, Vijai Modi and June Lukuyu. 2024 IEEE Global Humanitarian Technology Conference (GHTC), Radnor, PA, USA, 2024, pp. 412-413",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10771567",
+    "projects": [],
+    "abstract": "Traditional cooking methods are hazardous and time-consuming, disproportionately exposing women and girls to these negative effects. In rural areas, fuelwood can be gathered from personal trees or the surrounding landscape. However, urban areas lack the luxury of gathering their biomass, and commercial fuels such as LPG are expensive due to high upfront costs and lumpy recurrent payments. While higher-income households can overcome these barriers, those in dense urban informal settlements find themselves in a precarious situation. Measures to drive E-cooking adoption have the greatest potential to succeed in urban informal settlements because a) access to biomass is constrained, b) most consumers are connected to the grid, and c) living quarters are smaller and lack ventilation. Since informal settlements can make up a significant proportion of the urban population, investing in the transition to clean cooking in these areas may yield the highest returns on public investments."
+  },
+  {
+    "id": "C5",
+    "title": "A Principled Incentive Mechanism to Promote Economic Viability of Mini-Grids",
+    "citation": "Anokhi Mehta, Luyao Niu, Dinuka Sahabandu, June Lukuyu, and Radha Poovendran. 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10689025",
+    "projects": [],
+    "abstract": "The urgent need for universal electrification and the high cost of grid expansion highlight the crucial role of mini-grids in Sub-Saharan Africa (SSA). These systems harness technologies such as cost-effective renewable energy to provide reliable and affordable electricity to remote, off-grid communities. However, the existing mini-grids lack economic viability in the long run. To address this challenge, mini-grid demand stimulation programs have been developed to stimulate electricity demand by incentivizing the adoption of appliances, particularly for productive purposes...."
+  },
+  {
+    "id": "C4",
+    "title": "Diesel GenSat: Using Satellite Data to Detect Diesel-Powered Irrigation for Guiding Electrification in Ethiopia",
+    "citation": "June Lukuyu, Gunther Bensch, Terrence Conlon, Anvita Patel, Vijay Modi, and Jay Taneja. ACM e-Energy '22. June 2022. pp. 325–337.",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3538637.3538862",
+    "projects": []
+  },
+  {
+    "id": "C3",
+    "title": "Fish and Chips: Converting Fishing Boats for Electric Mobility to Serve as Minigrid Anchor Loads",
+    "citation": "June Lukuyu, Aggrey Muhebwa, and Jay Taneja. ACM e-Energy '20. June 2020. Pp. 208–219.",
+    "year": 2020,
+    "type": "conference",
+    "url": "https://dl.acm.org/doi/10.1145/3396851.3397687",
+    "projects": []
+  },
+  {
+    "id": "C2",
+    "title": "The Impact of Variable Market Price on Optimal Control of Wind-Hydro Storage System in Kenya",
+    "citation": "Maureen Murage, Judith B. Cardell, June Lukuyu, and Lindsay Anderson. 2014 47th Hawaii International Conference on System Sciences, Waikoloa, HI, USA, 2014, pp. 2417-2425.",
+    "year": 2014,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/document/6758902",
+    "projects": []
+  },
+  {
+    "id": "C1",
+    "title": "Wind-diesel microgrid system for remote villages in Kenya",
+    "citation": "June Lukuyu. 2012 North American Power Symposium (NAPS), Champaign, IL, USA, 2012, pp. 1-6, doi: 10.1109/NAPS.2012.6336319.",
+    "year": 2012,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/document/6336319",
+    "projects": []
+  },
+  {
+    "id": "A1",
+    "title": "Identifying Opportunities to Electrify Diesel-Powered Irrigation Pumps Using Remote Sensing Data in Ethiopia",
+    "citation": "June Lukuyu and Jay Taneja, December 2020, American Geophysical Union, Fall Meeting 2020, abstract #GC094-04",
+    "year": 2020,
+    "type": "abstract",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AGUFMGC094..04L/abstract",
+    "projects": []
+  },
+  {
+    "id": "TR2",
+    "title": "Advancing Electric Cooking Transitions in Informal Settlements: Lessons from Kampala",
+    "citation": "Jess Kersey, Judith Mbabazi, Civian Kiki Massa, Ana Isabel Orozco, Will Clements, Paul Kyoma Asiimwe, Peter Mwesiga, Dr. Laura H. Kwong, Dr. Jay Taneja, Dr. June Lukuyu, Trevor Kigenyi, Dr. Nigel Scott, Ben Odongo. May 6, 2025",
+    "year": 2025,
+    "type": "report",
+    "url": "https://spotlightkampala.com/sites/default/files/reports-file/Advancing%20Electric%20Cooking%20Transitions%20in%20Informal%20Settlements%20-%20Final.pdf",
+    "projects": [
+      "spotlight-kampala"
+    ]
+  },
+  {
+    "id": "TR1",
+    "title": "Illuminating Energy Inequities in Informal Urban Communities: Main Findings Report",
+    "citation": "Jessica Kersey, Judith Mbabazi, Civian Kiki Massa, Lydia Letaru, June Lukuyu, Elena van Hove, Paul Kyoma.  Spotlight Kampala, July 26, 2023",
+    "year": 2023,
+    "type": "report",
+    "url": "https://spotlightkampala.com/sites/default/files/reports-file/FINAL_SK%20profile.pdf",
+    "projects": [
+      "spotlight-kampala"
+    ]
+  },
+  {
+    "id": "P10",
+    "title": "When Climate Shocks Collide with Grid Failure",
+    "citation": "June Lukuyu, Kwame Donkor, Mohini Bariya, Genevieve Flaspohler. The Energy for Growth Hub. April 9, 2026",
+    "year": 2026,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/",
+    "projects": [
+      "accra-grid-weather"
+    ]
+  },
+  {
+    "id": "P9",
+    "title": "The Hidden Role of ‘E-Boiling’ in Clean Cooking: How Nairobi’s Informal Settlements are Quietly Powering an Electric Transition",
+    "citation": "June Lukuyu, Nathan Williams, Vongaishe Mutatu , Austine Owuor Otieno, Paul Kyoma Asiimwe, Vijay Modi. NextBillion. March 11,2026",
+    "year": 2026,
+    "type": "policy",
+    "url": "https://nextbillion.net/hidden-role-of-e-boiling-in-clean-cooking-how-nairobis-informal-settlements-are-quietly-powering-electric-transition/",
+    "projects": [
+      "electric-cooking-nairobi"
+    ]
+  },
+  {
+    "id": "P8",
+    "title": "Three Ways the Multi-Tier Framework Could Better Capture the Nature and Scale of Urban Energy Poverty",
+    "citation": "Jess Kersey, June Lukuyu, Civian Kiki Massa, Bryan Bonsuk Koo. The Energy for Growth Hub. Jan 17, 2025",
+    "year": 2025,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/three-ways-the-multi-tier-framework-could-better-capture-the-nature-and-scale-of-urban-energy-poverty/",
+    "projects": [
+      "spotlight-kampala"
+    ]
+  },
+  {
+    "id": "P7",
+    "title": "Recognizing the energy access challenges of informal urban communities in Africa",
+    "citation": "June Lukuyu and Jess Kersey. The Energy for Growth Hub. December 2022",
+    "year": 2022,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/recognizing-the-energy-access-challenges-of-informal-urban-communities-in-africa/",
+    "projects": [
+      "spotlight-kampala"
+    ]
+  },
+  {
+    "id": "P6",
+    "title": "Who Decides Africa’s Net Zero Pathways? Five ways to fix how we model African energy transitions and why it matters for climate and development",
+    "citation": "Lauren Culver, Rose Mutiso, Moussa Blimpo, Murefu Barasa, Katie Auth, June Lukuyu, Ken Caldeira, Michael Dioha, Habiba Ahut Daggash, Joel Nana, Zeke Hausfather, Lily Odarno, Joan Nkiriki. The Energy for Growth Hub. October 2022.",
+    "year": 2022,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/who-decides-africas-net-zero-pathways/",
+    "projects": []
+  },
+  {
+    "id": "P5",
+    "title": "The Drivers of Africa's Electric Vehicle Future Might Be Different Than You Think",
+    "citation": "June Lukuyu, Rebekah Shirley, Jay Taneja. The Energy for Growth Hub. October 24, 2022.",
+    "year": 2022,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/the-drivers-africas-electric-vehicle-future-might-be-different-than-you-think/",
+    "projects": []
+  },
+  {
+    "id": "P4",
+    "title": "Opportunities for Data-Driven Planning at the Power-Agriculture Nexus in Ethiopia",
+    "citation": "Jay Taneja, June Lukuyu. The Energy for Growth Hub. Sep 28, 2022",
+    "year": 2022,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/opportunities-for-data-driven-planning-at-the-power-agriculture-nexus-in-ethiopia/",
+    "projects": []
+  },
+  {
+    "id": "P3",
+    "title": "How can electric transportation advance Africa's sustainable development agenda?",
+    "citation": "June Lukuyu. The Energy for Growth Hub. May 9, 2022",
+    "year": 2022,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/how-can-electric-transportation-advance-africas-sustainable-development-agenda/",
+    "projects": []
+  },
+  {
+    "id": "P2",
+    "title": "Sub-Saharan Africa Should Shift its Focus to Developing Productive Uses of Energy",
+    "citation": "June Lukuyu. The Energy for Growth Hub. December 6, 2021",
+    "year": 2021,
+    "type": "policy",
+    "url": "https://energyforgrowth.org/article/sub-saharan-africa-should-shift-its-focus-to-developing-productive-uses-of-energy/",
+    "projects": []
+  },
+  {
+    "id": "P1",
+    "title": "Can microgrids enable macro development?",
+    "citation": "Brookings Blog. Rob Fetter, June Lukuyu, Jay Taneja, and Nathan Williams. June 27, 2019",
+    "year": 2019,
+    "type": "policy",
+    "url": "https://www.brookings.edu/articles/can-microgrids-enable-macro-development/",
+    "projects": []
+  }
+]
