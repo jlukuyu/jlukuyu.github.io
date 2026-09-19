@@ -1,0 +1,98 @@
+{
+  "fullName": "Interdisciplinary Energy Analytics for Society",
+  "headline": "Energy systems.\nBuilt around people.",
+  "intro": "We bring engineering, policy, and community perspectives together to plan equitable, sustainable, and resilient energy systems.",
+  "mission": "Based at the University of Washington, IDEAS Research Lab works at the intersection of climate, energy, and development. We combine field measurements, energy systems modeling, and data science with community-engaged research to support decisions that reflect local needs.",
+  "approach": [
+    {
+      "title": "Listen & collaborate",
+      "text": "Work with communities, utilities, and policymakers to understand energy needs, priorities, and lived experiences."
+    },
+    {
+      "title": "Measure & model",
+      "text": "Connect field data and participatory methods with energy systems analysis, optimization, and machine learning."
+    },
+    {
+      "title": "Inform decisions",
+      "text": "Develop evidence and decision-support tools for reliable power, affordable energy services, and fairer transitions."
+    }
+  ],
+  "themes": [
+    {
+      "title": "Power system resilience & reliability",
+      "text": "Understand how climate hazards and infrastructure vulnerabilities affect electricity service—and who bears the greatest burden.",
+      "route": "research/grid-loss-localization"
+    },
+    {
+      "title": "Community-led microgrids",
+      "text": "Explore ownership, governance, and system design that support locally defined goals for resilience, affordability, and energy sovereignty.",
+      "route": "research/core"
+    },
+    {
+      "title": "Just energy transitions & planning",
+      "text": "Make planning more accessible and connect energy choices with social equity, policy, and community priorities.",
+      "route": "research/seer"
+    },
+    {
+      "title": "Context-aware electrification",
+      "text": "Plan electric mobility, clean cooking, and rural energy services around how people live, travel, and use electricity.",
+      "route": "research/electric-three-wheelers-india"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "lab-group.jpg",
+      "title": "The people behind IDEAS",
+      "caption": "Our doctoral researchers at the University of Washington.",
+      "alt": "Five IDEAS Lab researchers standing together outdoors",
+      "route": "our-team",
+      "label": "Meet our team",
+      "fit": "cover"
+    },
+    {
+      "image": "kigali-data-collection-august-2024-0.jpg",
+      "title": "Listening to commuters in Kigali",
+      "caption": "Field research on passenger perspectives and electric bus services, August 2024.",
+      "alt": "Researchers conducting a conversation beside a bus in Kigali",
+      "route": "research/electric-bus-kigali",
+      "label": "Explore the project",
+      "fit": "contain"
+    },
+    {
+      "image": "ideas-lab-at-the-2025-uw-ece-research-showcase-6.jpg",
+      "title": "Research in conversation",
+      "caption": "IDEAS researchers at the 2025 UW ECE Research Showcase.",
+      "alt": "Three IDEAS researchers standing beside their research posters",
+      "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase",
+      "label": "Read the story",
+      "fit": "contain"
+    },
+    {
+      "image": "eguide-annual-retreat-in-rochester-ny-september-12-14-2024-0.jpg",
+      "title": "Connecting across disciplines",
+      "caption": "The eGUIDE collaboration at its September 2024 retreat in Rochester, New York.",
+      "alt": "eGUIDE retreat participants gathered outside the Golisano Institute for Sustainability",
+      "route": "post/eguide-annual-retreat-in-rochester-ny-september-12-14-2024",
+      "label": "Explore the retreat",
+      "fit": "contain"
+    },
+    {
+      "image": "integrator-2024-first-page.jpg",
+      "title": "IDEAS in The Integrator",
+      "caption": "Opening spread of the 2024 faculty feature. By Wayne Gillam / UW ECE; photo credit: Ryan Hoover, as printed.",
+      "alt": "Opening magazine spread featuring June Lukuyu and community-based energy research",
+      "href": "https://www.ece.uw.edu/spotlight/june-lukuyu/",
+      "label": "Read the accessible article",
+      "fit": "contain"
+    },
+    {
+      "image": "summer-2024-undergraduate-research-experience-0.png",
+      "title": "Learning through research",
+      "caption": "Sharing undergraduate research on energy equity during Summer 2024.",
+      "alt": "A student discussing a research poster with a visitor",
+      "route": "post/summer-2024-undergraduate-research-experience",
+      "label": "Read the student story",
+      "fit": "contain"
+    }
+  ]
+}
