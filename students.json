@@ -1,8 +1,189 @@
 {
   "eliane-nirere": {
-    "timeline": [],
-    "projects": [],
-    "outputs": []
+    "timeline": [
+      {
+        "quarter": "August 2023 – April 2025",
+        "year": 2023,
+        "title": "Comparing approaches to electricity demand research",
+        "activities": [
+          "Comparative study in Fiji: traditional surveys versus gamification."
+        ],
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "quarter": "March 2025",
+        "year": 2025,
+        "title": "Sharing research at UW ECE",
+        "activities": [
+          "Presented research at the 2025 UW ECE Research Showcase."
+        ],
+        "links": [
+          {
+            "label": "2025 research showcase",
+            "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+          }
+        ]
+      },
+      {
+        "quarter": "April – October 2025",
+        "year": 2025,
+        "title": "Engaging minigrid developers",
+        "activities": [
+          "Collected data and conducted site visits to engage minigrid developers across countries in Sub-Saharan Africa."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "July – August 2025",
+        "year": 2025,
+        "title": "Clean cooking fieldwork in Rwanda",
+        "activities": [
+          "Fieldwork on clean cooking appliance adoption in peri-urban areas of Rwanda."
+        ],
+        "links": [
+          {
+            "label": "Explore the Rwanda energy demand project",
+            "route": "research/rwanda-energy-demand"
+          },
+          {
+            "label": "Read the fieldwork story",
+            "route": "post/kigali-data-collection-may-aug-2025"
+          }
+        ],
+        "image": {
+          "src": "kigali-data-collection-may-aug-2025-0.jpeg",
+          "alt": "Household energy research fieldwork in Kigali",
+          "caption": "IDEAS Lab fieldwork in Kigali, 2025."
+        }
+      },
+      {
+        "quarter": "September 2025 – March 2026",
+        "year": 2025,
+        "title": "Clean Energy Institute fellowship",
+        "activities": [
+          "Clean Energy Institute (CEI) Fellow."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "January 2026",
+        "year": 2026,
+        "title": "Sarala Vadari fellowship award",
+        "activities": [
+          "Received the Sarala Vadari Award recognizing outstanding academic achievement in ECE. UW’s March 2026 feature highlights the award and her electrification research."
+        ],
+        "links": [
+          {
+            "label": "Read the UW award feature",
+            "href": "https://www.cei.washington.edu/eliane-nirere-2026-vadari-fellowship/"
+          }
+        ]
+      },
+      {
+        "quarter": "January – May 2026",
+        "year": 2026,
+        "title": "Assessing minigrid capacity needs",
+        "activities": [
+          "REUCS Minigrid Capacity Needs Assessment."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "April 2026",
+        "year": 2026,
+        "title": "Renewable Energy Scholarship Foundation award",
+        "activities": [
+          "Received a Renewable Energy Scholarship Foundation (RESF) Award."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "July – September 2026",
+        "year": 2026,
+        "title": "Clean energy research internship",
+        "activities": [
+          "WRI Clean Energy Research Intern, July–September 2026."
+        ],
+        "links": [
+          {
+            "label": "WRI internship profile",
+            "href": "https://www.wri.org/profile/eliane-nirere"
+          }
+        ]
+      },
+      {
+        "quarter": "August 2026",
+        "year": 2026,
+        "title": "Justice by Design",
+        "activities": [
+          "Presented at Macro Energy Systems: “Justice by Design: Integrating Community Insights into Electrification Planning.”"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "September 2026",
+        "year": 2026,
+        "title": "Toward AI-ready power systems",
+        "activities": [
+          "Authored the IEEE PES / Power Africa paper “Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns.”"
+        ],
+        "links": []
+      }
+    ],
+    "projects": [
+      {
+        "id": "fiji",
+        "title": "Traditional surveys and gamification in Fiji",
+        "description": "Comparative research conducted August 2023–April 2025.",
+        "projectSlug": "mini-grid-demand-fiji",
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "id": "rwanda",
+        "title": "Clean cooking appliance adoption in Rwanda",
+        "description": "Fieldwork on clean cooking appliance adoption in peri-urban communities, July–August 2025.",
+        "projectSlug": "rwanda-energy-demand",
+        "links": [
+          {
+            "label": "Explore the Rwanda energy demand project",
+            "route": "research/rwanda-energy-demand"
+          }
+        ]
+      },
+      {
+        "id": "minigrid-capacity",
+        "title": "Minigrid developer engagement and capacity needs",
+        "description": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
+        "links": []
+      }
+    ],
+    "outputs": [
+      {
+        "id": "justice-by-design",
+        "type": "Presentation · August 2026",
+        "title": "Justice by Design: Integrating Community Insights into Electrification Planning",
+        "note": "Macro Energy Systems presentation. Public presentation materials have not yet been added.",
+        "links": []
+      },
+      {
+        "id": "ai-ready",
+        "type": "Conference paper · September 2026",
+        "title": "Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns",
+        "note": "IEEE PES / Power Africa paper listed in the supplied research timeline. A public paper link and proceedings publication status have not yet been verified.",
+        "links": []
+      }
+    ],
+    "updated": "September 2026"
   },
   "ahana-mukherjee": {
     "timeline": [
@@ -346,9 +527,172 @@
     "updated": "September 2026"
   },
   "kwame-donkor": {
-    "timeline": [],
-    "projects": [],
-    "outputs": []
+    "timeline": [
+      {
+        "quarter": "Summer 2024",
+        "year": 2024,
+        "title": "Beginning Accra grid–weather research",
+        "activities": [
+          "Attended the IEEE Power & Energy Society General Meeting in Seattle.",
+          "Attended ORCAS 2024: International Conference on Energy Conversion and Storage, Bainbridge Island.",
+          "Began research project: Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2024",
+        "year": 2024,
+        "title": "Teaching and grid resilience",
+        "activities": [
+          "Teaching Assistant for Energy, Materials, Devices and Systems.",
+          "Continued Accra grid–weather research."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Winter 2025",
+        "year": 2025,
+        "title": "Communicating research",
+        "activities": [
+          "UW Scholars’ Studio lightning talk: “Integrating Social Equity and Climate Vulnerability Considerations into Grid Resilience Planning for African Cities.”",
+          "Continued Accra grid–weather research.",
+          "Presented research at the March 2025 UW ECE Research Showcase."
+        ],
+        "links": [
+          {
+            "label": "2025 research showcase",
+            "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
+          }
+        ],
+        "image": {
+          "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-0.png",
+          "alt": "IDEAS researchers at the UW ECE Research Showcase",
+          "caption": "IDEAS at the 2025 UW ECE Research Showcase."
+        }
+      },
+      {
+        "quarter": "Spring 2025",
+        "year": 2025,
+        "title": "Fellowship and qualifying exams",
+        "activities": [
+          "Received the Cascade Energy Fellowship through the Renewable Energy Scholarship Foundation.",
+          "Took and passed qualifying exams.",
+          "Continued Accra grid–weather research."
+        ],
+        "links": [
+          {
+            "label": "Fellowship listed on professional profile",
+            "href": "https://www.linkedin.com/in/ing-kwame-donkor"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2025",
+        "year": 2025,
+        "title": "Industry internship",
+        "activities": [
+          "Internship at Schweitzer Engineering Laboratories."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2025",
+        "year": 2025,
+        "title": "Teaching and conference exchange",
+        "activities": [
+          "Teaching Assistant for EE 454.",
+          "INFORMS Annual Meeting, Atlanta: hybrid presentation and poster session, “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition.”",
+          "Continued Accra grid–weather research."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Winter 2026",
+        "year": 2026,
+        "title": "Grid resilience in conversation",
+        "activities": [
+          "Virtual presentation at a Kilowatts for Humanity meeting: “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition: A Case Study of Greater Accra, Ghana.”",
+          "Continued Accra grid–weather research."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Spring 2026",
+        "year": 2026,
+        "title": "Connecting evidence with policy",
+        "activities": [
+          "Continued Accra grid–weather research.",
+          "Co-authored “When Climate Shocks Collide with Grid Failure,” published by the Energy for Growth Hub on April 9, 2026, with June Lukuyu, Mohini Bariya, and Genevieve Flaspohler."
+        ],
+        "links": [
+          {
+            "label": "Read the policy memo",
+            "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2026",
+        "year": 2026,
+        "title": "Research completion and manuscript submission",
+        "activities": [
+          "Completed the research project: Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods.",
+          "Submitted the manuscript to Communications Earth & Environment (Nature Portfolio)."
+        ],
+        "links": [
+          {
+            "label": "Manuscript details",
+            "href": "#output-accra-manuscript"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "accra-grid-weather",
+        "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+        "description": "Research on weather, outages, voltage, and neighborhood vulnerability in Greater Accra, begun in Summer 2024 and completed in Summer 2026. The resulting manuscript has been submitted.",
+        "links": [
+          {
+            "label": "Policy memo",
+            "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/"
+          },
+          {
+            "label": "Submitted manuscript",
+            "href": "#output-accra-manuscript"
+          }
+        ]
+      }
+    ],
+    "outputs": [
+      {
+        "id": "accra-manuscript",
+        "type": "Manuscript · Submitted Summer 2026",
+        "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+        "note": "Submitted to Communications Earth & Environment (Nature Portfolio). This is a submitted manuscript, not a published article; no public manuscript link has been added.",
+        "links": []
+      },
+      {
+        "id": "climate-shocks",
+        "type": "Policy memo · 9 April 2026",
+        "title": "When Climate Shocks Collide with Grid Failure",
+        "note": "Co-authored with June Lukuyu, Mohini Bariya, and Genevieve Flaspohler for the Energy for Growth Hub.",
+        "links": [
+          {
+            "label": "Read the memo",
+            "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/"
+          }
+        ]
+      },
+      {
+        "id": "informs",
+        "type": "Presentation & poster · Autumn 2025",
+        "title": "Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition",
+        "note": "INFORMS Annual Meeting, Atlanta. A related Greater Accra case-study presentation was delivered virtually to Kilowatts for Humanity in Winter 2026.",
+        "links": []
+      }
+    ],
+    "updated": "September 2026"
   },
   "miquilina-anagbah": {
     "timeline": [],
