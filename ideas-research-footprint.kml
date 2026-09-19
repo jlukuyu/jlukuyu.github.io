@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>IDEAS Lab — Geographic Footprint of Engagement</name><Placemark><name>Ecuador</name><description>Country-level location; pin does not indicate a field site.
+
+Cofán Tribal Energy Resilience
+https://jlukuyu.github.io/ideas-lab/research/#project-cofan-energy-resilience</description><Point><coordinates>-78.18,-1.83,0</coordinates></Point></Placemark><Placemark><name>Fiji</name><description>Country-level location; pin does not indicate a field site.
+
+Comparing Gamification and Conventional Survey Approaches for Mini-Grid Demand Estimation in Fiji
+https://jlukuyu.github.io/ideas-lab/research/#project-mini-grid-demand-fiji</description><Point><coordinates>178.06,-17.71,0</coordinates></Point></Placemark><Placemark><name>Ghana</name><description>Country-level location; pin does not indicate a field site.
+
+From Observing Power to Improving Power: Loss Localization in the Distribution Grid through Topology
+https://jlukuyu.github.io/ideas-lab/research/#project-grid-loss-localization
+
+Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods
+https://jlukuyu.github.io/ideas-lab/research/#project-accra-grid-weather</description><Point><coordinates>-1.02,7.95,0</coordinates></Point></Placemark><Placemark><name>India</name><description>Country-level location; pin does not indicate a field site.
+
+Charging infrastructure for electric three-wheelers
+https://jlukuyu.github.io/ideas-lab/research/#project-electric-three-wheelers-india</description><Point><coordinates>78.96,20.59,0</coordinates></Point></Placemark><Placemark><name>Kenya</name><description>Country-level location; pin does not indicate a field site.
+
+The role of electric boiling in the electric cooking transition in Nairobi and Kigali
+https://jlukuyu.github.io/ideas-lab/research/#project-electric-cooking-nairobi
+
+Measuring hidden electrical hazards
+https://jlukuyu.github.io/ideas-lab/research/#project-hidden-electrical-hazards</description><Point><coordinates>37.91,-0.02,0</coordinates></Point></Placemark><Placemark><name>Nigeria</name><description>Country-level location; pin does not indicate a field site.
+
+CORE — Community Owned Renewable Electrification
+https://jlukuyu.github.io/ideas-lab/research/#project-core</description><Point><coordinates>8.68,9.08,0</coordinates></Point></Placemark><Placemark><name>Rwanda</name><description>Country-level location; pin does not indicate a field site.
+
+The role of electric boiling in the electric cooking transition in Nairobi and Kigali
+https://jlukuyu.github.io/ideas-lab/research/#project-electric-cooking-nairobi
+
+Bus Operator and Rider Satisfaction Analysis to Support BasiGo’s Rollout in Rwanda
+https://jlukuyu.github.io/ideas-lab/research/#project-electric-bus-kigali
+
+Energy Transition Demand Modeling Study for Rwanda
+https://jlukuyu.github.io/ideas-lab/research/#project-rwanda-energy-demand</description><Point><coordinates>29.87,-1.94,0</coordinates></Point></Placemark><Placemark><name>Uganda</name><description>Country-level location; pin does not indicate a field site.
+
+Spotlight Kampala
+https://jlukuyu.github.io/ideas-lab/research/#project-spotlight-kampala
+
+Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda
+https://jlukuyu.github.io/ideas-lab/research/#project-katiirwe-weather-electricity</description><Point><coordinates>32.29,1.37,0</coordinates></Point></Placemark><Placemark><name>United States</name><description>Country-level location; pin does not indicate a field site.
+
+Climate and Equity Considerations for Community-Based Demand Response Strategies in the Pacific Northwest
+https://jlukuyu.github.io/ideas-lab/research/#project-community-demand-response
+
+Microgrids for resilience in Washington State
+https://jlukuyu.github.io/ideas-lab/research/#project-washington-microgrid-resilience</description><Point><coordinates>-98.58,39.83,0</coordinates></Point></Placemark></Document></kml>

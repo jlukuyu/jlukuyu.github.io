@@ -92,3 +92,7 @@ Eliane and Kwame timelines were populated from the owner-supplied eliane.docx an
 `research-filters.js` enhances the native details elements with theme/subtheme filters and opens permalink targets. Without JavaScript all project accordions remain usable. New internal project links target research/#project-<slug>; existing standalone routes remain for saved URLs. Lucide icons are bundled locally under their ISC license in LUCIDE-LICENSE.
 
 Research sponsor and partner logos and URLs are maintained in `research-organizations.json`; project memberships use `sponsorOrgs` and `partnerDetails` in `projects.json`. Student links remain separate in `people`.
+
+## Geographic footprint
+
+`research-locations.json` maps verified project slugs to countries. The Google My Maps embed is owned by the lab account: https://www.google.com/maps/d/edit?mid=188zJN6-owhrNxQi7twgEV-ER5ue5FGg. Import `ideas-research-footprint.kml` into its country layer. Keep map data and the accessible country/project list synchronized. Country markers are illustrative, not exact field locations. Regional projects without verified country assignments are not given inferred pins.
