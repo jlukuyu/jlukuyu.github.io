@@ -164,7 +164,8 @@
         "id": "minigrid-capacity",
         "title": "Minigrid developer engagement and capacity needs",
         "description": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
-        "links": []
+        "links": [],
+        "projectSlug": "minigrid-capacity"
       }
     ],
     "outputs": [
@@ -661,7 +662,8 @@
             "label": "Submitted manuscript",
             "href": "#output-accra-manuscript"
           }
-        ]
+        ],
+        "projectSlug": "accra-grid-weather"
       }
     ],
     "outputs": [

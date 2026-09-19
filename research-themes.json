@@ -1,0 +1,26 @@
+[
+  {
+    "id": "planning",
+    "title": "Energy Planning & Development",
+    "icon": "map",
+    "description": "Planning energy systems around development, equity, and community priorities."
+  },
+  {
+    "id": "access",
+    "title": "Energy Access",
+    "icon": "plug-zap",
+    "description": "Reliable, affordable energy services, from African minigrids to underserved urban communities."
+  },
+  {
+    "id": "technology",
+    "title": "Electrification & Emerging Technology",
+    "icon": "cpu",
+    "description": "E-mobility, e-cooking, and AI & Computing for energy transitions."
+  },
+  {
+    "id": "resilience",
+    "title": "Power System Reliability & Resilience",
+    "icon": "shield-check",
+    "description": "Understanding climate risk, strengthening grids, and improving service quality."
+  }
+]
