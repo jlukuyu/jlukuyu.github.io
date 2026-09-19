@@ -1,3 +1,4 @@
+import {renderTeam} from './team-render.mjs';
 import {renderHomepage,renderNews} from './home-render.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -41,7 +42,7 @@ function render(slug){
  const student=people.find(p=>p.slug && 'our-team/'+p.slug===slug);
  if(student)return studentPage(student);
  if(!slug)return renderHomepage(homepage,updates,{esc,url,img});
- if(slug==='our-team')return `<div class="wrap"><div class="page-intro"><p class="eyebrow">Meet the team</p><h1>Our research group</h1><p>${esc(data('our-team').blocks[2].text.toLowerCase().replace(/^w/,'W'))}.</p></div><div class="people">${people.map(p=>`<article class="person">${img(p.image,p.name)}<div><h2>${esc(p.name)}</h2><div class="role">${esc(p.role)}</div><p>${esc(p.bio)}</p>${p.slug?`<a href="${url('our-team/'+p.slug)}">Research journey &amp; timeline ↗</a><br>`:''}${link(p.url,'Professional profile ↗')}</div></article>`).join('')}</div></div>`;
+ if(slug==='our-team')return renderTeam({people,undergraduates:data('undergraduates'),esc,img,url,link});
  if(slug==='research')return `<div class="wrap"><div class="page-intro"><p class="eyebrow">What we work on</p><h1>Research &amp; initiatives</h1></div>${themeGrid()}<div class="section-head section"><h2>Projects &amp; collaborations</h2><a href="${url('publications')}">See publications ↗</a></div><div class="projects">${projects.map(p=>`<article class="project"><span class="tag">${esc(p.status)}</span><h2><a class="project-title-link" href="${url(projectRoute(p))}">${esc(p.title)}</a></h2><p>${esc(p.summary)}</p>${p.funding?`<p class="project-support">Supported by: ${esc(p.funding)}</p>`:''}<a href="${url(projectRoute(p))}">Explore project →</a></article>`).join('')}</div><section class="section"><h2>Our geographic footprint of engagement</h2>${img(research.map,'Map of IDEAS Lab geographic engagement','map')}</section></div>`;
  if(slug==='publications')return `<div class="wrap space-bottom"><div class="page-intro"><p class="eyebrow">Our work</p><h1>Publications</h1><p>${link(data('publications').blocks[1].links[0].url,'View the full publication list on Google Scholar ↗')}</p></div>${papers.map((p,i)=>`<article class="paper"><span class="number">0${i+1}</span><div><h2>${esc(p.title)}</h2><p class="authors">${esc(p.authors)}</p><details><summary>Read abstract</summary><p>${esc(p.abstract)}</p></details>${link(p.url,'Read the paper ↗')}</div></article>`).join('')}</div>`;
  if(slug==='news')return renderNews(updates,{esc,url,img});
