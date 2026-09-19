@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "date": "2026-08-06",
+      "dateLabel": "6 August 2026",
+      "kind": "Plenary panel",
+      "title": "Beyond Vehicle Adoption: E-Mobility and Economic Transformation",
+      "summary": "June Lukuyu was a panelist in the SETI 2026 plenary, “Beyond Vehicle Adoption: Building the Evidence Base for E-Mobility as a Driver of Economic Transformation.” Co-led by Duke University’s Energy Access Project (EAP) and the Sustainable Energy Transitions Initiative (SETI), the session explored evidence priorities for policy, investment, and implementation, using Kenya’s e-mobility transition as a case study.",
+      "href": "https://energyaccess.duke.edu/beyond-vehicle-adoption-building-the-evidence-base-for-e-mobility-as-a-driver-of-economic-transformation/",
+      "source": "Duke Energy Access Project · SETI",
+      "image": null
+    },
+    {
+      "date": "2026-07-29",
+      "dateLabel": "26–29 July 2026",
+      "kind": "Keynote & mentorship",
+      "title": "Keynote and mentorship at Dartmouth’s New Energy Summer Summit",
+      "summary": "June Lukuyu served as a keynote speaker and mentor at Dartmouth’s 2026 New Energy Summer Summit in Hanover, New Hampshire. Hosted by the Arthur L. Irving Institute for Energy & Society, the summit brought together early-career energy and climate scholars to build interdisciplinary connections and collaboration.",
+      "href": "https://irving.dartmouth.edu/research/new-energy-dartmouth/new-energy-summer-summit/2026-program-highlights",
+      "source": "Dartmouth · Irving Institute",
+      "image": "person-0.jpg"
+    },
+    {
       "date": "2026-04-29",
       "dateLabel": "29 April 2026",
       "kind": "Project news",
@@ -139,6 +159,16 @@
       "href": "https://www.engr.washington.edu/news/deans-medalists/past-medalists",
       "source": "UW College of Engineering",
       "image": "person-5.png"
+    },
+    {
+      "date": "2023-10-19",
+      "dateLabel": "19 October 2023 · announcement",
+      "kind": "Research & engagement",
+      "title": "June Lukuyu joins panel at UW’s CRIFS launch",
+      "summary": "The UW Center on Risk and Inclusion in Food Systems (CRIFS) launched with a workshop and learning event on risks facing small-scale agricultural producers. June Lukuyu joined the panel on commercialization and income diversification under risk, examining institutions, infrastructure, and the enabling environment. The learning event was co-hosted by CRIFS and the Gates Foundation.",
+      "href": "https://evans.uw.edu/news/uw-center-on-risk-and-inclusion-in-food-systems/",
+      "source": "UW Evans School",
+      "image": null
     },
     {
       "date": "2023-06-13",
