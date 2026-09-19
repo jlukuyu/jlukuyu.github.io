@@ -50,6 +50,15 @@
       "fit": "cover"
     },
     {
+      "image": "annual-get-together.jpg",
+      "title": "Our annual get-together",
+      "caption": "The IDEAS community spending time together beyond the lab.",
+      "alt": "IDEAS community members gathered under trees beside the water at the annual get-together",
+      "route": "our-team",
+      "label": "Meet our community",
+      "fit": "contain"
+    },
+    {
       "image": "kigali-data-collection-august-2024-0.jpg",
       "title": "Listening to commuters in Kigali",
       "caption": "Field research on passenger perspectives and electric bus services, August 2024.",

@@ -7,30 +7,38 @@ for (const gallery of document.querySelectorAll('[data-gallery]')) {
  const next=gallery.querySelector('[data-gallery-next]');
  const play=gallery.querySelector('[data-gallery-play]');
  const track=gallery.querySelector('.gallery-track');
- let index=0,timer=null;
+ const motion=window.matchMedia('(prefers-reduced-motion: reduce)');
+ let index=0,timer=null,playing=!motion.matches,hovered=false;
  function show(n){
   index=(n+slides.length)%slides.length;
-  slides.forEach((slide,i)=>{slide.hidden=i!==index;});
+  slides.forEach((slide,i)=>{
+   slide.classList.toggle('is-active',i===index);
+   slide.setAttribute('aria-hidden',String(i!==index));
+   slide.inert=i!==index;
+  });
   status.textContent=`${index+1} / ${slides.length}`;
  }
- function pause(){
+ function sync(){
   if(timer!==null)clearInterval(timer);
-  timer=null;play.textContent='Play slideshow';play.setAttribute('aria-pressed','false');status.setAttribute('aria-live','polite');
+  timer=null;
+  play.textContent=playing?'Pause slideshow':'Play slideshow';
+  play.setAttribute('aria-pressed',String(playing));
+  status.setAttribute('aria-live',playing?'off':'polite');
+  if(playing&&!hovered&&!document.hidden)timer=setInterval(()=>show(index+1),5000);
  }
+ function pause(){playing=false;sync();}
  function advance(delta){pause();show(index+delta);}
  previous.addEventListener('click',()=>advance(-1));
  next.addEventListener('click',()=>advance(1));
- play.addEventListener('click',()=>{
-  if(timer!==null){pause();return;}
-  play.textContent='Pause slideshow';play.setAttribute('aria-pressed','true');status.setAttribute('aria-live','off');
-  timer=setInterval(()=>show(index+1),6500);
- });
+ play.addEventListener('click',()=>{playing=!playing;sync();});
  track.addEventListener('keydown',e=>{
   if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();advance(e.key==='ArrowRight'?1:-1);}
  });
- gallery.addEventListener('focusin',pause);
- gallery.addEventListener('pointerenter',pause);
- document.addEventListener('visibilitychange',()=>{if(document.hidden)pause();});
- // Playback is opt-in, including for users who prefer reduced motion.
- gallery.classList.add('enhanced');controls.hidden=false;show(0);
+ // Stop before a keyboard user enters slide links; resume only on request.
+ track.addEventListener('focusin',pause);
+ gallery.addEventListener('pointerenter',e=>{if(e.pointerType==='mouse'){hovered=true;sync();}});
+ gallery.addEventListener('pointerleave',()=>{hovered=false;sync();});
+ document.addEventListener('visibilitychange',sync);
+ motion.addEventListener('change',e=>{if(e.matches)pause();});
+ show(0);gallery.classList.add('enhanced');controls.hidden=false;sync();
 }
