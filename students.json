@@ -2,11 +2,23 @@
   "eliane-nirere": {
     "timeline": [
       {
-        "quarter": "August 2023 – April 2025",
+        "quarter": "Summer 2023",
         "year": 2023,
-        "title": "Comparing approaches to electricity demand research",
+        "title": "Beginning the PhD and health-facility fieldwork",
         "activities": [
-          "Comparative study in Fiji: traditional surveys versus gamification."
+          "Entered PhD program at the University of Washington, Department of Electrical & Computer Engineering",
+          "Joined IDEAS lab",
+          "Led fieldwork and qualitative data collection and analysis assessing the impact of off-grid electrification on health facilities across 4 provinces of Rwanda"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2023",
+        "year": 2023,
+        "title": "Designing electrification surveys in Fiji",
+        "activities": [
+          "Developed and designed a KoboToolbox survey instrument to collect electrification data across 75 Fijian villages",
+          "Conducted a literature review on data acquisition and demand estimation practices for mini-grid planning"
         ],
         "links": [
           {
@@ -16,36 +28,118 @@
         ]
       },
       {
-        "quarter": "March 2025",
-        "year": 2025,
-        "title": "Sharing research at UW ECE",
+        "quarter": "Winter 2024",
+        "year": 2024,
+        "title": "Building demand estimation tools",
         "activities": [
-          "Presented research at the 2025 UW ECE Research Showcase."
+          "Built a demand estimation pipeline",
+          "Ideated and contributed to the development of a gamified approach for community-based load profile creation",
+          "Led the digitization of paper-based survey responses"
         ],
         "links": [
           {
-            "label": "2025 research showcase",
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2024",
+        "year": 2024,
+        "title": "Developing community load profiles",
+        "activities": [
+          "Conducted demand estimation and developed load profiles from survey results"
+        ],
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2024",
+        "year": 2024,
+        "title": "Documenting demand estimation methods",
+        "activities": [
+          "Drafted a manuscript documenting the demand estimation methodology",
+          "Explored and conceptualized participatory approaches to mini-grid electrification planning"
+        ],
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn 2024",
+        "year": 2024,
+        "title": "Comparing gamification and conventional surveys",
+        "activities": [
+          "Conducted comparative analysis of gamification versus conventional survey approaches across 75 Fijian villages",
+          "Developed a manuscript \"Watt If We Play? Comparing Gamification and Conventional Surveys in Estimating Energy Demand for Mini-Grid Sizing\"",
+          "Identified and networked with mini-grid developers across SSA"
+        ],
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter 2025",
+        "year": 2025,
+        "title": "Engaging minigrid developers and teaching",
+        "activities": [
+          "Designed interview and survey tools and deployed a KoboToolbox survey tool to assess current electrification-planning engagement practices with mini-grid developers across Sub-Saharan Africa",
+          "Carried out online interviews with mini-grid developers across SSA",
+          "Teaching Assistant for EE 451/551: Renewable Energy Technologies and Integration"
+        ],
+        "links": [
+          {
+            "label": "Explore minigrid planning research",
+            "route": "research/energizing-communities"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2025",
+        "year": 2025,
+        "title": "Qualifying exam and research showcase",
+        "activities": [
+          "Passed Qualifying Exam",
+          "Poster presentation at UW ECE Research Showcase",
+          "Carried out online interviews with mini-grid developers across SSA and developed the transcript"
+        ],
+        "links": [
+          {
+            "label": "Explore minigrid planning research",
+            "route": "research/energizing-communities"
+          },
+          {
+            "label": "UW ECE Research Showcase",
             "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
           }
         ]
       },
       {
-        "quarter": "April – October 2025",
+        "quarter": "Summer 2025",
         "year": 2025,
-        "title": "Engaging minigrid developers",
+        "title": "Leading fieldwork in Kigali and East Africa",
         "activities": [
-          "Collected data and conducted site visits to engage minigrid developers across countries in Sub-Saharan Africa."
-        ],
-        "links": []
-      },
-      {
-        "quarter": "July – August 2025",
-        "year": 2025,
-        "title": "Clean cooking fieldwork in Rwanda",
-        "activities": [
-          "Fieldwork on clean cooking appliance adoption in peri-urban areas of Rwanda."
+          "Designed a KoboToolbox survey instrument to assess household electricity and fuel use for cooking in Kigali",
+          "Trained 20 enumerators to support field data collection",
+          "Led fieldwork engaging more than 2,000 households across six sectors of Kigali",
+          "Led household selection and distributed 350+ kettles to low-electricity-consuming households across six sectors of Kigali to assess whether electric water boiling offers a convenient, affordable, and modern alternative for cooking tasks",
+          "Conducted fieldwork across mini-grid sites in Kenya, Tanzania, and Rwanda to understand mini-grid operational challenges, developer practices, and mini-grid consumer experience."
         ],
         "links": [
+          {
+            "label": "Explore minigrid planning research",
+            "route": "research/energizing-communities"
+          },
           {
             "label": "Explore the Rwanda energy demand project",
             "route": "research/rwanda-energy-demand"
@@ -62,22 +156,25 @@
         }
       },
       {
-        "quarter": "September 2025 – March 2026",
+        "quarter": "Autumn 2025",
         "year": 2025,
-        "title": "Clean Energy Institute fellowship",
+        "title": "Fellowship, recognition, and participatory planning",
         "activities": [
-          "Clean Energy Institute (CEI) Fellow."
-        ],
-        "links": []
-      },
-      {
-        "quarter": "January 2026",
-        "year": 2026,
-        "title": "Sarala Vadari fellowship award",
-        "activities": [
-          "Received the Sarala Vadari Award recognizing outstanding academic achievement in ECE. UW’s March 2026 feature highlights the award and her electrification research."
+          "University of Washington Clean Energy Institute Fellow",
+          "Conducted qualitative data analysis on mini-grid planning practices",
+          "Conducted initial exploratory work on operationalizing participatory approaches in electrification planning",
+          "Conducted initial exploratory work on capacity needs assessment for community-led renewable energy frameworks in Nigeria",
+          "Sarala Vadari Award (ECE student with outstanding academic achievements)"
         ],
         "links": [
+          {
+            "label": "Explore minigrid planning research",
+            "route": "research/energizing-communities"
+          },
+          {
+            "label": "Explore CORE in Nigeria",
+            "route": "research/core"
+          },
           {
             "label": "Read the UW award feature",
             "href": "https://www.cei.washington.edu/eliane-nirere-2026-vadari-fellowship/"
@@ -85,29 +182,48 @@
         ]
       },
       {
-        "quarter": "January – May 2026",
+        "quarter": "Winter 2026",
         "year": 2026,
-        "title": "Assessing minigrid capacity needs",
+        "title": "Community asset mapping and capacity assessment",
         "activities": [
-          "REUCS Minigrid Capacity Needs Assessment."
+          "University of Washington Clean Energy Institute Fellow",
+          "Developed an electricity needs assessment survey instrument for both community and business capacity needs assessment for community-led renewable energy frameworks in Nigeria",
+          "Developing pipeline for operationalizing Community Asset Mapping in electrification planning"
         ],
-        "links": []
+        "links": [
+          {
+            "label": "Explore minigrid planning research",
+            "route": "research/energizing-communities"
+          },
+          {
+            "label": "Explore CORE in Nigeria",
+            "route": "research/core"
+          }
+        ]
       },
       {
-        "quarter": "April 2026",
+        "quarter": "Spring 2026",
         "year": 2026,
-        "title": "Renewable Energy Scholarship Foundation award",
+        "title": "William Kamkwamba Scholarship and Nigeria research",
         "activities": [
-          "Received a Renewable Energy Scholarship Foundation (RESF) Award."
+          "Renewable Energy Scholarship Foundation (RESF) Award William Kamkwamba Scholarship",
+          "Conducted data analysis of both community and business for capacity needs assessment for community-led renewable energy frameworks in Nigeria"
         ],
-        "links": []
+        "links": [
+          {
+            "label": "Explore CORE in Nigeria",
+            "route": "research/core"
+          }
+        ]
       },
       {
-        "quarter": "July – September 2026",
+        "quarter": "Summer 2026",
         "year": 2026,
-        "title": "Clean energy research internship",
+        "title": "WRI internship and conference presentations",
         "activities": [
-          "WRI Clean Energy Research Intern, July–September 2026."
+          "Internship at WRI as Clean Energy Research Intern, mainly working on the global flagship report on approaches to meeting global electricity demand growth",
+          "Presentation, Macro Energy Systems: \"Justice by Design: Integrating Community Insights into Electrification Planning\"",
+          "Presentation at IEEE PES / Power Africa, authored paper: \"Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns\""
         ],
         "links": [
           {
@@ -117,29 +233,21 @@
         ]
       },
       {
-        "quarter": "August 2026",
+        "quarter": "Autumn 2026",
         "year": 2026,
-        "title": "Justice by Design",
+        "title": "Continuing global electricity demand research",
         "activities": [
-          "Presented at Macro Energy Systems: “Justice by Design: Integrating Community Insights into Electrification Planning.”"
+          "Planned continued support for WRI’s global flagship report on approaches to meeting global electricity demand growth."
         ],
-        "links": []
-      },
-      {
-        "quarter": "September 2026",
-        "year": 2026,
-        "title": "Toward AI-ready power systems",
-        "activities": [
-          "Authored the IEEE PES / Power Africa paper “Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns.”"
-        ],
-        "links": []
+        "links": [],
+        "status": "Planned"
       }
     ],
     "projects": [
       {
         "id": "fiji",
         "title": "Traditional surveys and gamification in Fiji",
-        "description": "Comparative research conducted August 2023–April 2025.",
+        "description": "Survey design, demand estimation, load-profile development, and comparison of gamification with conventional surveys across 75 Fijian villages, from Autumn 2023.",
         "projectSlug": "mini-grid-demand-fiji",
         "links": [
           {
@@ -151,7 +259,7 @@
       {
         "id": "rwanda",
         "title": "Clean cooking appliance adoption in Rwanda",
-        "description": "Fieldwork on clean cooking appliance adoption in peri-urban communities, July–August 2025.",
+        "description": "Summer 2025 fieldwork across six sectors of Kigali: trained 20 enumerators, engaged more than 2,000 households, and distributed 350+ kettles to assess electric water boiling.",
         "projectSlug": "rwanda-energy-demand",
         "links": [
           {
@@ -163,7 +271,7 @@
       {
         "id": "minigrid-capacity",
         "title": "Minigrid developer engagement and capacity needs",
-        "description": "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026.",
+        "description": "Interviews and surveys on minigrid planning practices, with Summer 2025 site visits in Kenya, Tanzania, and Rwanda, and development of participatory planning and community asset mapping approaches.",
         "links": [
           {
             "label": "Explore the project →",
@@ -171,21 +279,45 @@
           }
         ],
         "projectSlug": "energizing-communities"
+      },
+      {
+        "id": "core-nigeria",
+        "title": "Community-led renewable energy in Nigeria",
+        "description": "Capacity needs assessment for community-led renewable energy frameworks, including community and business survey design and analysis from Autumn 2025 through Spring 2026.",
+        "projectSlug": "core",
+        "links": [
+          {
+            "label": "Explore CORE in Nigeria",
+            "route": "research/core"
+          }
+        ]
       }
     ],
     "outputs": [
       {
+        "id": "watt-if-we-play",
+        "type": "Manuscript · Autumn 2024",
+        "title": "Watt If We Play? Comparing Gamification and Conventional Surveys in Estimating Energy Demand for Mini-Grid Sizing",
+        "note": "Manuscript developed during the Fiji research. Publication status and a public manuscript link have not been supplied.",
+        "links": [
+          {
+            "label": "Explore the Fiji project",
+            "route": "research/mini-grid-demand-fiji"
+          }
+        ]
+      },
+      {
         "id": "justice-by-design",
-        "type": "Presentation · August 2026",
+        "type": "Presentation · Summer 2026",
         "title": "Justice by Design: Integrating Community Insights into Electrification Planning",
         "note": "Macro Energy Systems presentation. Public presentation materials have not yet been added.",
         "links": []
       },
       {
         "id": "ai-ready",
-        "type": "Conference paper · September 2026",
+        "type": "Conference presentation and paper · Summer 2026",
         "title": "Toward AI-Ready Sub-Saharan African Power Systems: Empirical Assessment of Data Gaps and Utility Performance Patterns",
-        "note": "IEEE PES / Power Africa paper listed in the supplied research timeline. A public paper link and proceedings publication status have not yet been verified.",
+        "note": "Presented at IEEE PES / Power Africa, as reported in the supplied timeline. A public paper link and proceedings publication status have not yet been verified.",
         "links": []
       }
     ],
