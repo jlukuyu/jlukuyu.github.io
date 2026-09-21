@@ -71,6 +71,16 @@
       "image": "kigali-data-collection-may-aug-2025-0.jpeg"
     },
     {
+      "date": "2025-05-29",
+      "dateLabel": "29 May 2025",
+      "kind": "Invited seminar",
+      "title": "Building Climate-Resilient Grids in Data-Scarce Context",
+      "summary": "June Lukuyu presented at the Stanford Smart Grid Seminar on using grid sensing and data analysis to strengthen electricity networks in data-scarce settings. Drawing on research in Accra, Ghana, the talk explored grid topology, technical losses, and how extreme weather affects service reliability in vulnerable communities.",
+      "href": "https://ee-www.stanford.edu/event/05-29-2025/building-climate-resilient-grids-data-scarce-context",
+      "source": "Stanford Electrical Engineering · Smart Grid Seminar",
+      "image": null
+    },
+    {
       "date": "2025-03",
       "dateLabel": "March 2025",
       "kind": "Research & awards",
