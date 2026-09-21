@@ -2,11 +2,11 @@
 
 Website for the Interdisciplinary Energy Analytics for Society Research Lab at the University of Washington.
 
-Live site: https://jlukuyu.github.io/ideas-lab/
+Live site: https://junelukuyu.com/
 
 ## Update through ChatGPT / Codex
 
-Connect **jlukuyu/ideas-lab** in [Codex cloud](https://chatgpt.com/codex), create an environment for this repository, and describe the update you want. Review the changes and merge the pull request into main. GitHub Actions will rebuild and publish the website automatically.
+Connect **jlukuyu/jlukuyu.github.io** in [Codex cloud](https://chatgpt.com/codex), create an environment for this repository, and describe the update you want. Review the changes and merge the pull request into main. GitHub Actions will rebuild and publish the website automatically.
 
 Examples: “Add this paper to our publications”; “Add a team member with this photo and biography”; “Create a news post from these notes”; “Update our recruitment notice.”
 
@@ -41,7 +41,7 @@ node build.mjs
 
 The generated pages are in `out/`. Preview that directory using a static web server. GitHub Pages is configured through `.github/workflows/pages.yml`; pushes to main publish automatically.
 
-Content was migrated from junelukuyu.com on September 9, 2026. Recruitment and project status reflect that source. The original Wix site and private jlukuyu.github.io repository are unchanged.
+Content was migrated from junelukuyu.com on September 9, 2026. Recruitment and project status reflect that source. The redesigned site now lives in jlukuyu/jlukuyu.github.io and uses junelukuyu.com.
 
 Wix comments, member login, and blog search are not included. One PDF mentioned in the NYC Climate Week article could not be downloaded from the source and needs the original file. External publication and partner links remain external.
 
@@ -110,3 +110,5 @@ Project cards display green Ongoing and red Past badges from their existing `sta
 September 2026 research updates use owner-supplied project statuses and theme corrections. Spotlight Kampala people and profile links follow spotlightkampala.com; Jess Kersey is project lead per the owner. Nairobi boiling and health/safety project people follow the six NextBillion e-boiling coauthors, linked to their professional contributor biographies. Autorickshaw photos come from pics_autorickshaws.docx; the Cofán poster is the supplied CEI 2026 Poster.pptx.pdf, published unchanged with a preview. Spotlight Kampala is a past lab project, not a student thesis; this does not imply its wider organization has ceased activity.
 
 Partner logos added from official organization websites and the Spotlight Kampala institutional directory. Individual collaborators use their institution logo. The Cofán card uses the Cofán Survival Fund mark. Mercy Corps retains its historical project name with its current Prosper Global logo. QSEL project co-lead roles are owner supplied. CBA objectives and CORE past-tense description follow the owner’s supplied text; policy mapping is a research objective, not a claim about currently applicable requirements. Related projects use reciprocal relatedProjects slugs. The access subtheme label is now Integrated planning.
+
+The repository was renamed from ideas-lab to jlukuyu.github.io in September 2026. GitHub Pages uses the custom domain junelukuyu.com; DNS points the apex to GitHub Pages and www to jlukuyu.github.io. Build output uses relative links and includes legacy /ideas-lab/ route redirects so previously shared project and map links continue to work. Custom domain configuration is managed in GitHub Pages settings (Actions publishing).
