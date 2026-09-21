@@ -35,7 +35,7 @@
     "logo": "research-logo-nline.png"
   },
   "stima": {
-    "name": "STIMA Lab \u00b7 UMass Amherst",
+    "name": "STIMA Lab · UMass Amherst",
     "url": "https://websites.umass.edu/jtaneja/",
     "logo": "research-logo-stima.png"
   },
@@ -58,8 +58,82 @@
     "dark": false
   },
   "steg": {
-    "name": "STEG \u00b7 Structural Transformation and Economic Growth",
+    "name": "STEG · Structural Transformation and Economic Growth",
     "url": "https://grp.cepr.org/steg",
     "logo": "research-logo-steg.png"
+  },
+  "ur": {
+    "name": "University of Rwanda",
+    "url": "https://ur.ac.rw/",
+    "logo": "research-logo-ur.png",
+    "dark": true
+  },
+  "mercy": {
+    "name": "Mercy Corps – Energy 4 Impact",
+    "url": "https://www.energy4impact.org/",
+    "logo": "research-logo-mercy.svg",
+    "logoAlt": "Prosper Global logo (formerly Mercy Corps)"
+  },
+  "murty": {
+    "name": "Murty International",
+    "url": "https://murtyconsulting.com/",
+    "logo": "research-logo-murty.png"
+  },
+  "leaps": {
+    "name": "LEAPS · Arizona State University",
+    "url": "https://leaps.asu.edu/",
+    "logo": "research-logo-leaps.png",
+    "dark": true
+  },
+  "reg": {
+    "name": "Rwanda Energy Group",
+    "url": "https://www.reg.rw/",
+    "logo": "research-logo-reg.png"
+  },
+  "cofan": {
+    "name": "The Cofán people",
+    "url": "https://www.cofan.org/",
+    "logo": "research-logo-cofan.png",
+    "logoAlt": "Cofán Survival Fund logo"
+  },
+  "qsel": {
+    "name": "Quadracci Sustainable Engineering Lab (QSEL) · Columbia University",
+    "url": "https://qsel.columbia.edu/",
+    "logo": "research-logo-qsel.png"
+  },
+  "berkeley": {
+    "name": "University of California, Berkeley",
+    "url": "https://www.berkeley.edu/",
+    "logo": "research-logo-berkeley.png"
+  },
+  "makerere": {
+    "name": "Urban Action Lab · Makerere University",
+    "url": "https://ual.mak.ac.ug/",
+    "logo": "research-logo-makerere.png"
+  },
+  "umass": {
+    "name": "University of Massachusetts Amherst",
+    "url": "https://www.umass.edu/",
+    "logo": "research-logo-umass.png"
+  },
+  "uwpartner": {
+    "name": "University of Washington",
+    "url": "https://www.washington.edu/",
+    "logo": "research-logo-uwpartner.png"
+  },
+  "actogether": {
+    "name": "ACTogether Uganda",
+    "url": "https://www.actogetherug.org/",
+    "logo": "research-logo-actogether.png"
+  },
+  "asu": {
+    "name": "Arizona State University",
+    "url": "https://www.asu.edu/",
+    "logo": "research-logo-asu.png"
+  },
+  "youthmappers": {
+    "name": "YouthMappers",
+    "url": "https://www.youthmappers.org/",
+    "logo": "research-logo-youthmappers.png"
   }
 }

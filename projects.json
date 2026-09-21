@@ -144,6 +144,16 @@
     "thesisStudents": [],
     "projectPeople": [
       {
+        "name": "Vijay Modi",
+        "url": "https://nextbillion.net/authors/vijay-modi/",
+        "role": "Project co-lead · QSEL, Columbia University"
+      },
+      {
+        "name": "Vongaishe Mutatu",
+        "url": "https://nextbillion.net/authors/vongaishe-mutatu/",
+        "role": "Project co-lead · QSEL, Columbia University"
+      },
+      {
         "name": "June Lukuyu",
         "url": "https://nextbillion.net/authors/june-lukuyu/"
       },
@@ -152,23 +162,22 @@
         "url": "https://nextbillion.net/authors/nathan-williams/"
       },
       {
-        "name": "Vongaishe Mutatu",
-        "url": "https://nextbillion.net/authors/vongaishe-mutatu/"
-      },
-      {
         "name": "Austine Owuor Otieno",
         "url": "https://nextbillion.net/authors/austine-owuor-otieno/"
       },
       {
         "name": "Paul Kyoma Asiimwe",
         "url": "https://nextbillion.net/authors/paul-kyoma-asiimwe/"
-      },
-      {
-        "name": "Vijay Modi",
-        "url": "https://nextbillion.net/authors/vijay-modi/"
       }
     ],
     "partnerDetails": [
+      {
+        "org": "qsel",
+        "members": [
+          "Vijay Modi · project co-lead",
+          "Vongaishe (Vongai) Mutatu · project co-lead"
+        ]
+      },
       {
         "org": "eguide"
       }
@@ -264,7 +273,8 @@
     ],
     "funding": "UKPACT",
     "overview": [
-      "Research and collaboration on community-owned renewable electrification in Nigeria."
+      "The Community-Owned Renewable Electrification (CORE) project supported Nigeria’s Rural Electrification Agency (REA) to develop, test, and scale a community-led model for renewable electricity service provision. Through this model, known as the Renewable Energy Users’ Cooperative Societies (REUCS), communities took ownership of mini-grid operations, governance, and long-term sustainability.",
+      "CORE was implemented by a consortium led by Mercy Corps – Energy 4 Impact, together with local partner Murty International and the Kigali Collaborative Research Centre (KCRC). The consortium brought together complementary expertise to strengthen and expand the REUCS model nationwide."
     ],
     "resources": [],
     "publications": [],
@@ -287,13 +297,14 @@
     "fundingPeriod": "December 2025 – June 2026",
     "partnerDetails": [
       {
-        "name": "Mercy Corps (lead)",
-        "url": "https://www.mercycorps.org/",
+        "name": "Mercy Corps – Energy 4 Impact (consortium lead)",
+        "url": "https://www.energy4impact.org/",
         "org": "mercy"
       },
       {
         "name": "Murty International",
-        "org": "murty"
+        "org": "murty",
+        "url": "https://murtyconsulting.com/"
       },
       {
         "name": "Kigali Collaborative Research Centre",
@@ -361,7 +372,8 @@
     "partnerDetails": [
       {
         "name": "LEAPS · Arizona State University (lead)",
-        "url": "https://leaps.asu.edu/"
+        "url": "https://leaps.asu.edu/",
+        "org": "leaps"
       }
     ]
   },
@@ -371,7 +383,7 @@
     "status": "Past",
     "summary": "Examining climate and equity in community-based demand response in the Pacific Northwest.",
     "partners": [
-      "Baozen Zhang"
+      "Baosen Zhang · University of Washington"
     ],
     "funding": "UW Clean Energy Institute",
     "overview": [
@@ -406,11 +418,16 @@
     ],
     "partnerDetails": [
       {
-        "name": "Baozen Zhang"
+        "org": "uwpartner",
+        "name": "Baosen Zhang · University of Washington",
+        "url": "https://people.ece.uw.edu/zhang_baosen/index.html"
       }
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "relatedProjects": [
+      "indoor-comfort-equity"
+    ]
   },
   {
     "slug": "rwanda-energy-demand",
@@ -458,7 +475,18 @@
     "subthemes": [],
     "fundingCategory": "unfunded",
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "partnerDetails": [
+      {
+        "org": "kcrc"
+      },
+      {
+        "org": "reg"
+      },
+      {
+        "org": "eguide"
+      }
+    ]
   },
   {
     "slug": "energizing-communities",
@@ -654,7 +682,7 @@
     "partners": [],
     "funding": "",
     "overview": [
-      "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026."
+      "This project aims to classify Global South countries into distinct sector-specific transition typologies that reflect the development magnitudes and trajectories based on energy usage, economic structures, and environmental impacts across the agriculture, buildings, industry, power and energy, and transportation economic sectors"
     ],
     "resources": [],
     "publications": [],
@@ -730,9 +758,28 @@
     ],
     "partnerDetails": [
       {
-        "name": "Spotlight Kampala research collaboration",
-        "url": "https://spotlightkampala.com/",
-        "org": "spotlight"
+        "org": "berkeley"
+      },
+      {
+        "org": "makerere"
+      },
+      {
+        "org": "umass"
+      },
+      {
+        "org": "uwpartner"
+      },
+      {
+        "org": "nline"
+      },
+      {
+        "org": "actogether"
+      },
+      {
+        "org": "asu"
+      },
+      {
+        "org": "youthmappers"
       }
     ],
     "sponsorOrgs": [
@@ -926,7 +973,7 @@
     ],
     "partnerDetails": [
       {
-        "name": "The Cofán people"
+        "org": "cofan"
       }
     ],
     "publicationIds": [],
@@ -963,7 +1010,14 @@
       "Madelyn M McInnis"
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "objectives": [
+      "Compile U.S. case studies of community benefit agreements (CBAs) for utility-scale energy projects across rural, urban, and tribal communities.",
+      "Compare agreement structures, negotiating parties, and terms, with emphasis on how benefits are defined and enforced through responsibilities, reporting, and penalties for non-compliance.",
+      "Identify best practices for early, transparent engagement, inclusive decision-making, community priorities, and accountability.",
+      "Examine barriers to negotiation and implementation, including trust, information gaps, confidentiality, power imbalances, and enforcement.",
+      "Document state and federal policies that encourage or require community benefits, including the Department of Energy’s Community Benefits Plan requirement."
+    ]
   },
   {
     "slug": "washington-microgrid-resilience",
@@ -1013,7 +1067,10 @@
       "Lillian Nguyen"
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "relatedProjects": [
+      "community-demand-response"
+    ]
   },
   {
     "slug": "katiirwe-weather-electricity",
