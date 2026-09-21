@@ -58,3 +58,11 @@ for(const slug of routes){prefix=slug==='404'?'./':'../'.repeat(slug.split('/').
 fs.writeFileSync(path.join(out,'.nojekyll'),'');console.log(`Built ${routes.length} static pages in out/`);
 
 for(const [old,target] of Object.entries({'electric-cooking-kampala':'spotlight-kampala','minigrid-capacity':'energizing-communities'})){const dest=path.join(out,'research',old);fs.mkdirSync(dest,{recursive:true});fs.writeFileSync(path.join(dest,'index.html'),`<!doctype html><html lang="en"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=../#project-${target}"><title>Project has moved</title><a href="../#project-${target}">View the project overview</a></html>`);}
+
+// Preserve bookmarks and embedded map links from the former project-site URL.
+for (const route of [...routes.filter(r=>r!=='404'),'research/electric-cooking-kampala','research/minigrid-capacity']) {
+ const target='/'+(route?route+'/':'');
+ const dest=path.join(out,'ideas-lab',route,'index.html');
+ fs.mkdirSync(path.dirname(dest),{recursive:true});
+ fs.writeFileSync(dest,`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=${target}"><title>IDEAS Lab has moved</title><script>location.replace(${JSON.stringify(target)}+location.search+location.hash)</script></head><body><p><a href="${target}">Continue to IDEAS Research Lab</a></p></body></html>`);
+}
