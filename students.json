@@ -147,6 +147,10 @@
           {
             "label": "Read the fieldwork story",
             "route": "post/kigali-data-collection-may-aug-2025"
+          },
+          {
+            "label": "Explore electric boiling research",
+            "route": "research/electric-cooking-nairobi"
           }
         ],
         "image": {
@@ -265,6 +269,10 @@
           {
             "label": "Explore the Rwanda energy demand project",
             "route": "research/rwanda-energy-demand"
+          },
+          {
+            "label": "Explore electric boiling research",
+            "route": "research/electric-cooking-nairobi"
           }
         ]
       },

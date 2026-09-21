@@ -111,7 +111,8 @@
     ],
     "funding": "",
     "overview": [
-      "Investigating the role of electric boiling in the electric cooking transition in Nairobi and Kigali."
+      "Investigating the role of electric boiling in the electric cooking transition in Nairobi and Kigali.",
+      "In Summer 2025, Eliane Nirere led data collection in Kigali to assess household electricity and cooking-fuel use. She designed the KoboToolbox survey, trained 20 enumerators, and led fieldwork with more than 2,000 households across six sectors. She also led household selection and the distribution of more than 350 kettles to low-electricity-consuming households to assess electric water boiling as a convenient, affordable alternative for cooking tasks."
     ],
     "resources": [
       {
@@ -122,7 +123,9 @@
       }
     ],
     "publications": [],
-    "people": [],
+    "people": [
+      "eliane-nirere"
+    ],
     "sources": [
       {
         "title": "Original lab project listing",
