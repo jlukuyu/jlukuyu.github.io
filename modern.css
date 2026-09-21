@@ -6,3 +6,5 @@ body{font-size:16px;line-height:1.7;-webkit-font-smoothing:antialiased}h1,h2,h3,
 @media(prefers-reduced-motion:reduce){a{transition:none}}
 
 .publication-abstract{margin-top:12px;font-size:.88rem;color:var(--muted)}.publication-abstract summary{cursor:pointer;font-weight:500}.publication-abstract p{padding:14px 0;max-width:900px}
+
+.project-badges{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.project-badges:empty{display:none}.project-badge{display:inline-flex;align-items:center;padding:4px 10px;border-radius:999px;font-size:.73rem;font-weight:600;line-height:1.5;letter-spacing:.015em}.status-ongoing{background:#e2f3e8;color:#17603b;border:1px solid #b6dec6}.status-past{background:#fce8e6;color:#9c302b;border:1px solid #ecc2bd}.thesis-tag{background:#e9edf9;color:#394f86;border:1px solid #cbd5ee}.thesis-students{font-size:.88rem;padding:16px 0 0}
