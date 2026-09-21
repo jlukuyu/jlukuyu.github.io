@@ -99,7 +99,10 @@
     "sponsorOrgs": [
       "ccai"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": [
+      "ahana-mukherjee"
+    ]
   },
   {
     "slug": "electric-cooking-nairobi",
@@ -143,7 +146,8 @@
     "fundingCategory": "unfunded",
     "publicationIds": [
       "P9"
-    ]
+    ],
+    "thesisStudents": []
   },
   {
     "slug": "electric-bus-kigali",
@@ -219,7 +223,8 @@
         "org": "stima"
       }
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "core",
@@ -280,7 +285,8 @@
     "sponsorOrgs": [
       "ukpact"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "mini-grid-demand-fiji",
@@ -325,7 +331,10 @@
     "studentResearchers": [
       "Damion Huang"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": [
+      "eliane-nirere"
+    ]
   },
   {
     "slug": "community-demand-response",
@@ -371,7 +380,8 @@
         "name": "Baozen Zhang"
       }
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "rwanda-energy-demand",
@@ -419,7 +429,8 @@
     ],
     "subthemes": [],
     "fundingCategory": "unfunded",
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "energizing-communities",
@@ -474,7 +485,10 @@
     "sponsorOrgs": [
       "uw"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": [
+      "eliane-nirere"
+    ]
   },
   {
     "slug": "grid-loss-localization",
@@ -528,7 +542,8 @@
         "org": "nline"
       }
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "electric-three-wheelers-india",
@@ -582,7 +597,10 @@
       "mobility"
     ],
     "fundingCategory": "unfunded",
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": [
+      "ahana-mukherjee"
+    ]
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -610,7 +628,10 @@
     ],
     "subthemes": [],
     "fundingCategory": "unfunded",
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": [
+      "ahana-mukherjee"
+    ]
   },
   {
     "slug": "spotlight-kampala",
@@ -683,6 +704,9 @@
       "TR1",
       "P8",
       "P7"
+    ],
+    "thesisStudents": [
+      "ahana-mukherjee"
     ]
   },
   {
@@ -705,7 +729,8 @@
       "resilience"
     ],
     "subthemes": [],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "accra-grid-weather",
@@ -747,6 +772,9 @@
     "subthemes": [],
     "publicationIds": [
       "P10"
+    ],
+    "thesisStudents": [
+      "kwame-donkor"
     ]
   },
   {
@@ -787,7 +815,8 @@
         "name": "The Cofán people"
       }
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "community-benefit-agreements",
@@ -813,7 +842,8 @@
     "studentResearchers": [
       "Madelyn M McInnis"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "washington-microgrid-resilience",
@@ -837,7 +867,8 @@
     "studentResearchers": [
       "Hassan Dirif"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "indoor-comfort-equity",
@@ -862,7 +893,8 @@
     "studentResearchers": [
       "Lillian Nguyen"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   },
   {
     "slug": "katiirwe-weather-electricity",
@@ -889,6 +921,7 @@
     "studentResearchers": [
       "Biniyam Gebreyohannes"
     ],
-    "publicationIds": []
+    "publicationIds": [],
+    "thesisStudents": []
   }
 ]
