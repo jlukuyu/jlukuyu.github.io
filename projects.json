@@ -76,12 +76,9 @@
     "publicationsNote": "SEER-specific publication links have not yet been added.",
     "releaseNote": "Open datasets and machine learning tools are in development. Public download and code links will be added when available.",
     "themes": [
-      "planning",
-      "technology"
+      "planning"
     ],
-    "subthemes": [
-      "ai"
-    ],
+    "subthemes": [],
     "fundingCategory": "funded",
     "fundingPeriod": "October 2025 – October 2026",
     "partnerDetails": [
@@ -110,9 +107,7 @@
     "status": "Ongoing",
     "summary": "Investigating the role of electric boiling in the electric cooking transition in Nairobi and Kigali",
     "partners": [
-      "eGUIDE initiative",
-      "Dr. Austine Otieno",
-      "Paul Kyoma"
+      "eGUIDE initiative"
     ],
     "funding": "",
     "overview": [
@@ -137,8 +132,7 @@
       }
     ],
     "themes": [
-      "technology",
-      "access"
+      "technology"
     ],
     "subthemes": [
       "cooking"
@@ -147,7 +141,38 @@
     "publicationIds": [
       "P9"
     ],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "projectPeople": [
+      {
+        "name": "June Lukuyu",
+        "url": "https://nextbillion.net/authors/june-lukuyu/"
+      },
+      {
+        "name": "Nathan Williams",
+        "url": "https://nextbillion.net/authors/nathan-williams/"
+      },
+      {
+        "name": "Vongaishe Mutatu",
+        "url": "https://nextbillion.net/authors/vongaishe-mutatu/"
+      },
+      {
+        "name": "Austine Owuor Otieno",
+        "url": "https://nextbillion.net/authors/austine-owuor-otieno/"
+      },
+      {
+        "name": "Paul Kyoma Asiimwe",
+        "url": "https://nextbillion.net/authors/paul-kyoma-asiimwe/"
+      },
+      {
+        "name": "Vijay Modi",
+        "url": "https://nextbillion.net/authors/vijay-modi/"
+      }
+    ],
+    "partnerDetails": [
+      {
+        "org": "eguide"
+      }
+    ]
   },
   {
     "slug": "electric-bus-kigali",
@@ -229,7 +254,7 @@
   {
     "slug": "core",
     "title": "CORE — Community Owned Renewable Electrification",
-    "status": "Ongoing",
+    "status": "Past",
     "summary": "Research and collaboration on community-owned renewable electrification in Nigeria.",
     "partners": [
       "Mercy Corps (lead)",
@@ -256,8 +281,7 @@
       "access"
     ],
     "subthemes": [
-      "off-grid",
-      "interconnected"
+      "off-grid"
     ],
     "fundingCategory": "funded",
     "fundingPeriod": "December 2025 – June 2026",
@@ -321,8 +345,7 @@
       }
     ],
     "themes": [
-      "access",
-      "planning"
+      "access"
     ],
     "subthemes": [
       "off-grid"
@@ -334,6 +357,12 @@
     "publicationIds": [],
     "thesisStudents": [
       "eliane-nirere"
+    ],
+    "partnerDetails": [
+      {
+        "name": "LEAPS · Arizona State University (lead)",
+        "url": "https://leaps.asu.edu/"
+      }
     ]
   },
   {
@@ -424,7 +453,6 @@
       "caption": "Kigali data collection, May–August 2025."
     },
     "themes": [
-      "access",
       "planning"
     ],
     "subthemes": [],
@@ -443,7 +471,7 @@
     "funding": "UW Royalty Research Fund",
     "overview": [
       "An interdisciplinary approach to planning rural electrification.",
-      "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025, followed by the REUCS Minigrid Capacity Needs Assessment in January–May 2026."
+      "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025."
     ],
     "resources": [
       {
@@ -470,8 +498,7 @@
       "access"
     ],
     "subthemes": [
-      "off-grid",
-      "interconnected"
+      "off-grid"
     ],
     "fundingCategory": "funded",
     "fundingPeriod": "June 2024 – June 2025",
@@ -547,8 +574,8 @@
   },
   {
     "slug": "electric-three-wheelers-india",
-    "title": "Charging infrastructure for electric three-wheelers",
-    "status": "Research",
+    "title": "Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India",
+    "status": "Past",
     "summary": "Research on charging infrastructure planning for electric three-wheelers in India, developed from Summer 2024. The Spring 2026 manuscript focuses on distributed, solar-based charging for electric autorickshaws in West Bengal.",
     "partners": [],
     "funding": "",
@@ -600,12 +627,29 @@
     "publicationIds": [],
     "thesisStudents": [
       "ahana-mukherjee"
+    ],
+    "gallery": [
+      {
+        "src": "autorickshaw-1.jpg",
+        "alt": "Two autorickshaws parked beside a street",
+        "caption": "Autorickshaws in everyday urban travel"
+      },
+      {
+        "src": "autorickshaw-2.jpg",
+        "alt": "Autorickshaws sharing a busy street",
+        "caption": "Three-wheelers on the road"
+      },
+      {
+        "src": "autorickshaw-3.jpg",
+        "alt": "Electric autorickshaws parked along a city street",
+        "caption": "Electric autorickshaws"
+      }
     ]
   },
   {
     "slug": "economic-environmental-heterogeneity",
-    "title": "Economic & environmental heterogeneity",
-    "status": "Research",
+    "title": "Beyond Regional Boundaries: Economic Sector-Specific Energy Transition Typologies for the Global South",
+    "status": "Ongoing",
     "summary": "Developing research investigating economic and environmental heterogeneity within economic sectors in Global South countries, beginning in Winter 2026.",
     "partners": [],
     "funding": "",
@@ -640,9 +684,9 @@
     "overview": [
       "Spotlight Kampala brings Ugandan and international researchers together with residents to understand and improve electricity services in informal settlements. Its research connects infrastructure, affordability, safety, and community priorities.",
       "The collaboration surveyed 500 households, conducted 66 interviews, deployed 148 remote power-quality sensors, and mapped infrastructure across 25 communities. Findings were returned to participating communities to help identify priority solutions.",
-      "Electric cooking research combines household engagement, monitoring, and wiring inspections. More recent work explores community-designed solar cooking systems and payment, ownership, and maintenance arrangements. Ahana Mukherjee supported quantitative analysis for electric cooking research in Winter 2024."
+      "Electric cooking research combines household engagement, monitoring, and wiring inspections. More recent work explores community-designed solar cooking systems and payment, ownership, and maintenance arrangements."
     ],
-    "status": "Research",
+    "status": "Past",
     "partners": [],
     "funding": "STEG, eGUIDE",
     "resources": [
@@ -674,9 +718,7 @@
         "href": "https://www.sciencedirect.com/science/article/pii/S2214629625002245"
       }
     ],
-    "people": [
-      "ahana-mukherjee"
-    ],
+    "people": [],
     "sources": [],
     "fundingCategory": "funded",
     "themes": [
@@ -705,18 +747,64 @@
       "P8",
       "P7"
     ],
-    "thesisStudents": [
-      "ahana-mukherjee"
+    "thesisStudents": [],
+    "tagline": "Illuminating Energy Inequities in Informal Urban Communities",
+    "projectPeople": [
+      {
+        "name": "Jess Kersey",
+        "url": "https://www.linkedin.com/in/jesskkersey/",
+        "role": "Project lead"
+      },
+      {
+        "name": "Paul Kyoma",
+        "url": "https://www.linkedin.com/in/paul-asiimwe/"
+      },
+      {
+        "name": "Judith Mbabazi",
+        "url": "https://ual.mak.ac.ug/people/students/judith-mbabazi"
+      },
+      {
+        "name": "Sirezi Bulenza",
+        "url": "https://www.linkedin.com/in/bulenza-sirezi-96941966/"
+      },
+      {
+        "name": "Aisha Zawedde",
+        "url": "https://www.linkedin.com/in/aisha-zawedde/"
+      },
+      {
+        "name": "Civian Kiki Massa",
+        "url": "https://www.linkedin.com/in/civian-kiki-massa-1abb56115/"
+      },
+      {
+        "name": "June Lukuyu",
+        "url": "https://junelukuyu.com/"
+      },
+      {
+        "name": "Lydia Letaru",
+        "url": "https://www.linkedin.com/in/lydia-letaru-4823a39a"
+      },
+      {
+        "name": "Michael Jurua",
+        "url": "https://www.linkedin.com/in/jurua-michael/"
+      },
+      {
+        "name": "Stellamaris Wavamunno Nakacwa",
+        "url": "https://www.linkedin.com/in/stellamaris-n-wavamunno-36b66b10b/"
+      },
+      {
+        "name": "Elena van Hove",
+        "url": "https://sustainability-innovation.asu.edu/person/elena-van-hove/"
+      }
     ]
   },
   {
     "slug": "hidden-electrical-hazards",
-    "title": "Measuring hidden electrical hazards",
+    "title": "Comprehensive Assessment of the Health and Safety Dimension of Energy Access",
     "summary": "Improving energy access assessment in urban informal settlements in Nairobi by measuring hidden electrical hazards.",
     "overview": [
       "Improving energy access assessment in urban informal settlements in Nairobi by measuring hidden electrical hazards."
     ],
-    "status": "Research",
+    "status": "Ongoing",
     "partners": [],
     "funding": "",
     "resources": [],
@@ -730,7 +818,33 @@
     ],
     "subthemes": [],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "projectPeople": [
+      {
+        "name": "June Lukuyu",
+        "url": "https://nextbillion.net/authors/june-lukuyu/"
+      },
+      {
+        "name": "Nathan Williams",
+        "url": "https://nextbillion.net/authors/nathan-williams/"
+      },
+      {
+        "name": "Vongaishe Mutatu",
+        "url": "https://nextbillion.net/authors/vongaishe-mutatu/"
+      },
+      {
+        "name": "Austine Owuor Otieno",
+        "url": "https://nextbillion.net/authors/austine-owuor-otieno/"
+      },
+      {
+        "name": "Paul Kyoma Asiimwe",
+        "url": "https://nextbillion.net/authors/paul-kyoma-asiimwe/"
+      },
+      {
+        "name": "Vijay Modi",
+        "url": "https://nextbillion.net/authors/vijay-modi/"
+      }
+    ]
   },
   {
     "slug": "accra-grid-weather",
@@ -739,7 +853,7 @@
     "overview": [
       "Research on weather, outages, voltage, and neighborhood vulnerability in Greater Accra, begun in Summer 2024 and completed in Summer 2026. The resulting manuscript has been submitted."
     ],
-    "status": "Research",
+    "status": "Past",
     "partners": [],
     "funding": "",
     "resources": [],
@@ -784,7 +898,7 @@
     "overview": [
       "Cofán Tribal Energy Resilience."
     ],
-    "status": "Research",
+    "status": "Ongoing",
     "partners": [
       "The Cofán people"
     ],
@@ -816,7 +930,13 @@
       }
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "poster": {
+      "src": "cofan-cei-2026-poster.jpg",
+      "href": "cofan-cei-2026-poster.pdf",
+      "alt": "CEI 2026 research poster on community-centered solar and storage planning with the Cofán people",
+      "caption": "Centering Communities in Electrification Planning and Energy Transitions: A Case of the Cofán People · CEI 2026"
+    }
   },
   {
     "slug": "community-benefit-agreements",
@@ -825,7 +945,7 @@
     "overview": [
       "Community Benefit Agreements in Utility-Scale Energy Projects."
     ],
-    "status": "Research",
+    "status": "Ongoing",
     "partners": [],
     "funding": "",
     "resources": [],
@@ -847,12 +967,12 @@
   },
   {
     "slug": "washington-microgrid-resilience",
-    "title": "Microgrids for resilience in Washington State",
-    "summary": "Microgrids for resilience in Washington State.",
+    "title": "Designing a solar plus storage microgrid for resilience",
+    "summary": "Designing a solar plus storage microgrid for resilience",
     "overview": [
-      "Microgrids for resilience in Washington State."
+      "Designing a solar plus storage microgrid for resilience."
     ],
-    "status": "Research",
+    "status": "Past",
     "partners": [],
     "funding": "",
     "resources": [],
@@ -877,7 +997,7 @@
     "overview": [
       "Climate and Energy Injustice: racial and income disparities in access to indoor comfort."
     ],
-    "status": "Research",
+    "status": "Past",
     "partners": [],
     "funding": "",
     "resources": [],
@@ -886,7 +1006,6 @@
     "sources": [],
     "fundingCategory": "unfunded",
     "themes": [
-      "access",
       "resilience"
     ],
     "subthemes": [],
@@ -903,8 +1022,10 @@
     "overview": [
       "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda."
     ],
-    "status": "Research",
-    "partners": [],
+    "status": "Past",
+    "partners": [
+      "Elise Harrington · University of Minnesota"
+    ],
     "funding": "",
     "resources": [],
     "publications": [],
@@ -912,8 +1033,7 @@
     "sources": [],
     "fundingCategory": "unfunded",
     "themes": [
-      "access",
-      "resilience"
+      "access"
     ],
     "subthemes": [
       "off-grid"
@@ -922,6 +1042,13 @@
       "Biniyam Gebreyohannes"
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "partnerDetails": [
+      {
+        "name": "Elise Harrington · University of Minnesota",
+        "url": "https://www.hhh.umn.edu/directory/elise-harrington",
+        "org": "umn"
+      }
+    ]
   }
 ]
