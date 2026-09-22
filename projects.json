@@ -72,7 +72,6 @@
         "text": "Combine faster planning models with interactive visualization to help planners and policymakers explore alternatives."
       }
     ],
-    "approachNote": "These are project development goals, not an announcement of a completed dataset or tool release.",
     "publicationsNote": "SEER-specific publication links have not yet been added.",
     "releaseNote": "Open datasets and machine learning tools are in development. Public download and code links will be added when available.",
     "themes": [
@@ -99,7 +98,19 @@
     "publicationIds": [],
     "thesisStudents": [
       "ahana-mukherjee"
-    ]
+    ],
+    "approachTitle": "Project goals",
+    "collaboration": {
+      "title": "Want to collaborate?",
+      "prompts": [
+        "Are you a planner, modeler, or decision-maker?",
+        "Do you have data to share?",
+        "Are you interested in piloting our tools?"
+      ],
+      "invitation": "We want to hear from you.",
+      "email": "jlukuyu@uw.edu",
+      "subjectPrefix": "SEER Collaboration - "
+    }
   },
   {
     "slug": "electric-cooking-nairobi",
