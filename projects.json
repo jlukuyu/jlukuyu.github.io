@@ -662,20 +662,19 @@
     "gallery": [
       {
         "src": "autorickshaw-1.jpg",
-        "alt": "Two autorickshaws parked beside a street",
-        "caption": "Autorickshaws in everyday urban travel"
+        "alt": "Two autorickshaws parked beside a street"
       },
       {
         "src": "autorickshaw-2.jpg",
-        "alt": "Autorickshaws sharing a busy street",
-        "caption": "Three-wheelers on the road"
+        "alt": "Autorickshaws sharing a busy street"
       },
       {
         "src": "autorickshaw-3.jpg",
-        "alt": "Electric autorickshaws parked along a city street",
-        "caption": "Electric autorickshaws"
+        "alt": "Electric autorickshaws parked along a city street"
       }
-    ]
+    ],
+    "galleryCaption": "3 wheelers in Kolkata",
+    "galleryCredit": "Photos: Ahana Mukherjee"
   },
   {
     "slug": "economic-environmental-heterogeneity",
