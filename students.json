@@ -122,7 +122,12 @@
             "label": "UW ECE Research Showcase",
             "route": "post/ideas-lab-at-the-2025-uw-ece-research-showcase"
           }
-        ]
+        ],
+        "image": {
+          "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-0.png",
+          "alt": "Eliane Nirere presenting at the 2025 UW ECE Research Showcase",
+          "caption": "Eliane at the 2025 UW ECE Research Showcase."
+        }
       },
       {
         "quarter": "Summer 2025",
@@ -707,9 +712,9 @@
           }
         ],
         "image": {
-          "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-0.png",
-          "alt": "IDEAS researchers at the UW ECE Research Showcase",
-          "caption": "IDEAS at the 2025 UW ECE Research Showcase."
+          "src": "ideas-lab-at-the-2025-uw-ece-research-showcase-1.png",
+          "alt": "Kwame Donkor presenting at the 2025 UW ECE Research Showcase",
+          "caption": "Kwame at the 2025 UW ECE Research Showcase."
         }
       },
       {
