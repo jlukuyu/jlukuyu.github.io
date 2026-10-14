@@ -685,7 +685,15 @@
       }
     ],
     "galleryCaption": "Autorickshaws in Kolkata",
-    "galleryCredit": "Photo credit: Ahana"
+    "galleryCredit": "Photo credit: Ahana",
+    "fellowshipSupport": [
+      {
+        "student": "ahana-mukherjee",
+        "name": "Grainger Foundation fellowship",
+        "period": "October 2025–June 2026",
+        "note": "Fellowship period overlapped with the student’s work on this project."
+      }
+    ]
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -716,6 +724,14 @@
     "publicationIds": [],
     "thesisStudents": [
       "ahana-mukherjee"
+    ],
+    "fellowshipSupport": [
+      {
+        "student": "ahana-mukherjee",
+        "name": "Grainger Foundation fellowship",
+        "period": "October 2025–June 2026",
+        "note": "Fellowship period overlapped with the student’s work on this project."
+      }
     ]
   },
   {
@@ -1030,6 +1046,14 @@
       "Identify best practices for early, transparent engagement, inclusive decision-making, community priorities, and accountability.",
       "Examine barriers to negotiation and implementation, including trust, information gaps, confidentiality, power imbalances, and enforcement.",
       "Document state and federal policies that encourage or require community benefits, including the Department of Energy’s Community Benefits Plan requirement."
+    ],
+    "fellowshipSupport": [
+      {
+        "student": "ahana-mukherjee",
+        "name": "Grainger Foundation fellowship",
+        "period": "October 2025–June 2026",
+        "note": "Supported Ahana’s mentorship of the undergraduate research during Winter 2026."
+      }
     ]
   },
   {
