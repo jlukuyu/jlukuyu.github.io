@@ -690,14 +690,12 @@
       {
         "student": "ahana-mukherjee",
         "name": "UW Clean Energy Institute fellowship",
-        "period": "September 2024–March 2025",
-        "note": "Fellowship period overlapped with the student’s work on this project."
+        "period": "September 2024–March 2025"
       },
       {
         "student": "ahana-mukherjee",
         "name": "Grainger Foundation fellowship",
-        "period": "October 2025–June 2026",
-        "note": "Fellowship period overlapped with the student’s work on this project."
+        "period": "October 2025–June 2026"
       }
     ]
   },
@@ -735,8 +733,7 @@
       {
         "student": "ahana-mukherjee",
         "name": "Grainger Foundation fellowship",
-        "period": "October 2025–June 2026",
-        "note": "Fellowship period overlapped with the student’s work on this project."
+        "period": "October 2025–June 2026"
       }
     ]
   },
@@ -1041,9 +1038,7 @@
       "planning"
     ],
     "subthemes": [],
-    "studentResearchers": [
-      "Madelyn M McInnis"
-    ],
+    "studentResearchers": [],
     "publicationIds": [],
     "thesisStudents": [],
     "objectives": [
@@ -1053,14 +1048,10 @@
       "Examine barriers to negotiation and implementation, including trust, information gaps, confidentiality, power imbalances, and enforcement.",
       "Document state and federal policies that encourage or require community benefits, including the Department of Energy’s Community Benefits Plan requirement."
     ],
-    "fellowshipSupport": [
-      {
-        "student": "ahana-mukherjee",
-        "name": "Grainger Foundation fellowship",
-        "period": "October 2025–June 2026",
-        "note": "Supported Ahana’s mentorship of the undergraduate research during Winter 2026."
-      }
-    ]
+    "leadStudent": "Madelyn M McInnis",
+    "studentRoles": {
+      "ahana-mukherjee": "Graduate mentor"
+    }
   },
   {
     "slug": "washington-microgrid-resilience",
