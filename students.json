@@ -843,6 +843,10 @@
           {
             "label": "Manuscript details",
             "href": "#output-accra-manuscript"
+          },
+          {
+            "label": "Explore distribution-grid data research",
+            "route": "research/distribution-grid-data"
           }
         ],
         "images": [
@@ -902,14 +906,15 @@
       },
       {
         "id": "distribution-grid-data",
-        "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability",
+        "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability in Data Sparse Settings",
         "description": "Investigating how graph neural network (GNN) performance for outage prediction varies with spatial instrumentation coverage and the depth of historical outage and weather data. Begun in Summer 2026.",
         "links": [
           {
             "label": "RCSS poster presentation",
             "href": "#output-rcss-poster"
           }
-        ]
+        ],
+        "projectSlug": "distribution-grid-data"
       }
     ],
     "outputs": [
