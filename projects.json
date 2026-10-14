@@ -1120,5 +1120,37 @@
         "org": "umn"
       }
     ]
+  },
+  {
+    "slug": "distribution-grid-data",
+    "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability in Data Sparse Settings",
+    "summary": "Investigating how graph neural network (GNN) performance for outage prediction varies with spatial instrumentation coverage and the depth of historical outage and weather data. The project explores the value of distribution-level data for predicting climate-driven grid vulnerability in data sparse settings.",
+    "overview": [
+      "Investigating how graph neural network (GNN) performance for outage prediction varies with spatial instrumentation coverage and the depth of historical outage and weather data. The project explores the value of distribution-level data for predicting climate-driven grid vulnerability in data sparse settings.",
+      "Kwame began this research in Summer 2026 and presented a poster on the work at the Rwanda Climate Science Symposium."
+    ],
+    "status": "Ongoing",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [
+      {
+        "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability",
+        "kind": "Poster presentation · Summer 2026",
+        "note": "Presented by Kwame Donkor at the Rwanda Climate Science Symposium."
+      }
+    ],
+    "people": [
+      "kwame-donkor"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "thesisStudents": [
+      "kwame-donkor"
+    ]
   }
 ]
