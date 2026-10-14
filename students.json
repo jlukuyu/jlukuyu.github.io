@@ -835,7 +835,7 @@
           "Mentored Yufei, an ECE undergraduate, who is interested in pursuing a career in power systems, renewable energy integration, and energy access for underserved communities.",
           "Attended the week-long AI-in-Practice workshop organized by the eScience Institute.",
           "Began work on second research project: exploring how instrumentation coverage and historical data depth shape graph neural network (GNN) performance on distribution grids.",
-          "Completed the research project “Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods” and submitted for publication.",
+          "Completed the research project “Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana” and submitted for publication.",
           "Was invited to give a talk on life as a PhD student at the CMU-Africa Research Club in Kigali and joined Dr. Nathan Williams for a subsequent Q&A panel.",
           "Attended the Rwanda Climate Science Symposium and presented a poster on ongoing GNN research titled “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability.”"
         ],
@@ -890,7 +890,7 @@
     "projects": [
       {
         "id": "accra-grid-weather",
-        "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+        "title": "Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana",
         "description": "Research on weather, outages, voltage, and neighborhood vulnerability in Greater Accra, begun in Summer 2024 and completed in Summer 2026. The resulting manuscript has been submitted.",
         "links": [
           {
@@ -921,7 +921,7 @@
       {
         "id": "accra-manuscript",
         "type": "Manuscript · Submitted Summer 2026",
-        "title": "Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods",
+        "title": "Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana",
         "note": "Submitted to Communications Earth & Environment (Nature Portfolio). This is a submitted manuscript, not a published article; no public manuscript link has been added.",
         "links": []
       },
