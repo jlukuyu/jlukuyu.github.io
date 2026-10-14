@@ -676,23 +676,57 @@
   "kwame-donkor": {
     "timeline": [
       {
-        "quarter": "Summer 2024",
-        "year": 2024,
-        "title": "Beginning Accra grid–weather research",
+        "quarter": "Autumn 2023",
+        "year": 2023,
+        "title": "Joining IDEAS Lab",
         "activities": [
-          "Attended the IEEE Power & Energy Society General Meeting in Seattle.",
-          "Attended ORCAS 2024: International Conference on Energy Conversion and Storage, Bainbridge Island.",
-          "Began research project: Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods."
+          "Admitted to the PhD program in Electrical & Computer Engineering, University of Washington",
+          "Joined the IDEAS Lab"
         ],
         "links": []
+      },
+      {
+        "quarter": "Spring 2024",
+        "year": 2024,
+        "title": "Exploring climate and grid resilience",
+        "activities": [
+          "Began general literature review on power grid resilience to extreme weather events globally and in Sub-Saharan Africa."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Summer 2024",
+        "year": 2024,
+        "title": "Field research and research exchange",
+        "activities": [
+          "Began exploring and cleaning power quality and reliability (PQR) and demographic data for Greater Accra, Ghana.",
+          "Attended the IEEE Power & Energy Society General Meeting in Seattle.",
+          "Co-mentored Lillian and Biniyam, undergraduate computer science students in the Clean Energy Bridge to Research program, on projects analyzing mini-grid customer payment patterns in Western Uganda and inequities in access to heating and cooling infrastructure across Seattle.",
+          "Attended ORCAS 2024, the International Conference on Energy Conversion and Storage, on Bainbridge Island.",
+          "Participated in the e-GUIDE retreat in Niagara Falls and Rochester, New York, connecting with consortium researchers and presenting a poster on ongoing research.",
+          "Traveled to Ghana for research, attending the public launch of nLine’s GridWatch PQR dataset and conducting semi-structured interviews with meteorological agency and local utility staff."
+        ],
+        "links": [],
+        "images": [
+          {
+            "src": "kwame-research-exchange-2024.jpg",
+            "alt": "Research exchange in Summer 2024",
+            "caption": "Research exchange in Summer 2024."
+          },
+          {
+            "src": "kwame-research-panel-2024.jpg",
+            "alt": "Panel discussion during Summer 2024 research activities",
+            "caption": "Panel discussion during Summer 2024 research activities."
+          }
+        ]
       },
       {
         "quarter": "Autumn 2024",
         "year": 2024,
         "title": "Teaching and grid resilience",
         "activities": [
-          "Teaching Assistant for Energy, Materials, Devices and Systems.",
-          "Continued Accra grid–weather research."
+          "Teaching Assistant for EE 454: Power Systems Analysis.",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana."
         ],
         "links": []
       },
@@ -701,9 +735,20 @@
         "year": 2025,
         "title": "Communicating research",
         "activities": [
-          "UW Scholars’ Studio lightning talk: “Integrating Social Equity and Climate Vulnerability Considerations into Grid Resilience Planning for African Cities.”",
-          "Continued Accra grid–weather research.",
-          "Presented research at the March 2025 UW ECE Research Showcase."
+          "Presented ongoing research work titled “Investigating Correlations between Power Grid Resilience, Extreme Weather and Social Equity: Insights from Accra” at the UW Scholars’ Studio Lightning Talk.",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Spring 2025",
+        "year": 2025,
+        "title": "Fellowship, showcase and qualifying exams",
+        "activities": [
+          "Recipient of the Cascade Energy Fellowship, Renewable Energy Scholarship Foundation",
+          "Poster presentation at UW ECE Research Showcase",
+          "Passed Qualifying Exams",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana."
         ],
         "links": [
           {
@@ -718,27 +763,11 @@
         }
       },
       {
-        "quarter": "Spring 2025",
-        "year": 2025,
-        "title": "Fellowship and qualifying exams",
-        "activities": [
-          "Received the Cascade Energy Fellowship through the Renewable Energy Scholarship Foundation.",
-          "Took and passed qualifying exams.",
-          "Continued Accra grid–weather research."
-        ],
-        "links": [
-          {
-            "label": "Fellowship listed on professional profile",
-            "href": "https://www.linkedin.com/in/ing-kwame-donkor"
-          }
-        ]
-      },
-      {
         "quarter": "Summer 2025",
         "year": 2025,
         "title": "Industry internship",
         "activities": [
-          "Internship at Schweitzer Engineering Laboratories."
+          "Internship at Schweitzer Engineering Laboratories (Charlotte, NC) with the Automation Team, Engineering Services."
         ],
         "links": []
       },
@@ -747,51 +776,111 @@
         "year": 2025,
         "title": "Teaching and conference exchange",
         "activities": [
-          "Teaching Assistant for EE 454.",
-          "INFORMS Annual Meeting, Atlanta: hybrid presentation and poster session, “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition.”",
-          "Continued Accra grid–weather research."
+          "Teaching Assistant for EE 454: Power Systems Analysis",
+          "Presented research, “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition” in a hybrid presentation and poster session at the INFORMS Annual Meeting in Atlanta.",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana."
         ],
-        "links": []
+        "links": [],
+        "images": [
+          {
+            "src": "kwame-informs-2025.jpg",
+            "alt": "Presenting grid resilience research at INFORMS 2025",
+            "caption": "Presenting grid resilience research at INFORMS 2025."
+          }
+        ]
       },
       {
         "quarter": "Winter 2026",
         "year": 2026,
-        "title": "Grid resilience in conversation",
+        "title": "Grid resilience and capstone mentoring",
         "activities": [
-          "Virtual presentation at a Kilowatts for Humanity meeting: “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition: A Case Study of Greater Accra, Ghana.”",
-          "Continued Accra grid–weather research."
+          "Delivered a virtual presentation at a KiloWatts for Humanity (KWH) meeting titled “Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition: A Case Study of Greater Accra, Ghana.”",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana.",
+          "Served as Faculty Mentor for an undergraduate capstone team exploring battery energy storage strategies for the University of Washington’s campus electrical distribution system, with GE Vernova as the project’s industry partner."
         ],
         "links": []
       },
       {
         "quarter": "Spring 2026",
         "year": 2026,
-        "title": "Connecting evidence with policy",
+        "title": "Capstone showcase and research",
         "activities": [
-          "Continued Accra grid–weather research.",
+          "Continued research on weather impacts on power quality and reliability in Greater Accra, Ghana.",
+          "Continued mentoring the undergraduate capstone team, whose work culminated in a final project report and a student poster presentation at the UW ECE ENGINE Showcase.",
           "Co-authored “When Climate Shocks Collide with Grid Failure,” published by the Energy for Growth Hub on April 9, 2026, with June Lukuyu, Mohini Bariya, and Genevieve Flaspohler."
         ],
         "links": [
           {
             "label": "Read the policy memo",
             "href": "https://energyforgrowth.org/article/when-climate-shocks-collide-with-grid-failure/"
+          },
+          {
+            "label": "View capstone poster (PDF)",
+            "asset": "kwame-ge-capstone-poster-2026.pdf"
+          }
+        ],
+        "images": [
+          {
+            "src": "kwame-engine-showcase-2026.jpg",
+            "alt": "Kwame and the capstone team at the UW ECE ENGINE Showcase",
+            "caption": "Kwame and the capstone team at the UW ECE ENGINE Showcase."
           }
         ]
       },
       {
         "quarter": "Summer 2026",
         "year": 2026,
-        "title": "Research completion and manuscript submission",
+        "title": "New research and international exchange",
         "activities": [
-          "Completed the research project: Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods.",
-          "Submitted the manuscript to Communications Earth & Environment (Nature Portfolio)."
+          "Mentored Yufei, an ECE undergraduate, who is interested in pursuing a career in power systems, renewable energy integration, and energy access for underserved communities.",
+          "Attended the week-long AI-in-Practice workshop organized by the eScience Institute.",
+          "Began work on second research project: exploring how instrumentation coverage and historical data depth shape graph neural network (GNN) performance on distribution grids.",
+          "Completed the research project “Extreme Weather Raises Outage Risk Across Accra and Heat Lowers Voltage in Vulnerable Neighborhoods” and submitted for publication.",
+          "Was invited to give a talk on life as a PhD student at the CMU-Africa Research Club in Kigali and joined Dr. Nathan Williams for a subsequent Q&A panel.",
+          "Attended the Rwanda Climate Science Symposium and presented a poster on ongoing GNN research titled “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability.”"
         ],
         "links": [
           {
             "label": "Manuscript details",
             "href": "#output-accra-manuscript"
           }
+        ],
+        "images": [
+          {
+            "src": "kwame-rcss-2026.jpg",
+            "alt": "Rwanda Climate Science Symposium 2026",
+            "caption": "Rwanda Climate Science Symposium 2026."
+          },
+          {
+            "src": "kwame-cmu-africa-talk-2026.jpg",
+            "alt": "Research and PhD life discussion at CMU-Africa",
+            "caption": "Research and PhD life discussion at CMU-Africa."
+          },
+          {
+            "src": "kwame-rcss-poster-discussion-2026.jpg",
+            "alt": "Discussing distribution-grid research at the Rwanda Climate Science Symposium",
+            "caption": "Discussing distribution-grid research at the Rwanda Climate Science Symposium."
+          },
+          {
+            "src": "kwame-rcss-poster-2026.jpg",
+            "alt": "Sharing the GNN research poster at the Rwanda Climate Science Symposium",
+            "caption": "Sharing the GNN research poster at the Rwanda Climate Science Symposium."
+          },
+          {
+            "src": "kwame-cmu-africa-group-2026.jpg",
+            "alt": "With the CMU-Africa Research Club",
+            "caption": "With the CMU-Africa Research Club."
+          }
         ]
+      },
+      {
+        "quarter": "Autumn 2026",
+        "year": 2026,
+        "title": "Teaching power systems",
+        "activities": [
+          "Teaching Assistant for EE 454: Power Systems Analysis"
+        ],
+        "links": []
       }
     ],
     "projects": [
@@ -810,6 +899,17 @@
           }
         ],
         "projectSlug": "accra-grid-weather"
+      },
+      {
+        "id": "distribution-grid-data",
+        "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability",
+        "description": "Investigating how graph neural network (GNN) performance for outage prediction varies with spatial instrumentation coverage and the depth of historical outage and weather data. Begun in Summer 2026.",
+        "links": [
+          {
+            "label": "RCSS poster presentation",
+            "href": "#output-rcss-poster"
+          }
+        ]
       }
     ],
     "outputs": [
@@ -838,9 +938,33 @@
         "title": "Bridging Climate Risk and Grid Resilience in Africa’s Energy Transition",
         "note": "INFORMS Annual Meeting, Atlanta. A related Greater Accra case-study presentation was delivered virtually to Kilowatts for Humanity in Winter 2026.",
         "links": []
+      },
+      {
+        "id": "rcss-poster",
+        "type": "Poster presentation · Summer 2026",
+        "title": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability",
+        "note": "Presented at the Rwanda Climate Science Symposium.",
+        "links": [
+          {
+            "label": "Photos from the symposium",
+            "href": "#quarter-summer-2026"
+          }
+        ]
+      },
+      {
+        "id": "capstone-poster",
+        "type": "Capstone poster · Spring 2026",
+        "title": "Modeling UW Campus and Battery Design as Flexible Load",
+        "note": "UW ECE ENGINE Showcase. Students: Daniel Wang, William Bollich, Sean Lai, Mellvin Chia, and Rory McAndrew. Advisers: June Lukuyu and Kwame Donkor. Industry mentors: Vaidy Ramachandran and Jesse Gantz. Sponsor: GE Vernova.",
+        "links": [
+          {
+            "label": "View capstone poster (PDF)",
+            "asset": "kwame-ge-capstone-poster-2026.pdf"
+          }
+        ]
       }
     ],
-    "updated": "September 2026"
+    "updated": "October 2026"
   },
   "miquilina-anagbah": {
     "timeline": [],
