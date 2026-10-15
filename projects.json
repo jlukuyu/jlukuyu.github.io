@@ -1182,7 +1182,10 @@
       "This project tracks how rooftop solar has spread across Seattle’s census tracts over time. It compares where solar has been installed with where rooftops could support it, showing how much of each area’s solar potential has been used. It then looks at how these patterns line up with income, race, homeownership, and other measures of community vulnerability. The goal is to identify which communities have shared in the benefits of rooftop solar and which have been left behind."
     ],
     "status": "Ongoing",
-    "partners": [],
+    "partners": [
+      "Seattle City Light",
+      "Patrick Greiner · University of Washington"
+    ],
     "funding": "",
     "resources": [],
     "publications": [],
@@ -1195,6 +1198,20 @@
     "subthemes": [],
     "leadStudent": "Caitlyn Richter",
     "studentResearchers": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "partnerDetails": [
+      {
+        "name": "Seattle City Light",
+        "url": "https://www.seattle.gov/city-light"
+      },
+      {
+        "org": "uwpartner",
+        "name": "Patrick Greiner",
+        "url": "https://soc.washington.edu/people/patrick-greiner",
+        "members": [
+          "Associate Professor of Sociology · University of Washington"
+        ]
+      }
+    ]
   }
 ]
