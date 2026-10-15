@@ -1173,5 +1173,28 @@
     "thesisStudents": [
       "kwame-donkor"
     ]
+  },
+  {
+    "slug": "seattle-rooftop-solar",
+    "title": "Longitudinal assessment of rooftop solar adoption in Seattle",
+    "summary": "Tracking rooftop solar adoption and untapped rooftop potential across Seattle’s census tracts to understand who benefits and which communities are left behind.",
+    "overview": [
+      "This project tracks how rooftop solar has spread across Seattle’s census tracts over time. It compares where solar has been installed with where rooftops could support it, showing how much of each area’s solar potential has been used. It then looks at how these patterns line up with income, race, homeownership, and other measures of community vulnerability. The goal is to identify which communities have shared in the benefits of rooftop solar and which have been left behind."
+    ],
+    "status": "Ongoing",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "planning"
+    ],
+    "subthemes": [],
+    "leadStudent": "Caitlyn Richter",
+    "studentResearchers": [],
+    "thesisStudents": []
   }
 ]
