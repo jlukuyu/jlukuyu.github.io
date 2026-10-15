@@ -22,6 +22,19 @@
     "linkLabel": "Explore the project →"
   },
   {
+    "name": "Caitlyn Richter",
+    "role": "Undergraduate researcher",
+    "end": null,
+    "project": "Longitudinal assessment of rooftop solar adoption in Seattle",
+    "description": "This project tracks how rooftop solar has spread across Seattle’s census tracts over time. It compares where solar has been installed with where rooftops could support it, showing how much of each area’s solar potential has been used. It then looks at how these patterns line up with income, race, homeownership, and other measures of community vulnerability. The goal is to identify which communities have shared in the benefits of rooftop solar and which have been left behind."
+  },
+  {
+    "name": "Dorcas Mulongo",
+    "role": "Undergraduate researcher",
+    "end": null,
+    "project": "How Power Grids Shape the Air Quality Benefits of Electric Vehicles in African Cities"
+  },
+  {
     "name": "Hassan Dirif",
     "role": "Washington MESA summer program",
     "start": "2025-06",
