@@ -1071,7 +1071,12 @@
             "label": "Explore interconnected mini-grid reliability",
             "route": "research/interconnected-minigrid-reliability"
           }
-        ]
+        ],
+        "image": {
+          "src": "aya-ece-showcase-2026.jpg",
+          "alt": "IDEAS researchers at the UW ECE Research Showcase, Winter 2026.",
+          "caption": "IDEAS researchers at the UW ECE Research Showcase, Winter 2026."
+        }
       },
       {
         "quarter": "Spring 2026",
