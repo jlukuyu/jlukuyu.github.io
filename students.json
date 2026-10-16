@@ -1146,8 +1146,187 @@
     "updated": "October 2026"
   },
   "aya-alayli": {
-    "timeline": [],
-    "projects": [],
-    "outputs": []
+    "timeline": [
+      {
+        "quarter": "Autumn 2024",
+        "year": 2024,
+        "title": "Joining IDEAS Lab",
+        "activities": [
+          "Admitted to the PhD program in Electrical & Computer Engineering, University of Washington",
+          "Joined the IDEAS Lab",
+          "Presented senior community engagement engineering project at the North Olympic Peninsula on Energy & Climate Resilience",
+          "Grainger Foundation fellowship: September–December 2024."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Spring 2025",
+        "year": 2025,
+        "title": "Exploratory Research",
+        "activities": [
+          "Exploratory research on community microgrids and resilience",
+          "Galloway Fellowship: January–June 2025."
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2025",
+        "year": 2025,
+        "title": "Impacts of Climate Change on Community Microgrid Resilience",
+        "activities": [
+          "Scoped out a project exploring how intensifying climate change impacts the resilience benefits of microgrids installed for community resilience",
+          "Mentored a Washington MESA Summer Intern through a project on designing solar and battery storage microgrids for energy resilience"
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          },
+          {
+            "label": "Solar and storage microgrid mentorship project",
+            "route": "research/washington-microgrid-resilience"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn 2025",
+        "year": 2025,
+        "title": "Developing Methodology & Data Analysis",
+        "activities": [
+          "Defined model structure and began data analysis for community microgrid & climate change project",
+          "Began brainstorming for new technical assistance project with the Cofán Tribe of Ecuador",
+          "Recruited an undergraduate student for the Cofán project"
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          },
+          {
+            "label": "Explore the Cofán project",
+            "route": "research/cofan-energy-resilience"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter 2026",
+        "year": 2026,
+        "title": "Building Microgrid Model & Mentorship",
+        "activities": [
+          "Developed microgrid dispatch simulation to understand resilience performance under uncertain climate conditions",
+          "Mentored undergraduate student through beginning data analysis for Cofán project",
+          "Teaching Assistant for EE 455: Power System Protection & Dynamics",
+          "Poster presentation of Cofán project at the annual UW ECE research showcase",
+          "Served as a faculty mentor for a senior capstone group exploring energy resilience for Darrington High School and Community Center, in partnership with Snohomish County PUD"
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          },
+          {
+            "label": "Explore the Cofán project",
+            "route": "research/cofan-energy-resilience"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2026",
+        "year": 2026,
+        "title": "Qualifying Exam",
+        "activities": [
+          "Passed qualifying exam, presented project titled “Long-term resilience performance of single-load solar and storage systems in the PNW under intensifying climate conditions”",
+          "Poster presentation for Cofán project at the University of Washington’s Clean Energy Institute Research Showcase at Mckinstry Engineering",
+          "Continued mentoring senior capstone group, whose work culminated in multi-load microgrid designs and electrical diagrams"
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          },
+          {
+            "label": "Explore the Cofán project",
+            "route": "research/cofan-energy-resilience"
+          },
+          {
+            "label": "View Cofán CEI poster (PDF)",
+            "asset": "cofan-cei-2026-poster.pdf"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2026",
+        "year": 2026,
+        "title": "Industry Internship",
+        "activities": [
+          "Energy Markets Software Intern with GE Vernova’s Digital Technologies office in Bellevue, WA. Completed a project modeling data center energy consumption for resource scheduling and management"
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2026",
+        "year": 2026,
+        "title": "Clean Energy Institute Fellowship",
+        "activities": [
+          "University of Washington’s Clean Energy Institute Fellow",
+          "Teaching Assistant for CHEM E 440: Energy Materials, Devices, and Systems",
+          "Poster presentation for Cofán project at the IEEE Global Humanitarian Technologies Conference in Boulder, CO, won an Honorable Mention award for best student poster",
+          "Expanding project on intensifying climate change and microgrid resilience to explore how microgrids serve interdependent community services",
+          "Conducting preparatory work for participatory research with Washington communities for expanding microgrid resilience project"
+        ],
+        "links": [
+          {
+            "label": "Explore community microgrid resilience research",
+            "route": "research/community-microgrid-climate-resilience"
+          },
+          {
+            "label": "Explore the Cofán project",
+            "route": "research/cofan-energy-resilience"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "community-microgrid-climate-resilience",
+        "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
+        "description": "Modeling long-term solar and storage resilience under intensifying climate conditions, with expanding work on interdependent community services and participatory research.",
+        "projectSlug": "community-microgrid-climate-resilience",
+        "links": []
+      },
+      {
+        "id": "cofan",
+        "title": "Cofán Tribal Energy Resilience",
+        "description": "Technical assistance and undergraduate mentorship for the Cofán project, beginning in Autumn 2025.",
+        "projectSlug": "cofan-energy-resilience",
+        "links": []
+      },
+      {
+        "id": "darrington-capstone",
+        "title": "Energy Resilience for Darrington High School and Community Center",
+        "description": "Faculty mentor for a senior capstone team in partnership with Snohomish County PUD, Winter–Spring 2026. The work culminated in multi-load microgrid designs and electrical diagrams.",
+        "links": []
+      }
+    ],
+    "outputs": [
+      {
+        "id": "cofan-cei-poster",
+        "title": "Cofán Tribal Energy Resilience",
+        "type": "Poster presentations · 2026",
+        "note": "Presented at the UW ECE Research Showcase in Winter 2026 and the UW Clean Energy Institute Research Showcase in Spring 2026. The Autumn 2026 presentation at the IEEE Global Humanitarian Technologies Conference in Boulder, Colorado, received an Honorable Mention for best student poster.",
+        "links": [
+          {
+            "label": "View CEI poster (PDF)",
+            "asset": "cofan-cei-2026-poster.pdf"
+          }
+        ]
+      }
+    ],
+    "updated": "October 2026"
   }
 }
