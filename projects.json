@@ -1015,7 +1015,14 @@
       "href": "cofan-cei-2026-poster.pdf",
       "alt": "CEI 2026 research poster on community-centered solar and storage planning with the Cofán people",
       "caption": "Centering Communities in Electrification Planning and Energy Transitions: A Case of the Cofán People · CEI 2026"
-    }
+    },
+    "fellowshipSupport": [
+      {
+        "student": "aya-alayli",
+        "name": "UW Clean Energy Institute fellowship",
+        "period": "Autumn 2026"
+      }
+    ]
   },
   {
     "slug": "community-benefit-agreements",
@@ -1246,6 +1253,44 @@
         "student": "miquilina-anagbah",
         "name": "Galloway Fellowship",
         "period": "October 2025–March 2026"
+      }
+    ]
+  },
+  {
+    "slug": "community-microgrid-climate-resilience",
+    "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
+    "summary": "Examining how intensifying climate change affects the resilience benefits of community solar and storage microgrids in the Pacific Northwest.",
+    "overview": [
+      "This research examines the long-term resilience performance of solar and storage systems under intensifying climate conditions. Following exploratory work in Spring 2025, Aya developed a microgrid dispatch simulation to evaluate resilience under uncertain climate conditions.",
+      "In Autumn 2026, the work expanded to consider interdependent community services, alongside preparatory work for participatory research with Washington communities."
+    ],
+    "status": "Ongoing",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [
+      "aya-alayli"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "thesisStudents": [
+      "aya-alayli"
+    ],
+    "fellowshipSupport": [
+      {
+        "student": "aya-alayli",
+        "name": "Galloway Fellowship",
+        "period": "January–June 2025"
+      },
+      {
+        "student": "aya-alayli",
+        "name": "UW Clean Energy Institute fellowship",
+        "period": "Autumn 2026"
       }
     ]
   }
