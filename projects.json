@@ -1213,5 +1213,40 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "interconnected-minigrid-reliability",
+    "title": "The Role of Interconnected Mini-Grids in Closing the Reliability Gap",
+    "summary": "Exploring how interconnected mini-grids can address energy access and electricity reliability challenges in peri-urban Africa.",
+    "overview": [
+      "This project examines the potential of interconnected mini-grids to close gaps in electricity access and reliability in peri-urban Africa. Miquilina began the research in Summer 2025 and is finalizing it in Autumn 2026."
+    ],
+    "status": "Ongoing",
+    "partners": [],
+    "funding": "",
+    "resources": [],
+    "publications": [],
+    "people": [
+      "miquilina-anagbah"
+    ],
+    "sources": [],
+    "fundingCategory": "unfunded",
+    "themes": [
+      "access",
+      "resilience"
+    ],
+    "subthemes": [
+      "integrated-planning"
+    ],
+    "thesisStudents": [
+      "miquilina-anagbah"
+    ],
+    "fellowshipSupport": [
+      {
+        "student": "miquilina-anagbah",
+        "name": "Galloway Fellowship",
+        "period": "October 2025–March 2026"
+      }
+    ]
   }
 ]

@@ -972,9 +972,178 @@
     "updated": "October 2026"
   },
   "miquilina-anagbah": {
-    "timeline": [],
-    "projects": [],
-    "outputs": []
+    "timeline": [
+      {
+        "quarter": "Summer 2024",
+        "year": 2024,
+        "title": "Joining IDEAS Lab and Research Foundations",
+        "activities": [
+          "Joined the University of Washington and the IDEAS Lab, beginning research focused on sustainable energy systems and transportation.",
+          "Multi-Stakeholder Perspectives of Electric Bus Service: Led field data collection in Kigali, Rwanda, in collaboration with students from the University of Rwanda’s College of Science and Technology.",
+          "Clean Energy Institute Undergraduate Mentor: Co-mentored two undergraduate summer researchers investigating electricity consumption patterns, payment behaviors, and demographic factors influencing access to clean energy among rural customers in Uganda. The projects combined real-world data analysis with research on energy access and equity."
+        ],
+        "links": [
+          {
+            "label": "Explore the Kigali electric bus project",
+            "route": "research/electric-bus-kigali"
+          }
+        ],
+        "image": {
+          "src": "kigali-data-collection-august-2024-0.jpg",
+          "alt": "Electric bus research fieldwork in Kigali",
+          "caption": "Kigali electric bus fieldwork, August 2024."
+        }
+      },
+      {
+        "quarter": "Autumn 2024",
+        "year": 2024,
+        "title": "Data Analysis and Transportation Research",
+        "activities": [
+          "Conducted data analysis for a comparative study of rider and operator satisfaction with diesel and electric bus services in Kigali, Rwanda, examining perspectives on the transition to electric public transportation."
+        ],
+        "links": [
+          {
+            "label": "Explore the Kigali electric bus project",
+            "route": "research/electric-bus-kigali"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter – Spring 2025",
+        "year": 2025,
+        "title": "Advancing Electric Mobility Research",
+        "activities": [
+          "Continued research on A Comparative Analysis of Diesel and Electric Bus Rider and Operator Satisfaction in Kigali, building on field data collection and subsequent analysis to better understand stakeholder experiences with conventional and electric bus services."
+        ],
+        "links": [
+          {
+            "label": "Explore the Kigali electric bus project",
+            "route": "research/electric-bus-kigali"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2025",
+        "year": 2025,
+        "title": "Expanding into Energy Access and Mini-Grids",
+        "activities": [
+          "Continued research on A Comparative Analysis of Diesel and Electric Bus Rider and Operator Satisfaction in Kigali.",
+          "Began work on Interconnected Mini-Grids in Closing the Energy Access and Reliability Gap."
+        ],
+        "links": [
+          {
+            "label": "Explore the Kigali electric bus project",
+            "route": "research/electric-bus-kigali"
+          },
+          {
+            "label": "Explore interconnected mini-grid reliability",
+            "route": "research/interconnected-minigrid-reliability"
+          }
+        ]
+      },
+      {
+        "quarter": "Autumn 2025",
+        "year": 2025,
+        "title": "Fellowship Support and Research Development",
+        "activities": [
+          "Galloway Fellowship: Received fellowship support made possible by Debbie and Dave Galloway in collaboration with the University of Washington’s Department of Electrical and Computer Engineering. The fellowship supports innovation in renewable energy and power systems.",
+          "Continued research on Interconnected Mini-Grids in Closing the Energy Access and Reliability Gap.",
+          "Galloway Fellowship support period: October 2025–March 2026."
+        ],
+        "links": [
+          {
+            "label": "Explore interconnected mini-grid reliability",
+            "route": "research/interconnected-minigrid-reliability"
+          }
+        ]
+      },
+      {
+        "quarter": "Winter 2026",
+        "year": 2026,
+        "title": "Deepening Research on Energy Reliability",
+        "activities": [
+          "Continued support through the Galloway Fellowship, recognizing the importance of research and innovation in renewable energy and power systems.",
+          "Advanced research on interconnected mini-grids and their potential to address electricity reliability challenges in peri-urban Africa.",
+          "Galloway Fellowship support period: October 2025–March 2026."
+        ],
+        "links": [
+          {
+            "label": "Explore interconnected mini-grid reliability",
+            "route": "research/interconnected-minigrid-reliability"
+          }
+        ]
+      },
+      {
+        "quarter": "Spring 2026",
+        "year": 2026,
+        "title": "Research Milestone",
+        "activities": [
+          "Continued research on The Role of Interconnected Mini-Grids in Closing the Reliability Gap.",
+          "Qualifying Examination: Completed a key milestone in doctoral studies, demonstrating progress toward independent research."
+        ],
+        "links": [
+          {
+            "label": "Explore interconnected mini-grid reliability",
+            "route": "research/interconnected-minigrid-reliability"
+          }
+        ]
+      },
+      {
+        "quarter": "Summer 2026",
+        "year": 2026,
+        "title": "Industry Experience",
+        "activities": [
+          "Internship at GE Vernova: Gained industry experience at the intersection of energy technology, engineering, and power systems, complementing academic research with practical industry exposure."
+        ],
+        "links": []
+      },
+      {
+        "quarter": "Autumn 2026",
+        "year": 2026,
+        "title": "Expanding Research Horizons",
+        "activities": [
+          "Finalizing research on The Role of Interconnected Mini-Grids in Closing the Reliability Gap.",
+          "Began work on Mapping the Viability Frontier for Interconnected Mini-Grids Under Macroeconomic Uncertainty, examining how economic uncertainty influences the feasibility and potential deployment of interconnected mini-grid systems.",
+          "Joined the PATIO Energy and Sustainability Score for Edge Computing, expanding research interests to include energy efficiency and sustainability in emerging computing infrastructure."
+        ],
+        "links": [
+          {
+            "label": "Explore interconnected mini-grid reliability",
+            "route": "research/interconnected-minigrid-reliability"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "electric-bus-kigali",
+        "title": "A Comparative Analysis of Diesel and Electric Bus Rider and Operator Satisfaction in Kigali",
+        "description": "Field data collection and analysis of rider and operator experiences with electric and diesel bus services in Kigali, from Summer 2024 through Summer 2025.",
+        "projectSlug": "electric-bus-kigali",
+        "links": []
+      },
+      {
+        "id": "interconnected-minigrid-reliability",
+        "title": "The Role of Interconnected Mini-Grids in Closing the Reliability Gap",
+        "description": "Research on interconnected mini-grids and electricity reliability in peri-urban Africa, begun in Summer 2025 and being finalized in Autumn 2026.",
+        "projectSlug": "interconnected-minigrid-reliability",
+        "links": []
+      },
+      {
+        "id": "minigrid-viability",
+        "title": "Mapping the Viability Frontier for Interconnected Mini-Grids Under Macroeconomic Uncertainty",
+        "description": "Begun in Autumn 2026, this research examines how economic uncertainty influences the feasibility and potential deployment of interconnected mini-grid systems.",
+        "links": []
+      },
+      {
+        "id": "patio",
+        "title": "PATIO Energy and Sustainability Score for Edge Computing",
+        "description": "Joined in Autumn 2026, expanding research into energy efficiency and sustainability in emerging computing infrastructure.",
+        "links": []
+      }
+    ],
+    "outputs": [],
+    "updated": "October 2026"
   },
   "aya-alayli": {
     "timeline": [],
