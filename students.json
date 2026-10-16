@@ -1233,7 +1233,12 @@
             "label": "Explore the Cofán project",
             "route": "research/cofan-energy-resilience"
           }
-        ]
+        ],
+        "image": {
+          "src": "aya-ece-showcase-2026.jpg",
+          "alt": "IDEAS researchers at the UW ECE Research Showcase, Winter 2026.",
+          "caption": "IDEAS researchers at the UW ECE Research Showcase, Winter 2026."
+        }
       },
       {
         "quarter": "Spring 2026",
@@ -1257,7 +1262,12 @@
             "label": "View Cofán CEI poster (PDF)",
             "asset": "cofan-cei-2026-poster.pdf"
           }
-        ]
+        ],
+        "image": {
+          "src": "aya-cei-showcase-2026.jpg",
+          "alt": "Sharing the Cofán project at the UW Clean Energy Institute Research Showcase, Spring 2026.",
+          "caption": "Sharing the Cofán project at the UW Clean Energy Institute Research Showcase, Spring 2026."
+        }
       },
       {
         "quarter": "Summer 2026",
@@ -1288,7 +1298,12 @@
             "label": "Explore the Cofán project",
             "route": "research/cofan-energy-resilience"
           }
-        ]
+        ],
+        "image": {
+          "src": "aya-ghtc-2026.jpg",
+          "alt": "Presenting the Cofán project at the IEEE Global Humanitarian Technologies Conference, Autumn 2026.",
+          "caption": "Presenting the Cofán project at the IEEE Global Humanitarian Technologies Conference, Autumn 2026."
+        }
       }
     ],
     "projects": [
