@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "date": "2026",
+      "dateLabel": "Autumn 2026",
+      "kind": "Conference & award",
+      "title": "Aya receives poster Honorable Mention at IEEE GHTC",
+      "summary": "Aya Alayli presented the Cofán Tribal Energy Resilience project at the IEEE Global Humanitarian Technologies Conference in Boulder, Colorado. Her presentation received an Honorable Mention for best student poster. The project explores community-centered energy resilience with the Cofán people.",
+      "route": "our-team/aya-alayli",
+      "source": "Aya’s research timeline",
+      "image": "aya-ghtc-2026.jpg"
+    },
+    {
+      "date": "2026",
+      "dateLabel": "Summer 2026",
+      "kind": "Conference presentation",
+      "title": "Kwame presents grid vulnerability research at the Rwanda Climate Science Symposium",
+      "summary": "Kwame Donkor presented “Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability” at the Rwanda Climate Science Symposium. His research examines how sensor coverage and historical outage and weather data affect graph neural network performance in predicting grid vulnerability.",
+      "route": "our-team/kwame-donkor",
+      "source": "Kwame’s research timeline",
+      "image": "kwame-rcss-poster-2026.jpg"
+    },
+    {
       "date": "2026-08-06",
       "dateLabel": "6 August 2026",
       "kind": "Plenary panel",
