@@ -117,9 +117,11 @@
       "email": "jlukuyu@uw.edu",
       "subjectPrefix": "SEER Collaboration - "
     },
-    "cardImage": {
+    "coverIcon": "network",
+    "presentationImage": {
       "src": "ahana-oseas-2026.jpg",
-      "alt": "SEER — Sustainable Electricity Expansion Roadmaps"
+      "alt": "Ahana Mukherjee presenting early SEER results at OSEAS 2026.",
+      "caption": "Ahana Mukherjee presenting early SEER results at OSEAS 2026."
     }
   },
   {
@@ -205,7 +207,8 @@
       {
         "org": "eguide"
       }
-    ]
+    ],
+    "coverIcon": "cooking-pot"
   },
   {
     "slug": "electric-bus-kigali",
@@ -282,7 +285,8 @@
       }
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "coverIcon": "bus"
   },
   {
     "slug": "core",
@@ -345,7 +349,8 @@
       "ukpact"
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "coverIcon": "users-round"
   },
   {
     "slug": "mini-grid-demand-fiji",
@@ -399,7 +404,8 @@
         "url": "https://leaps.asu.edu/",
         "org": "leaps"
       }
-    ]
+    ],
+    "coverIcon": "clipboard-list"
   },
   {
     "slug": "community-demand-response",
@@ -451,7 +457,8 @@
     "thesisStudents": [],
     "relatedProjects": [
       "indoor-comfort-equity"
-    ]
+    ],
+    "coverIcon": "house-plug"
   },
   {
     "slug": "rwanda-energy-demand",
@@ -510,7 +517,8 @@
       {
         "org": "eguide"
       }
-    ]
+    ],
+    "coverIcon": "chart-no-axes-combined"
   },
   {
     "slug": "energizing-communities",
@@ -567,7 +575,8 @@
     "publicationIds": [],
     "thesisStudents": [
       "eliane-nirere"
-    ]
+    ],
+    "coverIcon": "handshake"
   },
   {
     "slug": "grid-loss-localization",
@@ -622,7 +631,8 @@
       }
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "coverIcon": "cable"
   },
   {
     "slug": "electric-three-wheelers-india",
@@ -708,10 +718,7 @@
         "period": "October 2025–June 2026"
       }
     ],
-    "cardImage": {
-      "src": "autorickshaw-1.jpg",
-      "alt": "Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India"
-    }
+    "coverIcon": "battery-charging"
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -749,7 +756,8 @@
         "name": "Grainger Foundation fellowship",
         "period": "October 2025–June 2026"
       }
-    ]
+    ],
+    "coverIcon": "chart-network"
   },
   {
     "slug": "spotlight-kampala",
@@ -888,7 +896,8 @@
         "name": "Elena van Hove",
         "url": "https://sustainability-innovation.asu.edu/person/elena-van-hove/"
       }
-    ]
+    ],
+    "coverIcon": "lightbulb"
   },
   {
     "slug": "hidden-electrical-hazards",
@@ -937,7 +946,8 @@
         "name": "Vijay Modi",
         "url": "https://nextbillion.net/authors/vijay-modi/"
       }
-    ]
+    ],
+    "coverIcon": "shield-alert"
   },
   {
     "slug": "accra-grid-weather",
@@ -983,9 +993,11 @@
     "thesisStudents": [
       "kwame-donkor"
     ],
-    "cardImage": {
+    "coverIcon": "cloud-lightning",
+    "presentationImage": {
       "src": "kwame-informs-2025.jpg",
-      "alt": "Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana"
+      "alt": "Kwame presenting his research at INFORMS 2025.",
+      "caption": "Kwame presenting his research at INFORMS 2025."
     }
   },
   {
@@ -1041,9 +1053,11 @@
         "period": "Autumn 2026"
       }
     ],
-    "cardImage": {
+    "coverIcon": "sun",
+    "presentationImage": {
       "src": "aya-ghtc-2026.jpg",
-      "alt": "Cofán Tribal Energy Resilience"
+      "alt": "Aya presenting at GHTC 2026.",
+      "caption": "Aya presenting at GHTC 2026."
     }
   },
   {
@@ -1080,7 +1094,8 @@
     "leadStudent": "Madelyn M McInnis",
     "studentRoles": {
       "ahana-mukherjee": "Graduate mentor"
-    }
+    },
+    "coverIcon": "file-check"
   },
   {
     "slug": "washington-microgrid-resilience",
@@ -1105,7 +1120,8 @@
       "Hassan Dirif"
     ],
     "publicationIds": [],
-    "thesisStudents": []
+    "thesisStudents": [],
+    "coverIcon": "battery-charging"
   },
   {
     "slug": "indoor-comfort-equity",
@@ -1133,7 +1149,8 @@
     "thesisStudents": [],
     "relatedProjects": [
       "community-demand-response"
-    ]
+    ],
+    "coverIcon": "thermometer-sun"
   },
   {
     "slug": "katiirwe-weather-electricity",
@@ -1169,7 +1186,8 @@
         "url": "https://www.hhh.umn.edu/directory/elise-harrington",
         "org": "umn"
       }
-    ]
+    ],
+    "coverIcon": "cloud-sun"
   },
   {
     "slug": "distribution-grid-data",
@@ -1202,9 +1220,11 @@
     "thesisStudents": [
       "kwame-donkor"
     ],
-    "cardImage": {
+    "coverIcon": "database-zap",
+    "presentationImage": {
       "src": "kwame-rcss-poster-2026.jpg",
-      "alt": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability in Data Sparse Settings"
+      "alt": "Kwame presenting his research at RCSS 2026.",
+      "caption": "Kwame presenting his research at RCSS 2026."
     }
   },
   {
@@ -1245,7 +1265,8 @@
           "Associate Professor of Sociology · University of Washington"
         ]
       }
-    ]
+    ],
+    "coverIcon": "house-plug"
   },
   {
     "slug": "interconnected-minigrid-reliability",
@@ -1280,7 +1301,8 @@
         "name": "Galloway Fellowship",
         "period": "October 2025–March 2026"
       }
-    ]
+    ],
+    "coverIcon": "network"
   },
   {
     "slug": "community-microgrid-climate-resilience",
@@ -1318,6 +1340,7 @@
         "name": "UW Clean Energy Institute fellowship",
         "period": "Autumn 2026"
       }
-    ]
+    ],
+    "coverIcon": "shield-check"
   }
 ]
