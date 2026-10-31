@@ -122,6 +122,12 @@
       "src": "ahana-oseas-2026.jpg",
       "alt": "Ahana Mukherjee presenting early SEER results at OSEAS 2026.",
       "caption": "Ahana Mukherjee presenting early SEER results at OSEAS 2026."
+    },
+    "stockCover": {
+      "src": "stock-grid.jpg",
+      "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
     }
   },
   {
@@ -208,7 +214,13 @@
         "org": "eguide"
       }
     ],
-    "coverIcon": "cooking-pot"
+    "coverIcon": "cooking-pot",
+    "stockCover": {
+      "src": "stock-kettle.jpg",
+      "alt": "Electric kettle (illustrative stock photo)",
+      "position": "50% 45%",
+      "source": "https://www.pexels.com/photo/modern-electric-kettle-on-vibrant-background-30319670/"
+    }
   },
   {
     "slug": "electric-bus-kigali",
@@ -286,7 +298,13 @@
     ],
     "publicationIds": [],
     "thesisStudents": [],
-    "coverIcon": "bus"
+    "coverIcon": "bus",
+    "stockCover": {
+      "src": "stock-charging.jpg",
+      "alt": "Electric vehicle charging station (illustrative stock photo)",
+      "position": "50% 40%",
+      "source": "https://www.pexels.com/photo/electric-car-charging-station-9800000/"
+    }
   },
   {
     "slug": "core",
@@ -350,7 +368,13 @@
     ],
     "publicationIds": [],
     "thesisStudents": [],
-    "coverIcon": "users-round"
+    "coverIcon": "users-round",
+    "stockCover": {
+      "src": "stock-solar.jpg",
+      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+    }
   },
   {
     "slug": "mini-grid-demand-fiji",
@@ -405,7 +429,13 @@
         "org": "leaps"
       }
     ],
-    "coverIcon": "clipboard-list"
+    "coverIcon": "clipboard-list",
+    "stockCover": {
+      "src": "stock-solar.jpg",
+      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+    }
   },
   {
     "slug": "community-demand-response",
@@ -458,7 +488,13 @@
     "relatedProjects": [
       "indoor-comfort-equity"
     ],
-    "coverIcon": "house-plug"
+    "coverIcon": "house-plug",
+    "stockCover": {
+      "src": "stock-buildings.jpg",
+      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+    }
   },
   {
     "slug": "rwanda-energy-demand",
@@ -518,7 +554,13 @@
         "org": "eguide"
       }
     ],
-    "coverIcon": "chart-no-axes-combined"
+    "coverIcon": "chart-no-axes-combined",
+    "stockCover": {
+      "src": "stock-buildings.jpg",
+      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+    }
   },
   {
     "slug": "energizing-communities",
@@ -576,7 +618,13 @@
     "thesisStudents": [
       "eliane-nirere"
     ],
-    "coverIcon": "handshake"
+    "coverIcon": "handshake",
+    "stockCover": {
+      "src": "stock-solar.jpg",
+      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+    }
   },
   {
     "slug": "grid-loss-localization",
@@ -632,7 +680,13 @@
     ],
     "publicationIds": [],
     "thesisStudents": [],
-    "coverIcon": "cable"
+    "coverIcon": "cable",
+    "stockCover": {
+      "src": "stock-pylon.jpg",
+      "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
+      "position": "50% 80%",
+      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
+    }
   },
   {
     "slug": "electric-three-wheelers-india",
@@ -718,7 +772,13 @@
         "period": "October 2025–June 2026"
       }
     ],
-    "coverIcon": "battery-charging"
+    "coverIcon": "battery-charging",
+    "stockCover": {
+      "src": "stock-charging.jpg",
+      "alt": "Electric vehicle charging station (illustrative stock photo)",
+      "position": "50% 40%",
+      "source": "https://www.pexels.com/photo/electric-car-charging-station-9800000/"
+    }
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -757,7 +817,13 @@
         "period": "October 2025–June 2026"
       }
     ],
-    "coverIcon": "chart-network"
+    "coverIcon": "chart-network",
+    "stockCover": {
+      "src": "stock-wind.jpg",
+      "alt": "Wind turbines in an open landscape (illustrative stock photo)",
+      "position": "50% 75%",
+      "source": "https://www.pexels.com/photo/landscape-with-wind-turbines-18829029/"
+    }
   },
   {
     "slug": "spotlight-kampala",
@@ -897,7 +963,13 @@
         "url": "https://sustainability-innovation.asu.edu/person/elena-van-hove/"
       }
     ],
-    "coverIcon": "lightbulb"
+    "coverIcon": "lightbulb",
+    "stockCover": {
+      "src": "stock-buildings.jpg",
+      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+    }
   },
   {
     "slug": "hidden-electrical-hazards",
@@ -947,7 +1019,13 @@
         "url": "https://nextbillion.net/authors/vijay-modi/"
       }
     ],
-    "coverIcon": "shield-alert"
+    "coverIcon": "shield-alert",
+    "stockCover": {
+      "src": "stock-pylon.jpg",
+      "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
+      "position": "50% 80%",
+      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
+    }
   },
   {
     "slug": "accra-grid-weather",
@@ -998,6 +1076,12 @@
       "src": "kwame-informs-2025.jpg",
       "alt": "Kwame presenting his research at INFORMS 2025.",
       "caption": "Kwame presenting his research at INFORMS 2025."
+    },
+    "stockCover": {
+      "src": "stock-grid.jpg",
+      "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
     }
   },
   {
@@ -1058,6 +1142,12 @@
       "src": "aya-ghtc-2026.jpg",
       "alt": "Aya presenting at GHTC 2026.",
       "caption": "Aya presenting at GHTC 2026."
+    },
+    "stockCover": {
+      "src": "stock-solar.jpg",
+      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
     }
   },
   {
@@ -1095,7 +1185,13 @@
     "studentRoles": {
       "ahana-mukherjee": "Graduate mentor"
     },
-    "coverIcon": "file-check"
+    "coverIcon": "file-check",
+    "stockCover": {
+      "src": "stock-wind.jpg",
+      "alt": "Wind turbines in an open landscape (illustrative stock photo)",
+      "position": "50% 75%",
+      "source": "https://www.pexels.com/photo/landscape-with-wind-turbines-18829029/"
+    }
   },
   {
     "slug": "washington-microgrid-resilience",
@@ -1121,7 +1217,13 @@
     ],
     "publicationIds": [],
     "thesisStudents": [],
-    "coverIcon": "battery-charging"
+    "coverIcon": "battery-charging",
+    "stockCover": {
+      "src": "stock-solar-grid.jpg",
+      "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+    }
   },
   {
     "slug": "indoor-comfort-equity",
@@ -1150,7 +1252,13 @@
     "relatedProjects": [
       "community-demand-response"
     ],
-    "coverIcon": "thermometer-sun"
+    "coverIcon": "thermometer-sun",
+    "stockCover": {
+      "src": "stock-buildings.jpg",
+      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+    }
   },
   {
     "slug": "katiirwe-weather-electricity",
@@ -1187,7 +1295,13 @@
         "org": "umn"
       }
     ],
-    "coverIcon": "cloud-sun"
+    "coverIcon": "cloud-sun",
+    "stockCover": {
+      "src": "stock-solar.jpg",
+      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+    }
   },
   {
     "slug": "distribution-grid-data",
@@ -1225,6 +1339,12 @@
       "src": "kwame-rcss-poster-2026.jpg",
       "alt": "Kwame presenting his research at RCSS 2026.",
       "caption": "Kwame presenting his research at RCSS 2026."
+    },
+    "stockCover": {
+      "src": "stock-pylon.jpg",
+      "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
+      "position": "50% 80%",
+      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
     }
   },
   {
@@ -1266,7 +1386,13 @@
         ]
       }
     ],
-    "coverIcon": "house-plug"
+    "coverIcon": "house-plug",
+    "stockCover": {
+      "src": "stock-solar-grid.jpg",
+      "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+    }
   },
   {
     "slug": "interconnected-minigrid-reliability",
@@ -1302,7 +1428,13 @@
         "period": "October 2025–March 2026"
       }
     ],
-    "coverIcon": "network"
+    "coverIcon": "network",
+    "stockCover": {
+      "src": "stock-grid.jpg",
+      "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
+    }
   },
   {
     "slug": "community-microgrid-climate-resilience",
@@ -1341,6 +1473,12 @@
         "period": "Autumn 2026"
       }
     ],
-    "coverIcon": "shield-check"
+    "coverIcon": "shield-check",
+    "stockCover": {
+      "src": "stock-solar-grid.jpg",
+      "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
+      "position": "50% 50%",
+      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+    }
   }
 ]
