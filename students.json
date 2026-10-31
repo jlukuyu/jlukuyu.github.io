@@ -562,10 +562,24 @@
         "title": "Upcoming milestones",
         "activities": [
           "General Exam (scheduled)",
-          "Poster presentation at Open Source Energy Access Symposium (OSEAS) (scheduled)"
+          "Presented early results from SEER at the Open Source in Energy Access Symposium (OSEAS), 26–27 October 2026, Kigali, Rwanda."
         ],
-        "links": [],
-        "status": "Scheduled"
+        "links": [
+          {
+            "label": "OSEAS 2026 symposium",
+            "href": "https://www.oseas.org/"
+          },
+          {
+            "label": "Explore SEER",
+            "route": "research/seer"
+          }
+        ],
+        "status": "Scheduled",
+        "image": {
+          "src": "ahana-oseas-2026.jpg",
+          "alt": "Ahana presenting SEER research to attendees at OSEAS 2026",
+          "caption": "Ahana shares early SEER results at OSEAS 2026 in Kigali, Rwanda."
+        }
       }
     ],
     "projects": [
@@ -671,7 +685,7 @@
         "links": []
       }
     ],
-    "updated": "September 2026"
+    "updated": "October 2026"
   },
   "kwame-donkor": {
     "timeline": [
