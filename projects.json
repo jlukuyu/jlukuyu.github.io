@@ -116,6 +116,10 @@
       "invitation": "We want to hear from you.",
       "email": "jlukuyu@uw.edu",
       "subjectPrefix": "SEER Collaboration - "
+    },
+    "cardImage": {
+      "src": "ahana-oseas-2026.jpg",
+      "alt": "SEER — Sustainable Electricity Expansion Roadmaps"
     }
   },
   {
@@ -347,13 +351,13 @@
     "slug": "mini-grid-demand-fiji",
     "title": "Comparing Gamification and Conventional Survey Approaches for Mini-Grid Demand Estimation in Fiji",
     "status": "Past",
-    "summary": "Comparing gamification with conventional surveys as approaches to estimating mini-grid electricity demand in Fiji.",
+    "summary": "Comparing conventional surveys and gamified community engagement to estimate electricity demand across 75 Fijian villages. The research connects survey design, load-profile development, and mini-grid sizing.",
     "partners": [
       "LEAPS, Arizona State University (lead)"
     ],
     "funding": "",
     "overview": [
-      "Comparing gamification with conventional surveys as approaches to estimating mini-grid electricity demand in Fiji."
+      "Comparing conventional surveys and gamified community engagement to estimate electricity demand across 75 Fijian villages. The research connects survey design, load-profile development, and mini-grid sizing."
     ],
     "resources": [
       {
@@ -512,13 +516,13 @@
     "slug": "energizing-communities",
     "title": "Energizing Communities: An Interdisciplinary Approach to Sustainable Rural Electrification",
     "status": "Past",
-    "summary": "An interdisciplinary approach to planning rural electrification.",
+    "summary": "Understanding how mini-grid developers engage communities in electrification planning. Interviews, surveys, and site visits across Sub-Saharan Africa inform participatory approaches and community asset mapping.",
     "partners": [
       "Elise Harrington · University of Minnesota"
     ],
     "funding": "UW Royalty Research Fund",
     "overview": [
-      "An interdisciplinary approach to planning rural electrification.",
+      "Understanding how mini-grid developers engage communities in electrification planning. Interviews, surveys, and site visits across Sub-Saharan Africa inform participatory approaches and community asset mapping.",
       "Developer data collection and site visits across Sub-Saharan Africa in April–October 2025."
     ],
     "resources": [
@@ -703,7 +707,11 @@
         "name": "Grainger Foundation fellowship",
         "period": "October 2025–June 2026"
       }
-    ]
+    ],
+    "cardImage": {
+      "src": "autorickshaw-1.jpg",
+      "alt": "Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India"
+    }
   },
   {
     "slug": "economic-environmental-heterogeneity",
@@ -974,14 +982,18 @@
     ],
     "thesisStudents": [
       "kwame-donkor"
-    ]
+    ],
+    "cardImage": {
+      "src": "kwame-informs-2025.jpg",
+      "alt": "Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana"
+    }
   },
   {
     "slug": "cofan-energy-resilience",
     "title": "Cofán Tribal Energy Resilience",
-    "summary": "Cofán Tribal Energy Resilience.",
+    "summary": "Working with the Cofán people to explore community-centered solar and storage options for a community building in Ecuador. The project combines technical assistance with undergraduate research and mentorship.",
     "overview": [
-      "Cofán Tribal Energy Resilience."
+      "Working with the Cofán people to explore community-centered solar and storage options for a community building in Ecuador. The project combines technical assistance with undergraduate research and mentorship."
     ],
     "status": "Ongoing",
     "partners": [
@@ -1028,14 +1040,18 @@
         "name": "UW Clean Energy Institute fellowship",
         "period": "Autumn 2026"
       }
-    ]
+    ],
+    "cardImage": {
+      "src": "aya-ghtc-2026.jpg",
+      "alt": "Cofán Tribal Energy Resilience"
+    }
   },
   {
     "slug": "community-benefit-agreements",
     "title": "Community Benefit Agreements in Utility-Scale Energy Projects",
-    "summary": "Community Benefit Agreements in Utility-Scale Energy Projects.",
+    "summary": "Examining how U.S. community benefit agreements for utility-scale energy projects define, deliver, and enforce benefits across rural, urban, and tribal communities. Case studies document negotiation, accountability, community engagement, and implementation challenges.",
     "overview": [
-      "Community Benefit Agreements in Utility-Scale Energy Projects."
+      "Examining how U.S. community benefit agreements for utility-scale energy projects define, deliver, and enforce benefits across rural, urban, and tribal communities. Case studies document negotiation, accountability, community engagement, and implementation challenges."
     ],
     "status": "Ongoing",
     "partners": [],
@@ -1069,9 +1085,9 @@
   {
     "slug": "washington-microgrid-resilience",
     "title": "Designing a solar plus storage microgrid for resilience",
-    "summary": "Designing a solar plus storage microgrid for resilience",
+    "summary": "Designing solar and battery storage microgrids for energy resilience in Washington State through Hassan Dirif’s summer research project, with mentorship from Aya Alayli.",
     "overview": [
-      "Designing a solar plus storage microgrid for resilience."
+      "Designing solar and battery storage microgrids for energy resilience in Washington State through Hassan Dirif’s summer research project, with mentorship from Aya Alayli."
     ],
     "status": "Past",
     "partners": [],
@@ -1094,9 +1110,9 @@
   {
     "slug": "indoor-comfort-equity",
     "title": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort",
-    "summary": "Climate and Energy Injustice: racial and income disparities in access to indoor comfort.",
+    "summary": "Investigating racial and income disparities in access to heating and cooling infrastructure in Seattle, connecting indoor comfort with climate and energy equity.",
     "overview": [
-      "Climate and Energy Injustice: racial and income disparities in access to indoor comfort."
+      "Investigating racial and income disparities in access to heating and cooling infrastructure in Seattle, connecting indoor comfort with climate and energy equity."
     ],
     "status": "Past",
     "partners": [],
@@ -1122,9 +1138,9 @@
   {
     "slug": "katiirwe-weather-electricity",
     "title": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda",
-    "summary": "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda.",
+    "summary": "Analyzing how weather patterns relate to electricity behavior at the Katiirwe solar mini-grid in Western Uganda, using customer data to understand patterns in energy use.",
     "overview": [
-      "Effects of weather patterns on Minigrid electricity behavior: insights from the Katiirwe solar Minigrid in Western Uganda."
+      "Analyzing how weather patterns relate to electricity behavior at the Katiirwe solar mini-grid in Western Uganda, using customer data to understand patterns in energy use."
     ],
     "status": "Past",
     "partners": [
@@ -1185,7 +1201,11 @@
     "subthemes": [],
     "thesisStudents": [
       "kwame-donkor"
-    ]
+    ],
+    "cardImage": {
+      "src": "kwame-rcss-poster-2026.jpg",
+      "alt": "Measuring the Value of Distribution-Level Data for Predicting Climate-Driven Grid Vulnerability in Data Sparse Settings"
+    }
   },
   {
     "slug": "seattle-rooftop-solar",
