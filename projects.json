@@ -124,10 +124,13 @@
       "caption": "Ahana Mukherjee presenting early SEER results at OSEAS 2026."
     },
     "stockCover": {
-      "src": "stock-grid.jpg",
-      "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
-      "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
+      "src": "cover-earth-night.jpg",
+      "alt": "Earth at night with illuminated cities, viewed from orbit",
+      "position": "50% 70%",
+      "creditName": "NASA",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/Q1p7bh3SHj8",
+      "illustrative": true
     }
   },
   {
@@ -219,7 +222,10 @@
       "src": "stock-kettle.jpg",
       "alt": "Electric kettle (illustrative stock photo)",
       "position": "50% 45%",
-      "source": "https://www.pexels.com/photo/modern-electric-kettle-on-vibrant-background-30319670/"
+      "source": "https://www.pexels.com/photo/modern-electric-kettle-on-vibrant-background-30319670/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -300,10 +306,13 @@
     "thesisStudents": [],
     "coverIcon": "bus",
     "stockCover": {
-      "src": "stock-charging.jpg",
-      "alt": "Electric vehicle charging station (illustrative stock photo)",
-      "position": "50% 40%",
-      "source": "https://www.pexels.com/photo/electric-car-charging-station-9800000/"
+      "src": "cover-bus.jpg",
+      "alt": "Blue city bus in motion (illustrative photo)",
+      "position": "65% 60%",
+      "creditName": "Egor Litvinov",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/RlHI0cCNThY",
+      "illustrative": true
     }
   },
   {
@@ -373,7 +382,10 @@
       "src": "stock-solar.jpg",
       "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -431,10 +443,13 @@
     ],
     "coverIcon": "clipboard-list",
     "stockCover": {
-      "src": "stock-solar.jpg",
-      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "src": "cover-gamification.jpg",
+      "alt": "Typewriter with the word Gamification",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+      "creditName": "Markus Winkler",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/_n7Yyu7Se50",
+      "illustrative": true
     }
   },
   {
@@ -490,10 +505,13 @@
     ],
     "coverIcon": "house-plug",
     "stockCover": {
-      "src": "stock-buildings.jpg",
-      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
-      "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+      "src": "stock-charging.jpg",
+      "alt": "Electric vehicle charging station (illustrative stock photo)",
+      "position": "50% 40%",
+      "source": "https://www.pexels.com/photo/electric-car-charging-station-9800000/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -559,7 +577,10 @@
       "src": "stock-buildings.jpg",
       "alt": "Aerial view of residential rooftops (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -620,10 +641,13 @@
     ],
     "coverIcon": "handshake",
     "stockCover": {
-      "src": "stock-solar.jpg",
-      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "src": "stock-rural-solar.jpg",
+      "alt": "Solar panels on a rural building (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/solar-panels-on-rural-barn-with-cable-reels-37011859/",
+      "illustrative": true
     }
   },
   {
@@ -682,10 +706,13 @@
     "thesisStudents": [],
     "coverIcon": "cable",
     "stockCover": {
-      "src": "stock-pylon.jpg",
-      "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
-      "position": "50% 80%",
-      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
+      "src": "stock-substation.jpg",
+      "alt": "Electrical equipment in a distribution substation (illustrative stock photo)",
+      "position": "50% 50%",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/high-voltage-electrical-substation-in-somerville-36358684/",
+      "illustrative": true
     }
   },
   {
@@ -774,10 +801,13 @@
     ],
     "coverIcon": "battery-charging",
     "stockCover": {
-      "src": "stock-charging.jpg",
-      "alt": "Electric vehicle charging station (illustrative stock photo)",
-      "position": "50% 40%",
-      "source": "https://www.pexels.com/photo/electric-car-charging-station-9800000/"
+      "src": "cover-rickshaw.jpg",
+      "alt": "Yellow autorickshaw on a city road (illustrative photo)",
+      "position": "50% 50%",
+      "creditName": "Prabhav Kashyap Godavarthy",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/1XJt1RpU5FI",
+      "illustrative": true
     }
   },
   {
@@ -819,10 +849,13 @@
     ],
     "coverIcon": "chart-network",
     "stockCover": {
-      "src": "stock-wind.jpg",
-      "alt": "Wind turbines in an open landscape (illustrative stock photo)",
-      "position": "50% 75%",
-      "source": "https://www.pexels.com/photo/landscape-with-wind-turbines-18829029/"
+      "src": "cover-energy-mix.jpg",
+      "alt": "Solar panels, a wind turbine and a power station",
+      "position": "50% 50%",
+      "creditName": "Arno Senoner",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/SVO98wCEAME",
+      "illustrative": true
     }
   },
   {
@@ -965,10 +998,13 @@
     ],
     "coverIcon": "lightbulb",
     "stockCover": {
-      "src": "stock-buildings.jpg",
-      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "src": "cover-settlement.jpg",
+      "alt": "Dense urban rooftops and overhead electricity lines",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+      "creditName": "",
+      "creditPlatform": "Supplied photo",
+      "source": "",
+      "illustrative": false
     }
   },
   {
@@ -1021,10 +1057,13 @@
     ],
     "coverIcon": "shield-alert",
     "stockCover": {
-      "src": "stock-pylon.jpg",
-      "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
-      "position": "50% 80%",
-      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
+      "src": "cover-wiring.jpg",
+      "alt": "Electrical meter and overhead wiring beside a building",
+      "position": "50% 25%",
+      "creditName": "",
+      "creditPlatform": "Supplied photo",
+      "source": "",
+      "illustrative": false
     }
   },
   {
@@ -1078,10 +1117,13 @@
       "caption": "Kwame presenting his research at INFORMS 2025."
     },
     "stockCover": {
-      "src": "stock-grid.jpg",
-      "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
+      "src": "stock-storm.jpg",
+      "alt": "Lightning above electricity lines (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/dramatic-lightning-storm-over-power-lines-30527658/",
+      "illustrative": true
     }
   },
   {
@@ -1144,10 +1186,13 @@
       "caption": "Aya presenting at GHTC 2026."
     },
     "stockCover": {
-      "src": "stock-solar.jpg",
-      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "src": "stock-forest.jpg",
+      "alt": "A winding river through dense forest (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+      "creditName": "Aleksandr Sochnev",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/serene-aerial-view-of-winding-forest-river-30582804/",
+      "illustrative": true
     }
   },
   {
@@ -1187,10 +1232,13 @@
     },
     "coverIcon": "file-check",
     "stockCover": {
-      "src": "stock-wind.jpg",
-      "alt": "Wind turbines in an open landscape (illustrative stock photo)",
-      "position": "50% 75%",
-      "source": "https://www.pexels.com/photo/landscape-with-wind-turbines-18829029/"
+      "src": "cover-wind-field.jpg",
+      "alt": "Wind turbines across a green field",
+      "position": "50% 40%",
+      "creditName": "Moritz Lange",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/jIpTrVUVy90",
+      "illustrative": true
     }
   },
   {
@@ -1222,7 +1270,10 @@
       "src": "stock-solar-grid.jpg",
       "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -1254,10 +1305,13 @@
     ],
     "coverIcon": "thermometer-sun",
     "stockCover": {
-      "src": "stock-buildings.jpg",
-      "alt": "Aerial view of residential rooftops (illustrative stock photo)",
+      "src": "stock-thermostat.jpg",
+      "alt": "Digital thermostat mounted on an interior wall (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/aerial-photography-of-houses-and-building-roofs-11502228/"
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/white-thermostat-hanging-on-the-wall-7616651/",
+      "illustrative": true
     }
   },
   {
@@ -1297,10 +1351,13 @@
     ],
     "coverIcon": "cloud-sun",
     "stockCover": {
-      "src": "stock-solar.jpg",
-      "alt": "Close-up of photovoltaic solar panels (illustrative stock photo)",
+      "src": "stock-solar-field.jpg",
+      "alt": "Aerial view of a solar array in a green landscape (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/close-up-of-solar-panels-15751136/"
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/aerial-view-of-solar-panels-array-on-green-grass-2800845/",
+      "illustrative": true
     }
   },
   {
@@ -1344,7 +1401,10 @@
       "src": "stock-pylon.jpg",
       "alt": "Electricity transmission tower against a cloudy sky (illustrative stock photo)",
       "position": "50% 80%",
-      "source": "https://www.pexels.com/photo/transmission-tower-2802106/"
+      "source": "https://www.pexels.com/photo/transmission-tower-2802106/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -1388,10 +1448,13 @@
     ],
     "coverIcon": "house-plug",
     "stockCover": {
-      "src": "stock-solar-grid.jpg",
-      "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
+      "src": "cover-roof-solar.jpg",
+      "alt": "Solar panels on a tiled residential roof",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+      "creditName": "Sergio Martins",
+      "creditPlatform": "Unsplash",
+      "source": "https://unsplash.com/photos/VAegToqdX3A",
+      "illustrative": true
     }
   },
   {
@@ -1433,7 +1496,10 @@
       "src": "stock-grid.jpg",
       "alt": "Electricity transmission lines at sunset (illustrative stock photo)",
       "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/"
+      "source": "https://www.pexels.com/photo/power-lines-under-bright-sunset-sky-5850647/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   },
   {
@@ -1475,10 +1541,13 @@
     ],
     "coverIcon": "shield-check",
     "stockCover": {
-      "src": "stock-solar-grid.jpg",
-      "alt": "Solar arrays beside transport and electricity infrastructure (illustrative stock photo)",
-      "position": "50% 50%",
-      "source": "https://www.pexels.com/photo/solar-panel-farm-near-a-highway-9800005/"
+      "src": "stock-wind.jpg",
+      "alt": "Wind turbines in an open landscape (illustrative stock photo)",
+      "position": "50% 75%",
+      "source": "https://www.pexels.com/photo/landscape-with-wind-turbines-18829029/",
+      "creditName": "",
+      "creditPlatform": "Pexels",
+      "illustrative": true
     }
   }
 ]
