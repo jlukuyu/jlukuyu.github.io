@@ -1005,6 +1005,75 @@
       "creditPlatform": "Supplied photo",
       "source": "",
       "illustrative": false
+    },
+    "relatedProjects": [
+      "user-centered-solar-cooking-kampala"
+    ]
+  },
+  {
+    "slug": "user-centered-solar-cooking-kampala",
+    "title": "User-centered design to promote electric cooking transitions in informal settlements",
+    "summary": "Testing solar-powered electric cooking systems with Kampala households to understand usability, reliability, affordability, and pathways to sustained adoption.",
+    "overview": [
+      "In collaboration with Spotlight Kampala, Makerere University, and the University of California, Berkeley, this project examines user-centered approaches to electric cooking in Kampala’s informal settlements. The MECS-STARSS pilot ran from September 2025 to February 2026, with implementation partners ACTogether Uganda and the National Slum Dwellers Federation of Uganda.",
+      "The pilot tested standalone solar photovoltaic systems paired with electric pressure cookers, an electric pressure cooker battery-swapping service, and ECOCA’s integrated solar cooking system. Household deployment combined technical monitoring, surveys, and qualitative feedback.",
+      "The final report identifies battery reliability, accessible local technical support, practical installation, and flexible financing as priorities for sustained adoption. It highlights strong household interest alongside challenges related to charging, equipment handling, limited space, and affordability."
+    ],
+    "status": "Past",
+    "partners": [
+      "Spotlight Kampala",
+      "Makerere University",
+      "University of California, Berkeley"
+    ],
+    "partnerDetails": [
+      {
+        "name": "Spotlight Kampala",
+        "url": "https://spotlightkampala.com/"
+      },
+      {
+        "org": "makerere"
+      },
+      {
+        "org": "berkeley"
+      }
+    ],
+    "funding": "Modern Energy Cooking Services (MECS) Programme · MECS-STARSS · UKAid",
+    "fundingCategory": "funded",
+    "themes": [
+      "access",
+      "technology"
+    ],
+    "subthemes": [
+      "cooking"
+    ],
+    "resources": [
+      {
+        "title": "Spotlight Kampala",
+        "href": "https://spotlightkampala.com/",
+        "kind": "Collaboration website"
+      }
+    ],
+    "publications": [
+      {
+        "title": "User-centered design to promote electric cooking transitions in informal settlements: Findings from the MECS-STARSS pilot in Kampala",
+        "href": "https://spotlightkampala.com/sites/default/files/reports-file/User-centered%20design%20to%20promote%20electric%20cooking%20transitions%20in%20informal%20settlements%20FINAL.docx.pdf",
+        "kind": "Final report · 2026 · PDF"
+      }
+    ],
+    "people": [],
+    "sources": [],
+    "relatedProjects": [
+      "spotlight-kampala"
+    ],
+    "coverIcon": "plug-zap",
+    "stockCover": {
+      "src": "cover-solar-cooking-kampala.jpg",
+      "alt": "Electric pressure cooker control panel documented in the MECS-STARSS pilot report",
+      "position": "50% 45%",
+      "creditName": "",
+      "creditPlatform": "Spotlight Kampala · MECS-STARSS final report",
+      "source": "https://spotlightkampala.com/sites/default/files/reports-file/User-centered%20design%20to%20promote%20electric%20cooking%20transitions%20in%20informal%20settlements%20FINAL.docx.pdf",
+      "illustrative": false
     }
   },
   {
