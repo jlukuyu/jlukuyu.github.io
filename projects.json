@@ -1027,8 +1027,7 @@
     ],
     "partnerDetails": [
       {
-        "name": "Spotlight Kampala",
-        "url": "https://spotlightkampala.com/"
+        "org": "spotlight"
       },
       {
         "org": "makerere"
@@ -1074,7 +1073,10 @@
       "creditPlatform": "Spotlight Kampala · MECS-STARSS final report",
       "source": "https://spotlightkampala.com/sites/default/files/reports-file/User-centered%20design%20to%20promote%20electric%20cooking%20transitions%20in%20informal%20settlements%20FINAL.docx.pdf",
       "illustrative": false
-    }
+    },
+    "sponsorOrgs": [
+      "mecs"
+    ]
   },
   {
     "slug": "hidden-electrical-hazards",
