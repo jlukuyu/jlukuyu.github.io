@@ -135,5 +135,14 @@
     "name": "YouthMappers",
     "url": "https://www.youthmappers.org/",
     "logo": "research-logo-youthmappers.png"
+  },
+  "spotlight": {
+    "name": "Spotlight Kampala",
+    "url": "https://spotlightkampala.com/",
+    "logo": "research-logo-spotlight.png"
+  },
+  "mecs": {
+    "name": "Modern Energy Cooking Services (MECS)",
+    "url": "https://mecs.org.uk/"
   }
 }
