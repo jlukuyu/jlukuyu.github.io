@@ -651,10 +651,14 @@
     "outputs": [
       {
         "id": "last-mile",
-        "type": "Manuscript · Submitted Spring 2026",
+        "type": "SSRN preprint · Submitted Spring 2026",
         "title": "Powering the Last Mile: Distributed, Solar-based Charging Infrastructure Planning for Electric Autorickshaws in West Bengal, India",
-        "note": "Submitted manuscript. A public manuscript link has not yet been added.",
+        "note": "Available as a preprint on SSRN.",
         "links": [
+          {
+            "label": "Read the SSRN preprint",
+            "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7646538"
+          },
           {
             "label": "Related project",
             "href": "#project-electric-mobility"
@@ -934,10 +938,15 @@
     "outputs": [
       {
         "id": "accra-manuscript",
-        "type": "Manuscript · Submitted Summer 2026",
+        "type": "SSRN preprint · Submitted Summer 2026",
         "title": "Neighborhood disparities in weather-related power outages and voltage quality in Accra, Ghana",
-        "note": "Submitted to Communications Earth & Environment (Nature Portfolio). This is a submitted manuscript, not a published article; no public manuscript link has been added.",
-        "links": []
+        "note": "Submitted to Communications Earth & Environment.",
+        "links": [
+          {
+            "label": "Read the SSRN preprint",
+            "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7659158"
+          }
+        ]
       },
       {
         "id": "climate-shocks",
