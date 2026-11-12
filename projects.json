@@ -39,7 +39,14 @@
     "partners": [],
     "publications": [],
     "sources": [],
-    "resources": [],
+    "resources": [
+      {
+        "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
+        "href": "/research/community-microgrid-climate-resilience/",
+        "kind": "Subproject · Aya Alayli",
+        "note": "Aya’s study examines how changing climate conditions affect the resilience benefits of community solar and storage microgrids."
+      }
+    ],
     "stockCover": {
       "src": "cover-sloan-microgrid.jpg",
       "alt": "Solar panels on a facility beside storage tanks",
@@ -1628,13 +1635,20 @@
     "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
     "summary": "Examining how intensifying climate change affects the resilience benefits of community solar and storage microgrids in the Pacific Northwest.",
     "overview": [
+      "Aya Alayli’s study is a subproject of the Alfred P. Sloan Foundation–supported project “Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions.”",
       "This research examines the long-term resilience performance of solar and storage systems under intensifying climate conditions. Following exploratory work in Spring 2025, Aya developed a microgrid dispatch simulation to evaluate resilience under uncertain climate conditions.",
       "In Autumn 2026, the work expanded to consider interdependent community services, alongside preparatory work for participatory research with Washington communities."
     ],
     "status": "Ongoing",
     "partners": [],
     "funding": "",
-    "resources": [],
+    "resources": [
+      {
+        "title": "Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions",
+        "href": "/research/community-defined-microgrid-resilience/",
+        "kind": "Parent project · Alfred P. Sloan Foundation"
+      }
+    ],
     "publications": [],
     "people": [
       "aya-alayli"
