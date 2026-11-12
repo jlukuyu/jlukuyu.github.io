@@ -1327,6 +1327,13 @@
     ],
     "projects": [
       {
+        "id": "community-defined-microgrid-resilience",
+        "title": "Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions",
+        "description": "Research on community priorities, dependencies among essential services, and renewable microgrid performance under changing climate conditions.",
+        "projectSlug": "community-defined-microgrid-resilience",
+        "links": []
+      },
+      {
         "id": "community-microgrid-climate-resilience",
         "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
         "description": "Modeling long-term solar and storage resilience under intensifying climate conditions, with expanding work on interdependent community services and participatory research.",

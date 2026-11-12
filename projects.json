@@ -1,5 +1,62 @@
 [
   {
+    "slug": "community-defined-microgrid-resilience",
+    "title": "Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions",
+    "status": "Ongoing",
+    "summary": "How can communities design renewable microgrids to protect the services they value most during outages, now and as the climate changes?",
+    "overviewTitle": "Project Goal",
+    "overview": [
+      "Microgrids are increasingly central to both resilience policy and decarbonization strategy, yet prevailing planning methods size them around expert-defined loads and fixed outage scenarios. These methods can overlook community priorities, the risk that disruption to one service will affect others, and uncertainty about future conditions. This project aims to close that gap so resilience investments protect the services and people that communities value most while supporting the shift to clean energy."
+    ],
+    "approachTitle": "Objectives",
+    "approach": [
+      {
+        "title": "Identify critical services with communities",
+        "text": "Capture community-defined critical services, dependencies, and priorities, and translate them into validated inputs for a socio-technical network and a microgrid techno-economic model."
+      },
+      {
+        "title": "Test designs during outages",
+        "text": "Evaluate how candidate designs sustain prioritized loads and services during outages, limit cascading failures, and improve community resilience."
+      },
+      {
+        "title": "Compare investments over the microgrid lifetime",
+        "text": "Evaluate how those benefits change under future climate-driven demand, solar, and outage conditions, and compare investment strategies for preserving performance across the microgrid lifetime."
+      }
+    ],
+    "expectedOutcomes": "The project will produce a planning criterion that communities can use to direct microgrid investment toward the services they most want to protect. It will give planners, utilities, and funders a transparent, reusable way to evaluate investments that accounts for how failures spread across infrastructure. By making the long-term protective value of renewable microgrids explicit, the research can support greater use of low-carbon generation and storage in place of fossil-fuel backup.",
+    "funding": "Alfred P. Sloan Foundation · Early-Career Faculty Support for Interdisciplinary Energy Systems Research",
+    "fundingCategory": "funded",
+    "sponsorOrgs": [
+      "sloan"
+    ],
+    "themes": [
+      "resilience"
+    ],
+    "subthemes": [],
+    "people": [
+      "aya-alayli"
+    ],
+    "partners": [],
+    "publications": [],
+    "sources": [],
+    "resources": [
+      {
+        "title": "Alfred P. Sloan Foundation awards June Lukuyu early-career grant for microgrid research",
+        "route": "post/sloan-grant-community-defined-microgrid-resilience",
+        "kind": "Grant announcement"
+      }
+    ],
+    "stockCover": {
+      "src": "cover-sloan-microgrid.jpg",
+      "alt": "Solar panels on a facility beside storage tanks",
+      "position": "50% 50%",
+      "creditName": "CHINA YU",
+      "creditPlatform": "Pexels",
+      "source": "https://www.pexels.com/photo/industrial-facility-with-solar-panel-rooftop-35454187/",
+      "illustrative": true
+    }
+  },
+  {
     "slug": "seer",
     "title": "SEER — Sustainable Electricity Expansion Roadmaps",
     "status": "Ongoing",
