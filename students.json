@@ -1338,7 +1338,12 @@
         "title": "Community Microgrid Resilience Under Intensifying Climate Conditions",
         "description": "Modeling long-term solar and storage resilience under intensifying climate conditions, with expanding work on interdependent community services and participatory research.",
         "projectSlug": "community-microgrid-climate-resilience",
-        "links": []
+        "links": [
+          {
+            "label": "Parent project: Sloan-funded community microgrid research",
+            "href": "/research/community-defined-microgrid-resilience/"
+          }
+        ]
       },
       {
         "id": "cofan",
