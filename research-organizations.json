@@ -144,5 +144,9 @@
   "mecs": {
     "name": "Modern Energy Cooking Services (MECS)",
     "url": "https://mecs.org.uk/"
+  },
+  "sloan": {
+    "name": "Alfred P. Sloan Foundation",
+    "url": "https://sloan.org/"
   }
 }

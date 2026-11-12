@@ -1,6 +1,6 @@
 # Project cover photo credits
 
-Each of the 24 projects uses a different photograph. Stock photos illustrate research themes; they do not document the project location or equipment. Supplied non-stock photos have no photographer metadata provided.
+Each of the 25 projects uses a different photograph. Stock photos illustrate research themes; they do not document the project location or equipment. Supplied non-stock photos have no photographer metadata provided.
 
 - **SEER — Sustainable Electricity Expansion Roadmaps** — `cover-earth-night.jpg` — [NASA / Unsplash](https://unsplash.com/photos/Q1p7bh3SHj8)
 - **The role of electric boiling in the electric cooking transition in Nairobi and Kigali** — `stock-kettle.jpg` — [Pexels](https://www.pexels.com/photo/modern-electric-kettle-on-vibrant-background-30319670/)
@@ -29,3 +29,5 @@ Each of the 24 projects uses a different photograph. Stock photos illustrate res
 Stock licenses: [Unsplash](https://unsplash.com/license) · [Pexels](https://www.pexels.com/license/). Rickshaw and settlement photos were cropped to omit background people.
 
 - **User-centered design to promote electric cooking transitions in informal settlements** — `cover-solar-cooking-kampala.jpg` — equipment photograph from [Spotlight Kampala’s MECS-STARSS final report](https://spotlightkampala.com/sites/default/files/reports-file/User-centered%20design%20to%20promote%20electric%20cooking%20transitions%20in%20informal%20settlements%20FINAL.docx.pdf), PDF page 41.
+
+- **Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions** — `cover-sloan-microgrid.jpg` — [CHINA YU / Pexels](https://www.pexels.com/photo/industrial-facility-with-solar-panel-rooftop-35454187/).
