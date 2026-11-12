@@ -70,3 +70,11 @@ for (const route of [...routes.filter(r=>r!=='404'),'research/electric-cooking-k
  fs.mkdirSync(path.dirname(dest),{recursive:true});
  fs.writeFileSync(dest,`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=${target}"><title>IDEAS Lab has moved</title><script>location.replace(${JSON.stringify(target)}+location.search+location.hash)</script></head><body><p><a href="${target}">Continue to IDEAS Research Lab</a></p></body></html>`);
 }
+
+// Keep existing Sloan award story links pointing to the research project.
+for (const prefix of ['', 'ideas-lab']) {
+ const dest=path.join(out,prefix,'post/sloan-grant-community-defined-microgrid-resilience');
+ const target='/research/community-defined-microgrid-resilience/';
+ fs.mkdirSync(dest,{recursive:true});
+ fs.writeFileSync(path.join(dest,'index.html'),`<!doctype html><html lang="en"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=${target}"><title>Project page</title><a href="${target}">View the research project</a></html>`);
+}
