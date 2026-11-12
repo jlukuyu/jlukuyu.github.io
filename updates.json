@@ -3,12 +3,12 @@
     {
       "date": "2026-10-28",
       "dateLabel": "28 October 2026",
-      "kind": "Grant announcement",
+      "kind": "Grant award",
       "title": "Alfred P. Sloan Foundation awards June Lukuyu early-career grant for microgrid research",
       "summary": "June Lukuyu received an Early-Career Faculty Support grant for Interdisciplinary Energy Systems Research from the Alfred P. Sloan Foundation for “Community-Defined Microgrid Resilience Across Interdependent Services and Changing Climate Conditions.”",
-      "route": "post/sloan-grant-community-defined-microgrid-resilience",
-      "source": "Read the announcement",
-      "image": "cover-sloan-microgrid.jpg"
+      "source": "Explore the project",
+      "image": "cover-sloan-microgrid.jpg",
+      "href": "/research/community-defined-microgrid-resilience/"
     },
     {
       "date": "2026-10-27",
