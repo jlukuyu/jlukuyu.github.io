@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ee559",
+    "code": "EE 559",
+    "title": "Energy, Sustainability and Society",
+    "frequency": "Taught annually",
+    "description": "A research-oriented exploration of the social, technical, and environmental dimensions of the clean energy transition. Through hands-on projects, real-world case studies, and class debates, students examine how energy infrastructure shapes society and the environment, who benefits from low-carbon transitions, and how context influences sustainable energy solutions.",
+    "audience": "Graduate and senior undergraduate students interested in energy, development, and global systems.",
+    "outcomes": [
+      "Analyze the social, technical, and environmental dimensions of energy systems and low-carbon transitions.",
+      "Evaluate how energy infrastructure influences, and is influenced by, society and the environment.",
+      "Critically assess who benefits from energy transitions and how local and global contexts shape those outcomes.",
+      "Apply evidence from projects and case studies to investigate sustainable energy challenges.",
+      "Develop and communicate reasoned arguments about energy, development, and sustainability through research and debate."
+    ],
+    "offering": {
+      "term": "Winter 2027",
+      "schedule": "Wednesday and Friday, 2:30–4:20 PM",
+      "location": "MGH 248",
+      "instructors": "June Lukuyu and Ahana Mukherjee",
+      "flyer": "EE559_WI27_Flyer.pdf"
+    }
+  },
+  {
+    "id": "ee451-551",
+    "code": "EE 451 & 551",
+    "title": "Renewable Energy: Technology and Integration",
+    "description": "Explore renewable generation, energy storage, and integration into electrical grids, with a focus on solar and wind energy. Discussions, assessments, and real-world case studies connect technical performance with economic, social, and policy considerations, including intermittency, grid stability, reliability, and equitable access. Students evaluate successful and unsuccessful projects to inform sustainable, resilient energy systems.",
+    "outcomes": [
+      "Analyze the potential and limitations of wind and solar energy in diverse geographical and economic contexts.",
+      "Apply the principles of energy conversion, storage, and efficiency to assess renewable energy technologies.",
+      "Develop frameworks for integrating renewable energy into existing infrastructure, accounting for technical, economic, and policy challenges.",
+      "Critically evaluate the socioeconomic and environmental implications of renewable energy transitions, with attention to equity and sustainable development.",
+      "Analyze successful and unsuccessful renewable energy projects and derive lessons for future applications."
+    ]
+  },
+  {
+    "id": "ee454",
+    "code": "EE 454",
+    "title": "Power Systems Analysis",
+    "description": "Build the analytical and computational skills needed to model and evaluate electric power systems. Students study AC power, component models, per-unit analysis, power flow, economic dispatch, unit commitment, and frequency and voltage control. Software simulations and a real-world case study connect these concepts to practical system planning and operation.",
+    "outcomes": [
+      "Calculate active, reactive, complex, and apparent power in AC systems.",
+      "Describe and implement models of power system components.",
+      "Convert electrical quantities into the per-unit system for analysis and comparison.",
+      "Use commercial or open-source power flow software to solve power flow problems.",
+      "Analyze and interpret software results to assess system performance.",
+      "Evaluate acceptable and unacceptable operating conditions under different scenarios.",
+      "Apply power flow analysis to practical system planning and operation through a real-world case study project.",
+      "Explain economic dispatch and unit commitment and relate them to system operation in practice.",
+      "Explain frequency and voltage control and analyze control mechanisms using software simulations and case study insights."
+    ]
+  }
+]

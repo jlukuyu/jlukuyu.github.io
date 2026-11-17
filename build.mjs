@@ -1,3 +1,4 @@
+import {renderTeaching} from './teaching-render.mjs';
 import {createHash} from 'node:crypto';
 import {renderCollaboration} from './collaboration-render.mjs';
 import {renderPublications} from './publications-render.mjs';
@@ -14,7 +15,7 @@ const homepage=data('homepage'), updates=data('updates');
 const students=data('students'), projects=data('projects');
 const home=data('home'), people=data('people'), papers=data('papers'), research=data('research'), posts=data('posts'), opportunities=data('opportunities');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const nav=[['','Home'],['our-team','Our Team'],['research','Research'],['publications','Publications'],['news','News'],['opportunities','Opportunities']];
+const nav=[['','Home'],['our-team','Our Team'],['research','Research'],['publications','Publications'],['teaching','Teaching'],['news','News'],['opportunities','Opportunities']];
 const themes=[['Energy Planning and Development','Designing inclusive and just energy systems that prioritize social equity in access, affordability, and agency in both the Global North and South.'],['End-Use Electrification and Energy Access','Investigating electric mobility, electric cooking, and productive uses of energy to support development goals.'],['Power System Reliability & Resilience','Planning for reliable, resilient, and climate-informed grid systems—urban and rural, centralized and decentralized.'],['Interdisciplinary and Contextual Approaches','Integrating technical, behavioral, and institutional insights to inform energy policy and technology adoption.']];
 let prefix='./';const url=s=>prefix+(s?.startsWith('research/')?'research/#project-'+s.slice(9):(s?s+'/':''));const img=(src,alt,cls='',eager=false)=>`<img src="${prefix+esc(src)}" alt="${esc(alt)}" class="${cls}" ${eager?'fetchpriority="high"':'loading="lazy"'}>`;
 const link=(href,label)=>`<a href="${esc(href)}">${esc(label)}</a>`;
@@ -51,6 +52,7 @@ function render(slug){
  if(slug==='our-team')return renderTeam({people,undergraduates:data('undergraduates'),esc,img,url,link});
  if(slug==='research')return renderResearch({projects,themes:data('research-themes'),people,organizations:data('research-organizations'),esc,url,img,map:research.map,locations:data('research-locations'),bibliography:data('bibliography')});
  if(slug==='publications')return renderPublications({items:data('bibliography'),projects,esc,url});
+ if(slug==='teaching')return renderTeaching(data('teaching'),{esc,url});
  if(slug==='news')return renderNews(updates,{esc,url,img});
  if(slug==='opportunities')return `<div class="wrap"><div class="page-intro"><p class="eyebrow">Join our community</p><h1>Current opportunities</h1></div><div class="prose"><div class="notice"><h2>Prospective students</h2><p>${esc(opportunities.blocks[1].text.replace(/^Prospective Students:\s*/,''))}</p></div><h2>Get in touch</h2><div class="contact"><p>${esc(opportunities.blocks[2].text)}</p><p>${link('mailto:'+opportunities.blocks[3].text,opportunities.blocks[3].text)}<br>${link('tel:+12066164502',opportunities.blocks[4].text)}</p></div></div></div>`;
  const p=posts.find(p=>'post/'+p.slug===slug);if(p)return `<article class="wrap"><div class="page-intro prose"><p class="eyebrow"><a href="${url('news')}">← All news</a></p><h1>${esc(p.title)}</h1>${p.paragraphs.map(t=>`<p>${esc(t)}</p>`).join('')}${p.images.map(i=>img(i,p.title)).join('')}${p.links.map(l=>`<p>${link(l.url,l.text)}</p>`).join('')}</div></article>`;

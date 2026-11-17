@@ -28,3 +28,6 @@ body{font-size:16px;line-height:1.7;-webkit-font-smoothing:antialiased}h1,h2,h3,
 .project-collaboration form[hidden]{display:none}
 
 .fellowship-tag{background:#f3edfc;color:#65418b;border:1px solid #dbcaed}
+
+/* Teaching: course descriptions and outcomes */
+.teaching-page{padding-bottom:64px}.teaching-course{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:64px;padding:48px 0;border-bottom:1px solid var(--border);scroll-margin-top:24px}.teaching-course h2{font-size:clamp(1.5rem,3vw,2rem);line-height:1.2;margin:10px 0 22px}.teaching-course h3{font-size:1.1rem;margin:0 0 14px}.teaching-course p,.course-outcomes li{line-height:1.75}.course-outcomes ol{padding-left:1.3rem}.course-outcomes li{padding-left:.3rem;margin-bottom:15px}.course-offering{padding:24px;background:#edf3ef;border-radius:12px;margin-top:28px}.course-offering a{font-weight:600}.header .nav{flex-wrap:wrap}@media(max-width:800px){.teaching-course{grid-template-columns:1fr;gap:28px;padding:32px 0}}
