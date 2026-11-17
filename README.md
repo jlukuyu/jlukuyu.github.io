@@ -14,6 +14,9 @@ Examples: “Add this paper to our publications”; “Add a team member with th
 
 ## Content files
 
+- `teaching.json`: course descriptions, expected learning outcomes, and current offering details.
+- `teaching-render.mjs`: Teaching page layout.
+
 - `people.json`: principal investigator and PhD student names, biographies, profile links, photographs.
 - `undergraduates.json`: current and past undergraduate researchers, programs, participation dates, and project links.
 - `team-render.mjs`: team page layout with the full-group photograph and separate researcher sections.
