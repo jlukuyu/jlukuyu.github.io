@@ -16,9 +16,13 @@
     "offering": {
       "term": "Winter 2027",
       "schedule": "Wednesday and Friday, 2:30–4:20 PM",
-      "location": "MGH 248",
+      "location": "ECE 403",
       "instructors": "June Lukuyu and Ahana Mukherjee",
       "flyer": "EE559_WI27_Flyer.pdf"
+    },
+    "image": {
+      "src": "cover-earth-night.jpg",
+      "alt": "City lights on Earth viewed from space"
     }
   },
   {
@@ -32,7 +36,11 @@
       "Develop frameworks for integrating renewable energy into existing infrastructure, accounting for technical, economic, and policy challenges.",
       "Critically evaluate the socioeconomic and environmental implications of renewable energy transitions, with attention to equity and sustainable development.",
       "Analyze successful and unsuccessful renewable energy projects and derive lessons for future applications."
-    ]
+    ],
+    "image": {
+      "src": "cover-wind-field.jpg",
+      "alt": "Wind turbines across a green field"
+    }
   },
   {
     "id": "ee454",
@@ -49,6 +57,10 @@
       "Apply power flow analysis to practical system planning and operation through a real-world case study project.",
       "Explain economic dispatch and unit commitment and relate them to system operation in practice.",
       "Explain frequency and voltage control and analyze control mechanisms using software simulations and case study insights."
-    ]
+    ],
+    "image": {
+      "src": "stock-grid.jpg",
+      "alt": "Electricity transmission lines at sunset"
+    }
   }
 ]
