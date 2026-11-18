@@ -3,7 +3,7 @@
     "id": "ee559",
     "code": "EE 559",
     "title": "Energy, Sustainability and Society",
-    "frequency": "Taught annually",
+    "frequency": "Taught annually · Winter or spring",
     "description": "A research-oriented exploration of the social, technical, and environmental dimensions of the clean energy transition. Through hands-on projects, real-world case studies, and class debates, students examine how energy infrastructure shapes society and the environment, who benefits from low-carbon transitions, and how context influences sustainable energy solutions.",
     "audience": "Graduate and senior undergraduate students interested in energy, development, and global systems.",
     "outcomes": [
@@ -40,7 +40,8 @@
     "image": {
       "src": "cover-wind-field.jpg",
       "alt": "Wind turbines across a green field"
-    }
+    },
+    "frequency": "Taught annually · Winter or spring"
   },
   {
     "id": "ee454",
@@ -61,6 +62,7 @@
     "image": {
       "src": "stock-grid.jpg",
       "alt": "Electricity transmission lines at sunset"
-    }
+    },
+    "frequency": "Taught annually · Autumn"
   }
 ]
